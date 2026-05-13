@@ -1,0 +1,15 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly Realsoft_ComunicaBalanca, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Realsoft_ComunicaBalanca.Balanca: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.IO.Ports.SerialPort _serialPort : Public, Static
+  Methods:
+    OpenPorta(String): PrivateScope, Public, Static, HideBySig
+    Pede(): PrivateScope, Public, Static, HideBySig
+    Recebe(): PrivateScope, Public, Static, HideBySig

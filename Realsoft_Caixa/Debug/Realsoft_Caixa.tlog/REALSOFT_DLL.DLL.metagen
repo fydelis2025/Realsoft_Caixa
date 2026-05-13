@@ -1,0 +1,158 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly Realsoft_DLL, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly MySql.Data, Version=6.4.4.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Realsoft_Criptografia: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Encrypt(String, String, String, String, Int32, String, Int32): PrivateScope, Public, Static, HideBySig
+    Decrypt(String, String, String, String, Int32, String, Int32): PrivateScope, Public, Static, HideBySig
+Class Realsoft_INI: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Espaco(Int32): PrivateScope, Public, Static, HideBySig
+    GetIniString(String, String, String, String): PrivateScope, Public, Static, HideBySig
+    nomeArquivoINI(): PrivateScope, Public, Static, HideBySig
+    gravaarquivoini(String, String, String): PrivateScope, Public, Static, HideBySig
+    CifraSenha(String): PrivateScope, Public, Static, HideBySig
+    geraHash(String): PrivateScope, Public, Static, HideBySig
+Class Realsoft_Sistema: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Boolean PermitirDigitarQuantidadeMercadoria : Public, Static
+    Boolean LiberarDigitoQuantidade : Public, Static
+    System.Decimal QtdDigitado : Public, Static
+    Boolean ItemPesado : Public, Static
+    Int32 ativo : Public, Static
+    System.String Chave : Public, Static
+    System.Decimal SubValor : Public, Static
+    Boolean ModoQuantidade : Public, Static
+    Int32 PosicaoInicialCodigoEtiqueta : Public, Static
+    Int32 PosicaoFinalCodigoEtiqueta : Public, Static
+    Int32 PosicaoInicialValorEtiqueta : Public, Static
+    Int32 PosicaoFinalValorEtiqueta : Public, Static
+    Int32 CodigoMercadoriaDigito : Public, Static
+    Boolean CodigoMercadoriaEtiquetaPorCodigoBarras : Public, Static
+    Boolean CodigoMercadoriaEtiquetaPorId : Public, Static
+    Boolean SelecionarEnterProdutoPesado : Public, Static
+    Boolean ModoBalanca : Public, Static
+    Int32 ModeloBalanca : Public, Static
+    Double PesoBalanca : Public, Static
+    Int32 CodigoProduto : Public, Static
+    Double ModoEtiqueta : Public, Static
+    Double Valor : Public, Static
+    Double PesoEtiqueta : Public, Static
+    Double ValorEtiqueta : Public, Static
+    Boolean Arredondar : Public, Static
+    Int32 Terminal : Public, Static
+    Boolean ModoConsulta : Public, Static
+    System.String NomeOperador : Public, Static
+    TipoEtiquetaCodigoBarras V : Public, Static
+    TipoConsulta Normal : Public, Static
+    System.String Opcao : Public, Static
+    System.String OpcaoForm : Public, Static
+    System.Collections.ArrayList Lista IsByValue : Public, Static, InitOnly
+    Boolean SimNao : Public, Static
+    Boolean Confirmado : Public, Static
+    Boolean Voltar : Public, Static
+    Boolean Digitado : Public, Static
+    Boolean ValorMonetario : Public, Static
+    Boolean AlfaNumerico : Public, Static
+    Boolean Data : Public, Static
+    Int32 TamanhoMinimo : Public, Static
+    Boolean InformarOpcao : Public, Static
+    Boolean InformarSimNao : Public, Static
+    Boolean DigitarInformacao : Public, Static
+    Boolean PermiteDesconto : Public, Static
+    System.String MensagemRetorno : Public, Static
+    Boolean FinalizarVenda : Public, Static
+    System.String ModeloImpressora : Public, Static
+    System.String ModoImpressao : Public, Static
+    System.String CaminhoPublicidade : Public, Static
+    System.Decimal SubTotalVenda : Public, Static
+    System.String Retorno : Public, Static
+    System.String Modo : Public, Static
+    System.String Ipservidor : Public, Static
+    Int32 IDCliente : Public, Static
+    Int32 iCOO : Public, Static
+    Int32 _ECF : Public, Static
+    Boolean _Prevenda : Public, Static
+    Boolean _Consulta : Public, Static
+    Boolean _ExcluirItem : Public, Static
+    System.String NumeroLaudoPAFECF : Public, Static
+    System.String RazaoSocial : Public, Static
+    System.String Cnpj : Public, Static
+    System.String InscEstadual : Public, Static
+    System.String InscMunicipal : Public, Static
+    System.String Ddd : Public, Static
+    System.String Telefone : Public, Static
+    System.String Endereco : Public, Static
+    System.String Contato : Public, Static
+    System.String NomePAFECF : Public, Static
+    System.String VersaoPAFECF : Public, Static
+    System.String VersaoERPAFECF : Public, Static
+    System.String CodigoMD5PAFECF : Public, Static
+    System.String _descriptografado : Public, Static
+    System.String _textocriptografado : Public, Static
+    System.String passPhrase : Public, Static
+    System.String saltValue : Public, Static
+    System.String hashAlgorithm : Public, Static
+    Int32 _interacao : Public, Static
+    System.String _initvector : Public, Static
+    Int32 keySize : Public, Static
+    System.String CalculaMD5 : Public, Static
+    System.String ChavePublicaEAD : Public, Static
+    System.String ChavePrivadaEAD : Public, Static
+    Boolean _contador : Public, Static
+    Int32 ExcluirItem : Public, Static
+    Int32 IDOperador : Public, Static
+    Int32 IDFiscal : Public, Static
+    Int16 SerialECF : Public, Static
+    Boolean LimparCampos : Public, Static
+    Boolean AtivarExcluirItem : Public, Static
+    Boolean ExibirDesconto : Public, Static
+    System.Decimal ValorDesconto : Public, Static
+    Int32 _Cupom : Public, Static
+    System.String SituacaoTributaria : Public, Static
+    System.String UnidadeMedida : Public, Static
+    Boolean RecuperarCupom : Public, Static
+    System.Threading.Thread LAguarde : Public, Static
+    System.String _Aguarde : Public, Static
+    System.String TipoQuantidade : Public, Static
+    System.Decimal LimiteCartao : Public, Static
+    System.Decimal ValorPago : Public, Static
+    Boolean CartaoLoja : Public, Static
+    System.Decimal Troco : Public, Static
+  Methods:
+    Espaco(Int32): PrivateScope, Public, Static, HideBySig
+    VerificaTurno(): PrivateScope, Public, Static, HideBySig
+Struct Realsoft_Sistema+TipoEtiquetaCodigoBarras: AutoLayout, AnsiClass, Class, NestedPublic, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    TipoEtiquetaCodigoBarras P = 0 : Public, Static, Literal, HasDefault
+Struct Realsoft_Sistema+TipoConsulta: AutoLayout, AnsiClass, Class, NestedPublic, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    TipoConsulta Ativo = 0 : Public, Static, Literal, HasDefault
+Class Realsoft_DLL.Realsoft_Conexao: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    MySql.Data.MySqlClient.MySqlConnection _ConectaMysql : Public, Static
+    System.Data.SqlClient.SqlConnection _ConectaSql : Public, Static
+  Methods:
+    getConectaMysql(): PrivateScope, Public, Static, HideBySig
+    getConectaSql(): PrivateScope, Public, Static, HideBySig
+    CreateParameter(IDbCommand, String, Enum DbType IsBoxed, Object): PrivateScope, Public, Static, HideBySig

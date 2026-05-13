@@ -1,0 +1,61 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly Button, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Class Megasoft.MegasoftButton: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.UserControl
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.String ButtonText 'get set' : 
+    System.Drawing.Color ForeColor 'get set' : 
+    System.Drawing.ContentAlignment TextAlign 'get set' : 
+    System.Drawing.Image Image 'get set' : 
+    System.Drawing.ContentAlignment ImageAlign 'get set' : 
+    System.Drawing.Size ImageSize 'get set' : 
+    Style ButtonStyle 'get set' : 
+    Int32 CornerRadius 'get set' : 
+    System.Drawing.Color HighlightColor 'get set' : 
+    System.Drawing.Color ButtonColor 'get set' : 
+    System.Drawing.Color GlowColor 'get set' : 
+    System.Drawing.Image BackImage 'get set' : 
+    System.Drawing.Color BaseColor 'get set' : 
+  Methods:
+    get_ButtonText(): PrivateScope, Public, HideBySig, SpecialName
+    set_ButtonText(String): PrivateScope, Public, HideBySig, SpecialName
+    get_ForeColor(): PrivateScope, Public, Virtual, HideBySig, SpecialName
+    set_ForeColor(Color): PrivateScope, Public, Virtual, HideBySig, SpecialName
+    get_TextAlign(): PrivateScope, Public, HideBySig, SpecialName
+    set_TextAlign(ContentAlignment): PrivateScope, Public, HideBySig, SpecialName
+    get_Image(): PrivateScope, Public, HideBySig, SpecialName
+    set_Image(Image): PrivateScope, Public, HideBySig, SpecialName
+    get_ImageAlign(): PrivateScope, Public, HideBySig, SpecialName
+    set_ImageAlign(ContentAlignment): PrivateScope, Public, HideBySig, SpecialName
+    get_ImageSize(): PrivateScope, Public, HideBySig, SpecialName
+    set_ImageSize(Size): PrivateScope, Public, HideBySig, SpecialName
+    get_ButtonStyle(): PrivateScope, Public, HideBySig, SpecialName
+    set_ButtonStyle(Style): PrivateScope, Public, HideBySig, SpecialName
+    get_CornerRadius(): PrivateScope, Public, HideBySig, SpecialName
+    set_CornerRadius(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_HighlightColor(): PrivateScope, Public, HideBySig, SpecialName
+    set_HighlightColor(Color): PrivateScope, Public, HideBySig, SpecialName
+    get_ButtonColor(): PrivateScope, Public, HideBySig, SpecialName
+    set_ButtonColor(Color): PrivateScope, Public, HideBySig, SpecialName
+    get_GlowColor(): PrivateScope, Public, HideBySig, SpecialName
+    set_GlowColor(Color): PrivateScope, Public, HideBySig, SpecialName
+    get_BackImage(): PrivateScope, Public, HideBySig, SpecialName
+    set_BackImage(Image): PrivateScope, Public, HideBySig, SpecialName
+    get_BaseColor(): PrivateScope, Public, HideBySig, SpecialName
+    set_BaseColor(Color): PrivateScope, Public, HideBySig, SpecialName
+Struct Megasoft.MegasoftButton+Style: AutoLayout, AnsiClass, Class, NestedPublic, Sealed
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    Style Default = 0 : Public, Static, Literal, HasDefault
+    Style Flat = 1 : Public, Static, Literal, HasDefault

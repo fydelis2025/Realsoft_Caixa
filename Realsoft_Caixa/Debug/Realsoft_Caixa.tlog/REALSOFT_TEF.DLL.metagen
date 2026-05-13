@@ -1,0 +1,36 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly Realsoft_TEF, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Realsoft_TEF.RealsoftTEF: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    IniciarVendaTEF(Int32, String, String, String, String, String, String): PrivateScope, Public, Static, HideBySig
+    ExecutaVendaTEF(): PrivateScope, Public, Static, HideBySig
+    EscreveMensagem(String): PrivateScope, Public, Static, HideBySig
+    LeCartao(String): PrivateScope, Public, Static, HideBySig
+    LeSenhaPinpad(Byte[], Byte[]): PrivateScope, Public, Static, HideBySig
+    Configura(String, String, String): PrivateScope, Public, Static, HideBySig
+    DestronarMensagem(): PrivateScope, Public, Static, HideBySig
+Class Realsoft_TEF.Realsoft_ConfiguraTEF: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 retorno : Public, Static
+    Int32 comando : Public, Static
+    Int32 continua : Public, Static
+    Int32 tipoCampo : Public, Static
+    Int16 tamanhoMinimo : Public, Static
+    Int16 tamanhoMaximo : Public, Static
+    Byte[] buffer : Public, Static
+    Int32 nVezes : Public, Static
+    Int32 _tamanhoRecebido : Public, Static
+    Boolean _configurado : Public, Static
+    Byte[] _recebido : Public, Static
+    System.String Message : Public, Static
+    Byte[] _trilha1 : Public, Static
+    Byte[] _trilha2 : Public, Static
+    Int32 tempo : Public, Static
+    Boolean AguardaPasseCartao : Public, Static
+    Byte[] _chaveseguranca : Public, Static
+    Byte[] _Senha : Public, Static

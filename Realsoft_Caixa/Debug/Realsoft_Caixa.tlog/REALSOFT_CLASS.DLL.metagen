@@ -1,0 +1,1370 @@
+  Realsoft_Class.FormChave.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly Realsoft_Class, Version=1.3.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly MySql.Data, Version=6.4.4.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d: 
+	hash=None, flags=None
+Assembly MySqlBackup, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=None, flags=None
+Assembly Realsoft_DLL, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Management, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Management.Instrumentation, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Realsoft_Class.Balanca: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    AbrePorta(): PrivateScope, Public, Static, HideBySig
+    Recebe(): PrivateScope, Public, Static, HideBySig
+Class Realsoft_Class.Realsoft_FormaPgto: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 idforma : Public
+    System.String Descricao : Public
+    Int32 Codigo : Public
+    System.Decimal ValorTotal : Public
+    System.Decimal Resto : Public
+    System.Decimal Troco : Public
+    System.Decimal Saldo : Public
+    Boolean Confirma : Public
+  Methods:
+    setID(Int32): PrivateScope, Public, HideBySig
+    getID(): PrivateScope, Public, HideBySig
+    setCodigo(Int32): PrivateScope, Public, HideBySig
+    getCodigo(): PrivateScope, Public, HideBySig
+    setValorTotal(Decimal): PrivateScope, Public, HideBySig
+    getValorTotal(): PrivateScope, Public, HideBySig
+    setResto(Decimal): PrivateScope, Public, HideBySig
+    getResto(): PrivateScope, Public, HideBySig
+    setTroco(Decimal): PrivateScope, Public, HideBySig
+    getTroco(): PrivateScope, Public, HideBySig
+    setSaldo(Decimal): PrivateScope, Public, HideBySig
+    getSaldo(): PrivateScope, Public, HideBySig
+    setConfirma(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    getConfirma(): PrivateScope, Public, HideBySig
+Class Realsoft_Class.Mercadoria: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 ID : Public
+    Int32 Turno : Public
+    Int32 Filial : Public
+    Int32 Terminal : Public
+    Int32 ECF : Public
+    Int32 Item : Public
+    Int32 CupomFiscal : Public
+    System.String EAN : Public
+    System.String DescricaoMercadoria : Public
+    System.String Quantidade : Public
+    Int32 ContadorECF : Public
+    System.Decimal ValorTotal : Public
+    System.Decimal Desconto : Public
+    System.Decimal PrecoVenda : Public
+    System.Decimal Acrescimo : Public
+    System.Decimal TotalLiquido : Public
+    System.Decimal Troco : Public
+    System.String TipoRecebimento : Public
+    System.DateTime DataCupomFiscal : Public
+    System.DateTime DataCriacao : Public
+    System.String Fiscal : Public
+    System.String Operador : Public
+    System.String OperadorCancelamento : Public
+    System.DateTime DataCancelamento : Public
+    Boolean Finalizado : Public
+    Boolean Cancelado : Public
+    Boolean Migrado : Public
+    System.String Criptografia : Public
+    Boolean Fracionado : Public
+    System.Decimal CodigoProduto : Public
+    System.String Unidade : Public
+    Int16 NumeroSerial : Public
+    System.Decimal Codigo : Public
+    System.String SituacaoTributaria : Public
+    System.Decimal Aliquota : Public
+    System.String Grupo : Public
+    System.String SubGrupo : Public
+    System.String Familia : Public
+    System.String Secao : Public
+    System.String Origem : Public
+    System.String CST : Public
+    System.Decimal Conversao : Public
+    System.Decimal CodigoNCM : Public
+    Boolean Ativo : Public
+    Int32 Validade : Public
+    System.String PisCofins : Public
+    System.Decimal ValorPis : Public
+    System.Decimal ValorCofins : Public
+    System.Decimal CFOP : Public
+    System.Decimal CFOPTransferencia : Public
+    System.Decimal CFOPDevolucao : Public
+    System.Decimal Peso : Public
+    System.Decimal ICMS : Public
+    System.Decimal BaseCalculo : Public
+    System.Decimal BaseCST : Public
+    System.Decimal MVA : Public
+    System.Decimal IPI : Public
+    System.Decimal PrecoCusto : Public
+    System.String DescricaoNCM : Public
+    System.String CPFCNPJ : Public
+    System.String Fabricante : Public
+  Methods:
+    setAtivo(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    getAtivo(): PrivateScope, Public, HideBySig
+    setValidade(Int32): PrivateScope, Public, HideBySig
+    getValidade(): PrivateScope, Public, HideBySig
+    setPisCofins(String): PrivateScope, Public, HideBySig
+    getPisCofins(): PrivateScope, Public, HideBySig
+    setValorPis(Decimal): PrivateScope, Public, HideBySig
+    getValorPis(): PrivateScope, Public, HideBySig
+    setValorCofins(Decimal): PrivateScope, Public, HideBySig
+    getValorCofins(): PrivateScope, Public, HideBySig
+    setCFOP(Decimal): PrivateScope, Public, HideBySig
+    getCFOP(): PrivateScope, Public, HideBySig
+    setCFOPTransferencia(Decimal): PrivateScope, Public, HideBySig
+    getCFOPTransferencia(): PrivateScope, Public, HideBySig
+    setCFOPDevolucao(Decimal): PrivateScope, Public, HideBySig
+    getCFOPDevolucao(): PrivateScope, Public, HideBySig
+    setPeso(Decimal): PrivateScope, Public, HideBySig
+    getPeso(): PrivateScope, Public, HideBySig
+    setICMS(Decimal): PrivateScope, Public, HideBySig
+    getICMS(): PrivateScope, Public, HideBySig
+    setBaseCalculo(Decimal): PrivateScope, Public, HideBySig
+    getBaseCalculo(): PrivateScope, Public, HideBySig
+    setBaseCST(Decimal): PrivateScope, Public, HideBySig
+    getBaseCST(): PrivateScope, Public, HideBySig
+    setMVA(Decimal): PrivateScope, Public, HideBySig
+    getMVA(): PrivateScope, Public, HideBySig
+    setIPI(Decimal): PrivateScope, Public, HideBySig
+    getIPI(): PrivateScope, Public, HideBySig
+    setPrecoCusto(Decimal): PrivateScope, Public, HideBySig
+    getPrecoCusto(): PrivateScope, Public, HideBySig
+    setDescricaoNCM(String): PrivateScope, Public, HideBySig
+    getDescricaoNCM(): PrivateScope, Public, HideBySig
+    setCPFCNPJ(String): PrivateScope, Public, HideBySig
+    getCPFCNPJ(): PrivateScope, Public, HideBySig
+    setFabricante(String): PrivateScope, Public, HideBySig
+    getFabricante(): PrivateScope, Public, HideBySig
+    setID(Int32): PrivateScope, Public, HideBySig
+    getID(): PrivateScope, Public, HideBySig
+    setTurno(Int32): PrivateScope, Public, HideBySig
+    getTurno(): PrivateScope, Public, HideBySig
+    setFilial(Int32): PrivateScope, Public, HideBySig
+    getFilial(): PrivateScope, Public, HideBySig
+    setTerminal(Int32): PrivateScope, Public, HideBySig
+    getTerminal(): PrivateScope, Public, HideBySig
+    setECF(Int32): PrivateScope, Public, HideBySig
+    getECF(): PrivateScope, Public, HideBySig
+    setCupomFiscal(Int32): PrivateScope, Public, HideBySig
+    getCupomFiscal(): PrivateScope, Public, HideBySig
+    setEAN(String): PrivateScope, Public, HideBySig
+    getEAN(): PrivateScope, Public, HideBySig
+    setDescricaoMercadoria(String): PrivateScope, Public, HideBySig
+    getDescricaoMercadoria(): PrivateScope, Public, HideBySig
+    setQuantidade(String): PrivateScope, Public, HideBySig
+    getQuantidade(): PrivateScope, Public, HideBySig
+    setContadorECF(Int32): PrivateScope, Public, HideBySig
+    getContadorECF(): PrivateScope, Public, HideBySig
+    setValorTotal(Decimal): PrivateScope, Public, HideBySig
+    getValorTotal(): PrivateScope, Public, HideBySig
+    setDesconto(Decimal): PrivateScope, Public, HideBySig
+    getDesconto(): PrivateScope, Public, HideBySig
+    setAcrecimo(Decimal): PrivateScope, Public, HideBySig
+    getAcrescimo(): PrivateScope, Public, HideBySig
+    setTotalLiquido(Decimal): PrivateScope, Public, HideBySig
+    getTotalLiquido(): PrivateScope, Public, HideBySig
+    setTroco(Decimal): PrivateScope, Public, HideBySig
+    getTroco(): PrivateScope, Public, HideBySig
+    setTipoRecebimento(String): PrivateScope, Public, HideBySig
+    getTipoRecebimento(): PrivateScope, Public, HideBySig
+    setDataCupomFiscal(DateTime): PrivateScope, Public, HideBySig
+    getDataCupomFiscal(): PrivateScope, Public, HideBySig
+    setDataCriacao(DateTime): PrivateScope, Public, HideBySig
+    getDataCriacao(): PrivateScope, Public, HideBySig
+    setFiscal(String): PrivateScope, Public, HideBySig
+    getFiscal(): PrivateScope, Public, HideBySig
+    setOperador(String): PrivateScope, Public, HideBySig
+    getOperador(): PrivateScope, Public, HideBySig
+    setOperadorCancelamento(String): PrivateScope, Public, HideBySig
+    getOperadorCancelamento(): PrivateScope, Public, HideBySig
+    setDataCancelamento(DateTime): PrivateScope, Public, HideBySig
+    getDataCancelamento(): PrivateScope, Public, HideBySig
+    setFinalizado(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    getFinalizado(): PrivateScope, Public, HideBySig
+    setCancelado(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    getCancelado(): PrivateScope, Public, HideBySig
+    setMigrado(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    getMigrado(): PrivateScope, Public, HideBySig
+    setCriptografia(String): PrivateScope, Public, HideBySig
+    getCriptografia(): PrivateScope, Public, HideBySig
+    setFracionado(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    getFracionado(): PrivateScope, Public, HideBySig
+    setCodigoProduto(Decimal): PrivateScope, Public, HideBySig
+    getCodigoProduto(): PrivateScope, Public, HideBySig
+    setUnidade(String): PrivateScope, Public, HideBySig
+    getUnidade(): PrivateScope, Public, HideBySig
+    setItem(Int32): PrivateScope, Public, HideBySig
+    getItem(): PrivateScope, Public, HideBySig
+    setNumeroSerial(Int16): PrivateScope, Public, HideBySig
+    getNumeroSerial(): PrivateScope, Public, HideBySig
+    setCodigo(Decimal): PrivateScope, Public, HideBySig
+    getCodigo(): PrivateScope, Public, HideBySig
+    setSituacaoTributaria(String): PrivateScope, Public, HideBySig
+    getSituacaoTributaria(): PrivateScope, Public, HideBySig
+    setAliquota(Decimal): PrivateScope, Public, HideBySig
+    getAliquota(): PrivateScope, Public, HideBySig
+    setGrupo(String): PrivateScope, Public, HideBySig
+    getGrupo(): PrivateScope, Public, HideBySig
+    setSubGrupo(String): PrivateScope, Public, HideBySig
+    getSubGrupo(): PrivateScope, Public, HideBySig
+    setFamilia(String): PrivateScope, Public, HideBySig
+    getFamilia(): PrivateScope, Public, HideBySig
+    setSecao(String): PrivateScope, Public, HideBySig
+    getSecao(): PrivateScope, Public, HideBySig
+    setOrigem(String): PrivateScope, Public, HideBySig
+    getOrigem(): PrivateScope, Public, HideBySig
+    setCST(String): PrivateScope, Public, HideBySig
+    getCST(): PrivateScope, Public, HideBySig
+    setConversao(Decimal): PrivateScope, Public, HideBySig
+    getConversao(): PrivateScope, Public, HideBySig
+    setCodigoNCM(Decimal): PrivateScope, Public, HideBySig
+    getCodigoNCM(): PrivateScope, Public, HideBySig
+Class Realsoft_Class.VerificaOperador: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 ID : Public
+    Int32 OPerador : Public
+    Boolean Liberado : Public
+    Boolean Finalizado : Public
+    System.DateTime DataCriacao : Public
+    Int32 IDFiscal : Public
+    Int32 Turno : Public
+  Methods:
+    setID(Int32): PrivateScope, Public, HideBySig
+    getID(): PrivateScope, Public, HideBySig
+    setOPerador(Int32): PrivateScope, Public, HideBySig
+    getOPerador(): PrivateScope, Public, HideBySig
+    setLiberado(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    getLiberado(): PrivateScope, Public, HideBySig
+    setFinalizado(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    getFinalizado(): PrivateScope, Public, HideBySig
+    setDataCriacao(DateTime): PrivateScope, Public, HideBySig
+    getDataCriacao(): PrivateScope, Public, HideBySig
+    setFiscal(Int32): PrivateScope, Public, HideBySig
+    getFiscal(): PrivateScope, Public, HideBySig
+    setTurno(Int32): PrivateScope, Public, HideBySig
+    getTurno(): PrivateScope, Public, HideBySig
+Class Realsoft_Class.Movimentacao: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 ID : Public
+    Int32 OPerador : Public
+    Int32 Fiscal : Public
+    Int32 Turno : Public
+    Int32 Tipo : Public
+    Int32 ECF : Public
+    System.String DescricaoMov : Public
+    System.String Movimentacao1 : Public
+    Boolean Liberado : Public
+    Boolean Finalizado : Public
+    System.DateTime DataCriacao : Public
+    System.DateTime DataMovimentacao : Public
+    System.Decimal Valor : Public
+  Methods:
+    setMovimentacao1(String): PrivateScope, Public, HideBySig
+    getMovimentacao1(): PrivateScope, Public, HideBySig
+    setECF(Int32): PrivateScope, Public, HideBySig
+    getECF(): PrivateScope, Public, HideBySig
+    setID(Int32): PrivateScope, Public, HideBySig
+    getID(): PrivateScope, Public, HideBySig
+    setOperador(Int32): PrivateScope, Public, HideBySig
+    getOperador(): PrivateScope, Public, HideBySig
+    setFiscal(Int32): PrivateScope, Public, HideBySig
+    getFiscal(): PrivateScope, Public, HideBySig
+    setTurno(Int32): PrivateScope, Public, HideBySig
+    getTurno(): PrivateScope, Public, HideBySig
+    setTipo(Int32): PrivateScope, Public, HideBySig
+    getTipo(): PrivateScope, Public, HideBySig
+    setDescricaoMov(String): PrivateScope, Public, HideBySig
+    getDescricaoMov(): PrivateScope, Public, HideBySig
+    setLiberado(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    getLiberado(): PrivateScope, Public, HideBySig
+    setFinalizado(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    getFinalizado(): PrivateScope, Public, HideBySig
+    setDataCriacao(DateTime): PrivateScope, Public, HideBySig
+    getDataCriacao(): PrivateScope, Public, HideBySig
+    setDataMovimentacao(DateTime): PrivateScope, Public, HideBySig
+    getDataMovimentacao(): PrivateScope, Public, HideBySig
+    setValor(Decimal): PrivateScope, Public, HideBySig
+    getValor(): PrivateScope, Public, HideBySig
+Class Realsoft_Class.Login: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 ID : Public
+    Int32 IDFiscal : Public
+    System.String Nome : Public
+    System.String Descricao : Public
+  Methods:
+    setID(Int32): PrivateScope, Public, HideBySig
+    getID(): PrivateScope, Public, HideBySig
+    setNome(String): PrivateScope, Public, HideBySig
+    getNome(): PrivateScope, Public, HideBySig
+    setDescricao(String): PrivateScope, Public, HideBySig
+    getDescricao(): PrivateScope, Public, HideBySig
+    setFiscal(Int32): PrivateScope, Public, HideBySig
+    getFiscal(): PrivateScope, Public, HideBySig
+Class Realsoft_Class.Filial: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 ID : Public
+    System.String RazaoSocial : Public
+    System.String Endereco : Public
+    System.String CNPJ : Public
+  Methods:
+    setID(Int32): PrivateScope, Public, HideBySig
+    getID(): PrivateScope, Public, HideBySig
+    setRazaoSocial(String): PrivateScope, Public, HideBySig
+    getRazaoSocial(): PrivateScope, Public, HideBySig
+    setEndereco(String): PrivateScope, Public, HideBySig
+    getEndereco(): PrivateScope, Public, HideBySig
+    setCNPJ(String): PrivateScope, Public, HideBySig
+    getCNPJ(): PrivateScope, Public, HideBySig
+Class Realsoft_Class.Realsoft_Promocao: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.ValueType PrecoVenda Decimal IsBoxed : Public
+    System.String Descricao : Public
+Class Realsoft_Class.ReducaoZ: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 ID : Public
+    Int32 Empresa : Public
+    Int32 PDV : Public
+    Int32 ContadorReducao : Public
+    Int32 ContadorPDV : Public
+    Int32 ReinicioreducaoZ : Public
+    System.DateTime DataTransacao : Public
+    System.DateTime DataEmissao : Public
+    System.DateTime HoraEmissao : Public
+    System.Decimal VendaBruta : Public
+    System.Decimal Totalizador : Public
+    Int32 Operador : Public
+    Int32 Fiscal : Public
+    Boolean Migrado : Public
+  Methods:
+    setID(Int32): PrivateScope, Public, HideBySig
+    getID(): PrivateScope, Public, HideBySig
+    setEmpersa(Int32): PrivateScope, Public, HideBySig
+    getEmpresa(): PrivateScope, Public, HideBySig
+    setPDV(Int32): PrivateScope, Public, HideBySig
+    getPDV(): PrivateScope, Public, HideBySig
+    setContadorReducao(Int32): PrivateScope, Public, HideBySig
+    getContadorReducao(): PrivateScope, Public, HideBySig
+    setContadorPDV(Int32): PrivateScope, Public, HideBySig
+    getContadorPDV(): PrivateScope, Public, HideBySig
+    setReinicioreducaoZ(Int32): PrivateScope, Public, HideBySig
+    getReinicioreducaoZ(): PrivateScope, Public, HideBySig
+    setDataTransacao(DateTime): PrivateScope, Public, HideBySig
+    getDataTransacao(): PrivateScope, Public, HideBySig
+    setDataEmissao(DateTime): PrivateScope, Public, HideBySig
+    getDataEmissao(): PrivateScope, Public, HideBySig
+    setHoraEmissao(DateTime): PrivateScope, Public, HideBySig
+    getHoraEmissao(): PrivateScope, Public, HideBySig
+    setVendaBruta(Decimal): PrivateScope, Public, HideBySig
+    getVendaBruta(): PrivateScope, Public, HideBySig
+    setTotalizador(Decimal): PrivateScope, Public, HideBySig
+    getTotalizador(): PrivateScope, Public, HideBySig
+    setOperador(Int32): PrivateScope, Public, HideBySig
+    getOperador(): PrivateScope, Public, HideBySig
+    setFiscal(Int32): PrivateScope, Public, HideBySig
+    getFiscal(): PrivateScope, Public, HideBySig
+    setMigrado(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    getMigrado(): PrivateScope, Public, HideBySig
+Class Realsoft_Class.Realsoft_Totalizador: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 ID : Public
+    Int32 Empresa : Public
+    Int32 PDV : Public
+    Int32 ReducaoZ : Public
+    Int32 ContadorReducaoZ : Public
+    Int32 ContadorPDV : Public
+    System.String Aliquota : Public
+    System.String Totalizador : Public
+    System.Decimal Valor : Public
+  Methods:
+    setID(Int32): PrivateScope, Public, HideBySig
+    getID(): PrivateScope, Public, HideBySig
+    setEmpresa(Int32): PrivateScope, Public, HideBySig
+    getEmpresa(): PrivateScope, Public, HideBySig
+    setPDV(Int32): PrivateScope, Public, HideBySig
+    getPDV(): PrivateScope, Public, HideBySig
+    setReducaoZ(Int32): PrivateScope, Public, HideBySig
+    getReducaoZ(): PrivateScope, Public, HideBySig
+    setContadorReducaoZ(Int32): PrivateScope, Public, HideBySig
+    getContadorReducaoZ(): PrivateScope, Public, HideBySig
+    setContadorPDV(Int32): PrivateScope, Public, HideBySig
+    getContadorPDV(): PrivateScope, Public, HideBySig
+    setAliquota(String): PrivateScope, Public, HideBySig
+    getAliquota(): PrivateScope, Public, HideBySig
+    setTotalizador(String): PrivateScope, Public, HideBySig
+    getTotalizador(): PrivateScope, Public, HideBySig
+    setValor(Decimal): PrivateScope, Public, HideBySig
+    getValor(): PrivateScope, Public, HideBySig
+Class Realsoft_Class.Realsoft_PagamentoCupomFiscal: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 ID : Public
+    Int32 Empresa : Public
+    Int32 ECF : Public
+    Int32 CupomFiscal : Public
+    System.String FormaPagamento : Public
+    System.Decimal TotalVenda : Public
+    System.Decimal ValorPago : Public
+    System.Decimal Troco : Public
+    Boolean Parcelado : Public
+    Int32 NumeroParcelas : Public
+    Boolean TransacaoTef : Public
+    Int32 NSU : Public
+    System.String Bandeira : Public
+    System.String NumeroFinalizacao : Public
+    Boolean Cancelado : Public
+    System.DateTime DataTransacao : Public
+    System.DateTime DataCriacao : Public
+    Int32 Operador : Public
+    Int32 Turno : Public
+  Methods:
+    setID(Int32): PrivateScope, Public, HideBySig
+    getID(): PrivateScope, Public, HideBySig
+    setTurno(Int32): PrivateScope, Public, HideBySig
+    getTurno(): PrivateScope, Public, HideBySig
+    setOperador(Int32): PrivateScope, Public, HideBySig
+    getOperador(): PrivateScope, Public, HideBySig
+    setEmpresa(Int32): PrivateScope, Public, HideBySig
+    getEmpresa(): PrivateScope, Public, HideBySig
+    setECF(Int32): PrivateScope, Public, HideBySig
+    getECF(): PrivateScope, Public, HideBySig
+    setCupomFiscal(Int32): PrivateScope, Public, HideBySig
+    getCupomFiscal(): PrivateScope, Public, HideBySig
+    setFormaPagamento(String): PrivateScope, Public, HideBySig
+    getFormaPagamento(): PrivateScope, Public, HideBySig
+    setTotalVenda(Decimal): PrivateScope, Public, HideBySig
+    getTotalVenda(): PrivateScope, Public, HideBySig
+    setValorPago(Decimal): PrivateScope, Public, HideBySig
+    getValorPago(): PrivateScope, Public, HideBySig
+    setTroco(Decimal): PrivateScope, Public, HideBySig
+    getTroco(): PrivateScope, Public, HideBySig
+    setParcelado(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    getParcelado(): PrivateScope, Public, HideBySig
+    setNumeroParcelas(Int32): PrivateScope, Public, HideBySig
+    getNumeroParcelas(): PrivateScope, Public, HideBySig
+    setTransacaoTef(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    getTransacaoTef(): PrivateScope, Public, HideBySig
+    setNSU(Int32): PrivateScope, Public, HideBySig
+    getNSU(): PrivateScope, Public, HideBySig
+    setBandeira(String): PrivateScope, Public, HideBySig
+    getBandeira(): PrivateScope, Public, HideBySig
+    setNumeroFinalizacao(String): PrivateScope, Public, HideBySig
+    getNumeroFinalizacao(): PrivateScope, Public, HideBySig
+    setCancelado(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    getCancelado(): PrivateScope, Public, HideBySig
+    setDataTransacao(DateTime): PrivateScope, Public, HideBySig
+    getDataTransacao(): PrivateScope, Public, HideBySig
+    setDataCriacao(DateTime): PrivateScope, Public, HideBySig
+    getDataCriacao(): PrivateScope, Public, HideBySig
+Class Realsoft_Class.Realsoft_Tesouraria: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 ID : Public
+    Int32 Filial : Public
+    Int32 ECF : Public
+    Int32 Empresa : Public
+    Boolean Parcial : Public
+    Int32 Fiscal : Public
+    Int32 Operador : Public
+    Int32 Turno : Public
+    System.DateTime DataFechamento : Public
+    System.DateTime HoraFechamento : Public
+    System.Decimal ValorInicial : Public
+    System.Decimal Suprimento : Public
+    System.Decimal Sangria : Public
+    System.Decimal TotalDinheiro : Public
+    System.Decimal TotalCredito : Public
+    System.Decimal TotalDebito : Public
+    System.Decimal TotalCreditoPOS : Public
+    System.Decimal TotalDebitoPOS : Public
+    System.Decimal TotalCheque : Public
+    System.Decimal TotalLoja : Public
+    System.Decimal TotalFechamento : Public
+    Boolean Finalizado : Public
+    Boolean Migrado : Public
+    System.String Movimentacao : Public
+    System.Decimal Retirada : Public
+    System.Decimal ValorMovimentacao : Public
+    System.DateTime DataCriacao : Public
+  Methods:
+    setID(Int32): PrivateScope, Public, HideBySig
+    getID(): PrivateScope, Public, HideBySig
+    setEmpresa(Int32): PrivateScope, Public, HideBySig
+    getEmpresa(): PrivateScope, Public, HideBySig
+    setValorMovimentacao(Decimal): PrivateScope, Public, HideBySig
+    getValorMovimentacao(): PrivateScope, Public, HideBySig
+    setDataCriacao(DateTime): PrivateScope, Public, HideBySig
+    getDataCriacao(): PrivateScope, Public, HideBySig
+    setTurno(Int32): PrivateScope, Public, HideBySig
+    getTurno(): PrivateScope, Public, HideBySig
+    setMovimentacao(String): PrivateScope, Public, HideBySig
+    getMovimentacao(): PrivateScope, Public, HideBySig
+    setFilial(Int32): PrivateScope, Public, HideBySig
+    getFilial(): PrivateScope, Public, HideBySig
+    setECF(Int32): PrivateScope, Public, HideBySig
+    getECF(): PrivateScope, Public, HideBySig
+    setParcial(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    getParcial(): PrivateScope, Public, HideBySig
+    setFiscal(Int32): PrivateScope, Public, HideBySig
+    getFiscal(): PrivateScope, Public, HideBySig
+    setOperador(Int32): PrivateScope, Public, HideBySig
+    getOperador(): PrivateScope, Public, HideBySig
+    setDataFechamento(DateTime): PrivateScope, Public, HideBySig
+    getDataFechamento(): PrivateScope, Public, HideBySig
+    setHoraFechamento(DateTime): PrivateScope, Public, HideBySig
+    getHoraFechamento(): PrivateScope, Public, HideBySig
+    setValorInicial(Decimal): PrivateScope, Public, HideBySig
+    getValorInicial(): PrivateScope, Public, HideBySig
+    setSuprimento(Decimal): PrivateScope, Public, HideBySig
+    getSuprimento(): PrivateScope, Public, HideBySig
+    setSangria(Decimal): PrivateScope, Public, HideBySig
+    getSangria(): PrivateScope, Public, HideBySig
+    setTotalDinheiro(Decimal): PrivateScope, Public, HideBySig
+    getTotalDinheiro(): PrivateScope, Public, HideBySig
+    setTotalCredito(Decimal): PrivateScope, Public, HideBySig
+    getTotalCredito(): PrivateScope, Public, HideBySig
+    setTotalDebito(Decimal): PrivateScope, Public, HideBySig
+    getTotalDebito(): PrivateScope, Public, HideBySig
+    setTotalCreditoPOS(Decimal): PrivateScope, Public, HideBySig
+    getTotalCreditoPOS(): PrivateScope, Public, HideBySig
+    setTotalDebitoPOS(Decimal): PrivateScope, Public, HideBySig
+    getTotalDebitoPOS(): PrivateScope, Public, HideBySig
+    setTotalCheque(Decimal): PrivateScope, Public, HideBySig
+    getTotalCheque(): PrivateScope, Public, HideBySig
+    setTotalLoja(Decimal): PrivateScope, Public, HideBySig
+    getTotalLoja(): PrivateScope, Public, HideBySig
+    setTotalFechamento(Decimal): PrivateScope, Public, HideBySig
+    getTotalFechamento(): PrivateScope, Public, HideBySig
+    setFinalizado(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    getFinalizado(): PrivateScope, Public, HideBySig
+    setMigrado(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    getMigrado(): PrivateScope, Public, HideBySig
+    setRetirada(Decimal): PrivateScope, Public, HideBySig
+    getRetirada(): PrivateScope, Public, HideBySig
+Class Realsoft_Class.Realsoft_CancelamentoCupomFiscal: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 ID : Public
+    Int32 Filial : Public
+    Int32 ECF : Public
+    Int32 CupomFiscal : Public
+    System.DateTime DataCancelamento : Public
+    Int32 Fiscal : Public
+    Boolean Cancelado : Public
+    System.DateTime DataCriacao : Public
+  Methods:
+    setID(Int32): PrivateScope, Public, HideBySig
+    getID(): PrivateScope, Public, HideBySig
+    setFilial(Int32): PrivateScope, Public, HideBySig
+    getFilial(): PrivateScope, Public, HideBySig
+    setECF(Int32): PrivateScope, Public, HideBySig
+    getECF(): PrivateScope, Public, HideBySig
+    setCupomFiscal(Int32): PrivateScope, Public, HideBySig
+    getCupomFiscal(): PrivateScope, Public, HideBySig
+    setDataCancelamento(DateTime): PrivateScope, Public, HideBySig
+    getDataCancelamento(): PrivateScope, Public, HideBySig
+    setFiscal(Int32): PrivateScope, Public, HideBySig
+    getFiscal(): PrivateScope, Public, HideBySig
+    setCancelado(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    getCancelado(): PrivateScope, Public, HideBySig
+    setDataCriacao(DateTime): PrivateScope, Public, HideBySig
+    getDataCriacao(): PrivateScope, Public, HideBySig
+Class Realsoft_Class.Realsoft_Grupo: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String Descricao : Public
+  Methods:
+    setDescricao(String): PrivateScope, Public, HideBySig
+    getDescricao(): PrivateScope, Public, HideBySig
+Class Realsoft_Class.Realsoft_SubGrupo: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String Descricao : Public
+  Methods:
+    setDescricao(String): PrivateScope, Public, HideBySig
+    getDescricao(): PrivateScope, Public, HideBySig
+Class Realsoft_Class.Realsoft_Familia: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String Descricao : Public
+  Methods:
+    setDescricao(String): PrivateScope, Public, HideBySig
+    getDescricao(): PrivateScope, Public, HideBySig
+Class Realsoft_Class.Realsoft_Secao: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String Descricao : Public
+  Methods:
+    setDescricao(String): PrivateScope, Public, HideBySig
+    getDescricao(): PrivateScope, Public, HideBySig
+Class Realsoft_Class.Realsoft_CST: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 Codigo : Public
+    System.String Descricao : Public
+  Methods:
+    setCodigo(Int32): PrivateScope, Public, HideBySig
+    getCodigo(): PrivateScope, Public, HideBySig
+    setDescricao(String): PrivateScope, Public, HideBySig
+    getDescricao(): PrivateScope, Public, HideBySig
+Class Realsoft_Class.Realsoft_CartaoLoja: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 ID : Public
+    Int32 Cliente : Public
+    Int32 Filial : Public
+    Int32 Terminal : Public
+    Int32 Produto : Public
+    Int32 Parcela : Public
+    System.String Operador : Public
+    System.String NumeroCartao : Public
+    Int32 ECF : Public
+    System.Decimal ValorPago : Public
+    System.DateTime Data : Public
+    System.String Autorizacao : Public
+    Boolean Finalizado : Public
+    Boolean TransacaoConfirmado : Public
+    Boolean TransacaoSaque : Public
+    System.DateTime DataCriacao : Public
+    System.DateTime HoraCupomFiscal : Public
+    System.DateTime DataCupomFiscal : Public
+    Int32 CupomFiscal : Public
+    System.DateTime DataTransacao : Public
+    System.DateTime HoraTransacao : Public
+    System.DateTime DataCompra : Public
+    System.Decimal ValorTotalCompra : Public
+    System.Decimal ValorTransacao : Public
+    Int32 QuantidadeParcelas : Public
+  Methods:
+    setID(Int32): PrivateScope, Public, HideBySig
+    getID(): PrivateScope, Public, HideBySig
+    setQuantidadeParcelas(Int32): PrivateScope, Public, HideBySig
+    getQuantidadeParcelas(): PrivateScope, Public, HideBySig
+    setValorTransacao(Decimal): PrivateScope, Public, HideBySig
+    getValorTransacao(): PrivateScope, Public, HideBySig
+    setValorTotalCompra(Decimal): PrivateScope, Public, HideBySig
+    getValorTotalCompra(): PrivateScope, Public, HideBySig
+    setDataCompra(DateTime): PrivateScope, Public, HideBySig
+    getDataCompra(): PrivateScope, Public, HideBySig
+    setHoraTransacao(DateTime): PrivateScope, Public, HideBySig
+    getHoraTransacao(): PrivateScope, Public, HideBySig
+    setDataTransacao(DateTime): PrivateScope, Public, HideBySig
+    getDataTransacao(): PrivateScope, Public, HideBySig
+    setCupomFiscal(Int32): PrivateScope, Public, HideBySig
+    getCupomFiscal(): PrivateScope, Public, HideBySig
+    setCliente(Int32): PrivateScope, Public, HideBySig
+    getCliente(): PrivateScope, Public, HideBySig
+    setTransacaoConfirmado(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    getTransacaoConfirmado(): PrivateScope, Public, HideBySig
+    setDataCupomFiscal(DateTime): PrivateScope, Public, HideBySig
+    getDataCupomFiscal(): PrivateScope, Public, HideBySig
+    setHoraCupomFiscal(DateTime): PrivateScope, Public, HideBySig
+    getHoraCupomFiscal(): PrivateScope, Public, HideBySig
+    setDataCriacao(DateTime): PrivateScope, Public, HideBySig
+    getDataCriacao(): PrivateScope, Public, HideBySig
+    setTransacaoSaque(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    getTransacaoSaque(): PrivateScope, Public, HideBySig
+    setProduto(Int32): PrivateScope, Public, HideBySig
+    getProduto(): PrivateScope, Public, HideBySig
+    setParcela(Int32): PrivateScope, Public, HideBySig
+    getParcela(): PrivateScope, Public, HideBySig
+    setOperador(String): PrivateScope, Public, HideBySig
+    getOperador(): PrivateScope, Public, HideBySig
+    setECF(Int32): PrivateScope, Public, HideBySig
+    getECF(): PrivateScope, Public, HideBySig
+    setNumeroCartao(String): PrivateScope, Public, HideBySig
+    getNumeroCartao(): PrivateScope, Public, HideBySig
+    setValorPago(Decimal): PrivateScope, Public, HideBySig
+    getValorPago(): PrivateScope, Public, HideBySig
+    setData(DateTime): PrivateScope, Public, HideBySig
+    getData(): PrivateScope, Public, HideBySig
+    setAutorizacao(String): PrivateScope, Public, HideBySig
+    getAutorizacao(): PrivateScope, Public, HideBySig
+    setFinalizado(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    getFinalizado(): PrivateScope, Public, HideBySig
+Class Realsoft_Class.Realsoft_FechamentoCupom: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 ID : Public
+    Int32 CupomFiscal : Public
+    System.Decimal ValorTotal : Public
+    System.Decimal Troco : Public
+    Boolean Finalizado : Public
+    System.DateTime DataFechamento : Public
+  Methods:
+    setID(Int32): PrivateScope, Public, HideBySig
+    getID(): PrivateScope, Public, HideBySig
+    setCupomFiscal(Int32): PrivateScope, Public, HideBySig
+    getCupomFiscal(): PrivateScope, Public, HideBySig
+    setValorTotal(Decimal): PrivateScope, Public, HideBySig
+    getValorTotal(): PrivateScope, Public, HideBySig
+    setTroco(Decimal): PrivateScope, Public, HideBySig
+    getTroco(): PrivateScope, Public, HideBySig
+    setFinalizado(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    getFinalizado(): PrivateScope, Public, HideBySig
+    setDataFechamento(DateTime): PrivateScope, Public, HideBySig
+    getDataFechamento(): PrivateScope, Public, HideBySig
+Class Realsoft_Class.Realsoft_ResumoDoDia: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String Descricao : Public
+    System.Decimal Valor : Public
+    System.Decimal Retirada : Public
+    System.String Login : Public
+  Methods:
+    setDescricao(String): PrivateScope, Public, HideBySig
+    getDescricao(): PrivateScope, Public, HideBySig
+    setLogin(String): PrivateScope, Public, HideBySig
+    getLogin(): PrivateScope, Public, HideBySig
+    setValor(Decimal): PrivateScope, Public, HideBySig
+    getValor(): PrivateScope, Public, HideBySig
+    setRetirada(Decimal): PrivateScope, Public, HideBySig
+    getRetirada(): PrivateScope, Public, HideBySig
+Class Realsoft_Class.Realsoft_AtivarECF: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 ID : Public
+    Int32 Terminal : Public
+    Int32 Filial : Public
+    System.String Serie : Public
+    System.String Modelo : Public
+    System.String Loja : Public
+    System.String Criptografia : Public
+    Boolean Ativo : Public
+  Methods:
+    setID(Int32): PrivateScope, Public, HideBySig
+    getID(): PrivateScope, Public, HideBySig
+    setTerminal(Int32): PrivateScope, Public, HideBySig
+    getTerminal(): PrivateScope, Public, HideBySig
+    setFilial(Int32): PrivateScope, Public, HideBySig
+    getFilial(): PrivateScope, Public, HideBySig
+    setSerie(String): PrivateScope, Public, HideBySig
+    getSerie(): PrivateScope, Public, HideBySig
+    setModelo(String): PrivateScope, Public, HideBySig
+    getModelo(): PrivateScope, Public, HideBySig
+    setLoja(String): PrivateScope, Public, HideBySig
+    getLoja(): PrivateScope, Public, HideBySig
+    setCriptografia(String): PrivateScope, Public, HideBySig
+    getCriptografia(): PrivateScope, Public, HideBySig
+    setAtivo(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    getAtivo(): PrivateScope, Public, HideBySig
+Class Realsoft_Class.Realsoft_Registro: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 ID : Public
+    System.String RazaoSocial : Public
+    System.String FAntasia : Public
+    System.String CNPJ : Public
+    System.String Telefone : Public
+    System.String NumeroSerie : Public
+    System.String Senha : Public
+    System.String ChaveValidacao : Public
+    Int32 TotalValidacao : Public
+    Int32 TotaldeUso : Public
+    System.DateTime DataValidacao : Public
+    System.DateTime DataAtual : Public
+    System.DateTime DataValidade : Public
+    Boolean Ativo : Public
+  Methods:
+    setID(Int32): PrivateScope, Public, HideBySig
+    getID(): PrivateScope, Public, HideBySig
+    setRazaoSocial(String): PrivateScope, Public, HideBySig
+    getRazaoSocial(): PrivateScope, Public, HideBySig
+    setFAntasia(String): PrivateScope, Public, HideBySig
+    getFAntasia(): PrivateScope, Public, HideBySig
+    setCNPJ(String): PrivateScope, Public, HideBySig
+    getCNPJ(): PrivateScope, Public, HideBySig
+    setTelefone(String): PrivateScope, Public, HideBySig
+    getTelefone(): PrivateScope, Public, HideBySig
+    setNumeroSerie(String): PrivateScope, Public, HideBySig
+    getNumeroSerie(): PrivateScope, Public, HideBySig
+    setSenha(String): PrivateScope, Public, HideBySig
+    getSenha(): PrivateScope, Public, HideBySig
+    setDataAtual(DateTime): PrivateScope, Public, HideBySig
+    getDataAtual(): PrivateScope, Public, HideBySig
+    setDataValidade(DateTime): PrivateScope, Public, HideBySig
+    getDataValidade(): PrivateScope, Public, HideBySig
+    setAtivo(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    getAtivo(): PrivateScope, Public, HideBySig
+    setDataValidacao(DateTime): PrivateScope, Public, HideBySig
+    getDataValidacao(): PrivateScope, Public, HideBySig
+    setTotaldeUso(Int32): PrivateScope, Public, HideBySig
+    getTotaldeUso(): PrivateScope, Public, HideBySig
+    setChaveValidacao(String): PrivateScope, Public, HideBySig
+    getChaveValidacao(): PrivateScope, Public, HideBySig
+Class Realsoft_Class.Realsoft_SituacaoTriburaria: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String Codigo : Public
+    System.String Descricao : Public
+  Methods:
+    setCodigo(String): PrivateScope, Public, HideBySig
+    getCodigo(): PrivateScope, Public, HideBySig
+    setDescricao(String): PrivateScope, Public, HideBySig
+    getDescricao(): PrivateScope, Public, HideBySig
+Class Realsoft_Class.Realsoft_Consultas: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Consultar_MercadoriaEtiquetaPorCodigoBarras(String): PrivateScope, Public, Static, HideBySig
+    MensagemTEF(Int32): PrivateScope, Public, Static, HideBySig
+    Update_Tesouraria(): PrivateScope, Public, Static, HideBySig
+    Update_MovimentacaoECF(): PrivateScope, Public, Static, HideBySig
+    FundodeTroco(): PrivateScope, Public, Static, HideBySig
+    VerificaECFBemaNaoFiscal(Int32): PrivateScope, Public, Static, HideBySig
+    Consultar_FormaPagamento(Int32): PrivateScope, Public, Static, HideBySig
+    Consultar_FechamentoCupom(Int32): PrivateScope, Public, Static, HideBySig
+    Consultar_CartaoCliente(String): PrivateScope, Public, Static, HideBySig
+    Consultar_Filial(Int32): PrivateScope, Public, Static, HideBySig
+    Consultar_DescricaoFormaPagamento(Int32): PrivateScope, Public, Static, HideBySig
+    Consultar_UsuarioFiscal(String): PrivateScope, Public, Static, HideBySig
+    Consultar_Operador(Int32): PrivateScope, Public, Static, HideBySig
+    Consultar_MercadoriaEtiquetaPorId(String): PrivateScope, Public, Static, HideBySig
+    Consultar_MercadoriaEtiqueta(String): PrivateScope, Public, Static, HideBySig
+    Consultar_MercadoriaEtiquetaComDigito(String): PrivateScope, Public, Static, HideBySig
+    Consultar_Mercadorias(String): PrivateScope, Public, Static, HideBySig
+    Listar_MovimentacaoECF(): PrivateScope, Public, Static, HideBySig
+    Listar_FormaPagamento(): PrivateScope, Public, Static, HideBySig
+    Insere_VerificacaoOperador(VerificaOperador): PrivateScope, Public, Static, HideBySig
+    Insere_AtivarECF(Realsoft_AtivarECF): PrivateScope, Public, Static, HideBySig
+    Insere_CartaoLoja(Realsoft_CartaoLoja): PrivateScope, Public, Static, HideBySig
+    Insere_RegistroSistema(Realsoft_Registro): PrivateScope, Public, Static, HideBySig
+    Insere_PagamentoCupomFiscal(Realsoft_PagamentoCupomFiscal): PrivateScope, Public, Static, HideBySig
+    Consultar_MovimentacaoPagamento(String, Int32): PrivateScope, Public, Static, HideBySig
+    Consultar_ECFAtivo(String, Int32): PrivateScope, Public, Static, HideBySig
+    Consultar_Usuarios_OperadorAtual(): PrivateScope, Public, Static, HideBySig
+    Listar_Tesouraria(): PrivateScope, Public, Static, HideBySig
+    ListarResumo(): PrivateScope, Public, Static, HideBySig
+    Listar_FechamentoCaixa(Int32, Int32): PrivateScope, Public, Static, HideBySig
+    Listar_RelatorioFechamentoCaixa(DateTime, DateTime): PrivateScope, Public, Static, HideBySig
+    Consultar_UsuarioOperador(String): PrivateScope, Public, Static, HideBySig
+    Consultar_ChaveHD(String): PrivateScope, Public, Static, HideBySig
+    Consultar_ChaveRegistro(String): PrivateScope, Public, Static, HideBySig
+    Update_RegistroDLL(String, String): PrivateScope, Public, Static, HideBySig
+    Insere_MovimentacaoCaixa(Movimentacao): PrivateScope, Public, Static, HideBySig
+    Consultar_ProximoTurno(): PrivateScope, Public, Static, HideBySig
+    Consultar_TipoMovimentacao(String): PrivateScope, Public, Static, HideBySig
+    Consultar_RetornoDaruma(Int32): PrivateScope, Public, Static, HideBySig
+    Consultar_Item(Int32, Int32): PrivateScope, Public, Static, HideBySig
+    Consultar_Cupom(Int32): PrivateScope, Public, Static, HideBySig
+    Excluir_Item(Int32, Int32): PrivateScope, Public, Static, HideBySig
+    Insere_VendaCupomFiscal(Mercadoria): PrivateScope, Public, Static, HideBySig
+    Criar_ReducaoZ(ReducaoZ): PrivateScope, Public, Static, HideBySig
+    Criar_TotalizadorReducaoZ(Realsoft_Totalizador): PrivateScope, Public, Static, HideBySig
+    Consultar_TurnoOperando(): PrivateScope, Public, Static, HideBySig
+    Consultar_DescricaoTurnoOperando(Int32): PrivateScope, Public, Static, HideBySig
+    Encerra_TurnoAtual(String): PrivateScope, Public, Static, HideBySig
+    Abertura_TurnoAtual(String): PrivateScope, Public, Static, HideBySig
+    Criar_Tesouraria(Realsoft_Tesouraria): PrivateScope, Public, Static, HideBySig
+    Consultar_DescricaoPagamento(Int32): PrivateScope, Public, Static, HideBySig
+    Listar_VendaCupomFiscal(Int32, Decimal, String, Decimal, Boolean(HasFieldMarshal)): PrivateScope, Public, Static, HideBySig
+    ConsultarValorMovimentacao(String): PrivateScope, Public, Static, HideBySig
+    ConsultarReducaoZMovimentacao(String): PrivateScope, Public, Static, HideBySig
+    Update_VendaCupomFiscal(Int32, Int32, Int32, Decimal, String, Boolean(HasFieldMarshal), Decimal): PrivateScope, Public, Static, HideBySig
+    Update_CancelaVendaCupomFiscal(Int32, Int32, Int32, String, Boolean(HasFieldMarshal)): PrivateScope, Public, Static, HideBySig
+    Update_CaixaemUso(Boolean(HasFieldMarshal)): PrivateScope, Public, Static, HideBySig
+    Listar_Prevenda(String): PrivateScope, Public, Static, HideBySig
+    Listar_MovimentacaoPagamento(): PrivateScope, Public, Static, HideBySig
+    VerificarMovimentoAnterior(): PrivateScope, Public, Static, HideBySig
+    Update_CaixaemUsoAnterior(Boolean(HasFieldMarshal)): PrivateScope, Public, Static, HideBySig
+    Insere_CupomFiscalCancelado(Realsoft_CancelamentoCupomFiscal): PrivateScope, Public, Static, HideBySig
+    Listar_CST(): PrivateScope, Public, Static, HideBySig
+    Listar_SituacaoTributaria(): PrivateScope, Public, Static, HideBySig
+    Listar_Grupo(): PrivateScope, Public, Static, HideBySig
+    Listar_SubGrupo(): PrivateScope, Public, Static, HideBySig
+    Listar_Secao(): PrivateScope, Public, Static, HideBySig
+    Listar_Familia(): PrivateScope, Public, Static, HideBySig
+    Update_Precificacao_Mercadoria(String, String, String, Decimal): PrivateScope, Public, Static, HideBySig
+    Listar_Mercadorias(): PrivateScope, Public, Static, HideBySig
+    Listar_MercadoriasEAN(String): PrivateScope, Public, Static, HideBySig
+    Listar_Mercadorias_Digitado(String): PrivateScope, Public, Static, HideBySig
+    Listar_FormasPagamento(): PrivateScope, Public, Static, HideBySig
+    Listar_VendaFormasPagamento(): PrivateScope, Public, Static, HideBySig
+    Consultar_SituacaoTributaria(String): PrivateScope, Public, Static, HideBySig
+    Consultar_SituacaoTributariaNome(String): PrivateScope, Public, Static, HideBySig
+    Insere_MercadoriaCaixa(Mercadoria): PrivateScope, Public, Static, HideBySig
+    Update_Mercadoria(Mercadoria): PrivateScope, Public, Static, HideBySig
+    Consultar_CodigoBarras(String): PrivateScope, Public, Static, HideBySig
+    Update_FinalizaPrevenda(String): PrivateScope, Public, Static, HideBySig
+    Consultar_MercadoriaPorCodigoBarras(String): PrivateScope, Public, Static, HideBySig
+Class Realsoft_Class.Realsoft_VerificaAtivacao: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Management.ManagementObjectSearcher searcher : Public, Static
+  Methods:
+    ChecaHD(): PrivateScope, Public, Static, HideBySig
+Class Realsoft_Class.FormChave: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Realsoft_Class.Principal: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 __Ativo__ : Public, Static
+Class Realsoft_Class.ComprovanteTEF: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 ID : Public
+    System.Decimal Valor : Public
+    System.Decimal ValorSaque : Public
+    System.String NumeroCartao : Public
+    System.String Autorizacao : Public
+    System.String DescricaoFormaPagamento : Public
+    Boolean TEF : Public
+    Boolean PrivateLabel : Public
+    Boolean TEFVinculado : Public
+    System.String ComprovanteVia1 : Public
+    System.String ComprovanteVia2 : Public
+  Methods:
+    setID(Int32): PrivateScope, Public, HideBySig
+    getID(): PrivateScope, Public, HideBySig
+    setValor(Decimal): PrivateScope, Public, HideBySig
+    getValor(): PrivateScope, Public, HideBySig
+    setValorSaque(Decimal): PrivateScope, Public, HideBySig
+    getValorSaque(): PrivateScope, Public, HideBySig
+    setNumeroCartao(String): PrivateScope, Public, HideBySig
+    getNumeroCartao(): PrivateScope, Public, HideBySig
+    setAutorizacao(String): PrivateScope, Public, HideBySig
+    getAutorizacao(): PrivateScope, Public, HideBySig
+    setDescricaoFormaPagamento(String): PrivateScope, Public, HideBySig
+    getDescricaoFormaPagamento(): PrivateScope, Public, HideBySig
+    setTEF(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    getTEF(): PrivateScope, Public, HideBySig
+    setPrivateLabel(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    getPrivateLabel(): PrivateScope, Public, HideBySig
+    setTEFVinculado(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    getTEFVinculado(): PrivateScope, Public, HideBySig
+    setComprovanteVia1(String): PrivateScope, Public, HideBySig
+    getComprovanteVia1(): PrivateScope, Public, HideBySig
+    setComprovanteVia2(String): PrivateScope, Public, HideBySig
+    getComprovanteVia2(): PrivateScope, Public, HideBySig
+Class Realsoft_Class.ConfiguracaoTEF: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String IPServidorTEF : Public, Static
+    System.String FilialTef : Public, Static
+    System.String LojaTef : Public, Static
+    System.String ECF : Public, Static
+    System.String ExecutaConfig : Public, Static
+    System.String PadraoTEF : Public, Static
+    Boolean _ModoTEF : Public, Static
+    Boolean _Confirmado : Public, Static
+    System.String CupomFiscal : Public, Static
+    System.String ImprimeTEF : Public, Static
+    System.String DataCupomFiscal : Public, Static
+    System.String HoraCupomFiscal : Public, Static
+    Int32 Funcao : Public, Static
+    System.String QtdParcelas : Public, Static
+    System.Decimal ValorSaque : Public, Static
+    System.String DescricaoFormaPagamento : Public, Static
+    Realsoft_Class.ComprovanteTEF _ComprovanteTEF : Public, Static
+    Boolean IniciadoSiTef : Public, Static
+    System.String MsgOperador : Public, Static
+    System.String Finalizacao : Public, Static
+    System.String NSU : Public, Static
+    System.String Rede : Public, Static
+    Boolean bTemImpressao : Public, Static
+    Boolean FuncaoAdministrativa : Public, Static
+    System.String NomeUsuario : Public, Static
+    System.Decimal ValorPago : Public, Static
+    Boolean AguardarTransacao : Public, Static
+    Boolean TransacaoParcial : Public, Static
+    System.Text.StringBuilder _trilha1 : Public, Static
+    System.Text.StringBuilder _trilha2 : Public, Static
+    Int32* comando : Public, Static
+    Int32* continua : Public, Static
+    Int32* tipoCampo : Public, Static
+    Int32* tamanhoMinimo : Public, Static
+    Int32* tamanhoMaximo : Public, Static
+    Byte*[] bufferarg : Public, Static
+    Int32 tamanhobufer IsLong IsConst : Public, Static
+    Int32 navegacao IsLong IsConst : Public, Static, HasDefault
+Class Realsoft_Class.MensagemTEF: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    MensagemConfiguraCliSiTef(Int32): PrivateScope, Public, Static, HideBySig
+    MensagemCliSiTef(Int32): PrivateScope, Public, Static, HideBySig
+Class Realsoft_Class.Realsoft_Daruma: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 iRetorno : Public, Static
+    System.String sBuffer : Public, Static
+    System.String Str_LabelInputBox : Public, Static
+    System.String Str_TextoInputBox : Public, Static
+    System.String Str_Retorno_InputBox : Public, Static
+    System.String Str_Aleatorio : Public, Static
+    Int32 iAleatorio : Public, Static
+    Tipo p3 : Public, Static
+  Methods:
+    InputBox(String, String): PrivateScope, Public, Static, HideBySig
+    TrataRetorno(Int32): PrivateScope, Public, Static, HideBySig
+    NaoFiscal_Mostrar_Retorno(Int32): PrivateScope, Public, Static, HideBySig
+    LeituraX(): PrivateScope, Public, Static, HideBySig
+    FundodeCaixa(String, String): PrivateScope, Public, Static, HideBySig
+    VendeItem(String, String, String, String, String, String, String, String): PrivateScope, Public, Static, HideBySig
+    VendeItemResumido(String, String, String, String, String, String): PrivateScope, Public, Static, HideBySig
+    CancelarVenda(): PrivateScope, Public, Static, HideBySig
+    CancelarNaoFiscal(): PrivateScope, Public, Static, HideBySig
+    EfetuaFormaPagamento(String, String, String): PrivateScope, Public, Static, HideBySig
+    EfetuaFormaPagamentoParcial(String, String, String): PrivateScope, Public, Static, HideBySig
+    ImprimeReducaoZ(String, String): PrivateScope, Public, Static, HideBySig
+    VerificarReducaoZPendente(): PrivateScope, Public, Static, HideBySig
+    InformarOperador(String): PrivateScope, Public, Static, HideBySig
+    ImpressoraLigada(): PrivateScope, Public, Static, HideBySig
+    RetornaOperador(StringBuilder): PrivateScope, Public, Static, HideBySig
+    ImprimeRelatorioDoDia(Decimal): PrivateScope, Public, Static, HideBySig
+    ComprovanteCartao(String, String, Decimal): PrivateScope, Public, Static, HideBySig
+    ImprimeRecargaOnline(String, DateTime, String, String, String, String, String, String, String, String): PrivateScope, Public, Static, HideBySig
+    ImprimeRecargaCancelamento(String, String): PrivateScope, Public, Static, HideBySig
+    Calcular_MD5(): PrivateScope, Public, Static, HideBySig
+    Abrir_Padrao(): PrivateScope, Public, Static, HideBySig
+    COO_DocAtual(): PrivateScope, Public, Static, HideBySig
+    Sangria(String, String): PrivateScope, Public, Static, HideBySig
+    Suprimento(String, String): PrivateScope, Public, Static, HideBySig
+    LMFCImpresso(String, String): PrivateScope, Public, Static, HideBySig
+    LMFCArquivo(String, String): PrivateScope, Public, Static, HideBySig
+    LMFSArquivo(String, String): PrivateScope, Public, Static, HideBySig
+    Numero_DeSerieECF(): PrivateScope, Public, Static, HideBySig
+    ConsultarDadosUltimaReducao(): PrivateScope, Public, Static, HideBySig
+    DataUltimaReducaoZ(): PrivateScope, Public, Static, HideBySig
+    HoraUltimaReducaoZ(): PrivateScope, Public, Static, HideBySig
+    ContadorReducaoZ(): PrivateScope, Public, Static, HideBySig
+    DataUltimoMovimentoReducaoZ(String): PrivateScope, Public, Static, HideBySig
+    DadosUltimoMovimentoReducaoZ(): PrivateScope, Public, Static, HideBySig
+    Aliquotas(): PrivateScope, Public, Static, HideBySig
+    NumeroContadorReinicioReducaoZ(String): PrivateScope, Public, Static, HideBySig
+    NumeroReducoesZ(): PrivateScope, Public, Static, HideBySig
+    Retorno_MinutosImprimindo(): PrivateScope, Public, Static, HideBySig
+    Retorno_GrandeTotalEcf(): PrivateScope, Public, Static, HideBySig
+    Retorno_NumeroContadorEcf(): PrivateScope, Public, Static, HideBySig
+    VendaBrutaDiaria(): PrivateScope, Public, Static, HideBySig
+    UltimaReducaoZ(String, Decimal): PrivateScope, Public, Static, HideBySig
+    GerarRelatorioAtoCotep(Int32, String, String): PrivateScope, Public, Static, HideBySig
+    ExcluirItem(String): PrivateScope, Public, Static, HideBySig
+    SubTotal(): PrivateScope, Public, Static, HideBySig
+    TotalizadorPadrao(): PrivateScope, Public, Static, HideBySig
+    RecuperarCupom(): PrivateScope, Public, Static, HideBySig
+    Imprime_Fechamento(): PrivateScope, Public, Static, HideBySig
+    AcionaGaveta(): PrivateScope, Public, Static, HideBySig
+    CadastrarFormasPgto(): PrivateScope, Public, Static, HideBySig
+    ImprimeRespostaTef(String): PrivateScope, Public, Static, HideBySig
+    FecharTef(): PrivateScope, Public, Static, HideBySig
+    EspelhoMFD(String, String, String): PrivateScope, Public, Static, HideBySig
+    ImprimeTefCartoes(String, String): PrivateScope, Public, Static, HideBySig
+    gerarArquivoMF(String, String): PrivateScope, Public, Static, HideBySig
+Struct Realsoft_Class.Realsoft_Daruma+Tipo: AutoLayout, AnsiClass, Class, NestedPublic, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    Tipo p1 = 0 : Public, Static, Literal, HasDefault
+    Tipo p2 = 1 : Public, Static, Literal, HasDefault
+Class Realsoft_Class.ComunicacaoTEF: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 Resultado : Public, Static
+  Methods:
+    PinpadConectado(): PrivateScope, Public, Static, HideBySig
+    MensagemPinpad(String): PrivateScope, Public, Static, HideBySig
+    ConfiguraTEf(): PrivateScope, Public, Static, HideBySig
+    IniciarTransacao(Int16, String, String, String, String, String, String): PrivateScope, Public, Static, HideBySig
+    ContinuaTEF(): PrivateScope, Public, Static, HideBySig
+    FinalizaTEF(Int16): PrivateScope, Public, Static, HideBySig
+    Lecartao(StringBuilder, StringBuilder): PrivateScope, Public, Static, HideBySig
+    IniciaTransacaoTEF(): PrivateScope, Public, Static, HideBySig
+    ApagaArquivoResposta(): PrivateScope, Public, Static, HideBySig
+    AguardarTransacaoTEF(): PrivateScope, Public, Static, HideBySig
+    ConfirmarTransacaoTEF(): PrivateScope, Public, Static, HideBySig
+    Espera(Double): PrivateScope, Public, Static, HideBySig
+    FinalizarTransacaoPage(): PrivateScope, Public, Static, HideBySig
+    GeraArquivoSolicitacao(String): PrivateScope, Public, Static, HideBySig
+    CancelarTransacaoPage(String, String, String): PrivateScope, Public, Static, HideBySig
+    FuncoesAdministrativas(): PrivateScope, Public, Static, HideBySig
+    ImprimeComprovante(): PrivateScope, Public, Static, HideBySig
+Class Realsoft_Class.Filizola: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    ObtemPesoBalanca(Int32, Int32): PrivateScope, Public, Static, HideBySig
+    ObtemStatus(): PrivateScope, Public, Static, HideBySig
+Class Realsoft_Class.Realsoft_Bematech: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Imprime_LeituraX(): PrivateScope, Public, Static, HideBySig
+    ImpressoraLigada(): PrivateScope, Public, Static, HideBySig
+    ImprimeSangria(String): PrivateScope, Public, Static, HideBySig
+    ImprimeSuprimento(String): PrivateScope, Public, Static, HideBySig
+    Excluir_Item(String): PrivateScope, Public, Static, HideBySig
+    CancelamentoCupom(): PrivateScope, Public, Static, HideBySig
+    AbreCupom(String): PrivateScope, Public, Static, HideBySig
+    ImprimeReducaoZ(String, String): PrivateScope, Public, Static, HideBySig
+    VenderItem(String, String, String, String, String, Int32, String, String, String): PrivateScope, Public, Static, HideBySig
+    AbreGaveta(): PrivateScope, Public, Static, HideBySig
+    TerminaCupom(String): PrivateScope, Public, Static, HideBySig
+    FecharCupom(String): PrivateScope, Public, Static, HideBySig
+    ICOO(): PrivateScope, Public, Static, HideBySig
+    FechamentoC(): PrivateScope, Public, Static, HideBySig
+    _FinalizarPagamento(String, String): PrivateScope, Public, Static, HideBySig
+    Imprime_Fechamento(Int32, Decimal): PrivateScope, Public, Static, HideBySig
+    Imprime_RelatorioFechamento(DateTime, DateTime, Decimal): PrivateScope, Public, Static, HideBySig
+    EfetuaFormaPgto(String, String): PrivateScope, Public, Static, HideBySig
+    AcionaGuilhotina(): PrivateScope, Public, Static, HideBySig
+    AcionarGaveta(): PrivateScope, Public, Static, HideBySig
+    StausGaveta(Int32): PrivateScope, Public, Static, HideBySig
+    ImprimeLeituraMemoriaFiscalData(String, String): PrivateScope, Public, Static, HideBySig
+    ImprimeLeituraMemoriaFiscalReducao(String, String): PrivateScope, Public, Static, HideBySig
+    DadosultimaRdz(): PrivateScope, Public, Static, HideBySig
+    VendaBrutaDiaria(): PrivateScope, Public, Static, HideBySig
+    UltimaReducaoZ(String, Decimal): PrivateScope, Public, Static, HideBySig
+    Aliquotas(): PrivateScope, Public, Static, HideBySig
+    Retorno_GrandeTotalEcf(): PrivateScope, Public, Static, HideBySig
+    Retorno_MinutosImprimindo(): PrivateScope, Public, Static, HideBySig
+    NumeroReducoesZ(): PrivateScope, Public, Static, HideBySig
+    DataReducaoZ(): PrivateScope, Public, Static, HideBySig
+    HoraReducaoZ(): PrivateScope, Public, Static, HideBySig
+    TotalizadoresParciais(): PrivateScope, Public, Static, HideBySig
+    __NumeroLoja(): PrivateScope, Public, Static, HideBySig
+    __NumeroSerie(): PrivateScope, Public, Static, HideBySig
+    __ModeloECF(): PrivateScope, Public, Static, HideBySig
+Class Realsoft_Class.Realsoft_BematechNaoFiscal: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 iRetorno : Public, Static
+    System.String PortaComunicacao : Public, Static
+  Methods:
+    VendeItem(String): PrivateScope, Public, Static, HideBySig
+    fecharcupomtxt(): PrivateScope, Public, Static, HideBySig
+    VendeItemDefault(String): PrivateScope, Public, Static, HideBySig
+    Default(): PrivateScope, Public, Static, HideBySig
+    PadraoCupom(): PrivateScope, Public, Static, HideBySig
+    PadraoCupomDefault(): PrivateScope, Public, Static, HideBySig
+    FinalizarVenda(String, Decimal, Decimal, Boolean(HasFieldMarshal), Decimal): PrivateScope, Public, Static, HideBySig
+    FinalizarVendaDefault(String, Decimal, Decimal, Boolean(HasFieldMarshal), Decimal): PrivateScope, Public, Static, HideBySig
+    FinalizarVendaParcial(String, Decimal): PrivateScope, Public, Static, HideBySig
+    FinalizarVendaParcialDefault(String, Decimal): PrivateScope, Public, Static, HideBySig
+    BematechExcluirItem(String): PrivateScope, Public, Static, HideBySig
+    BematechExcluirItemDefault(String): PrivateScope, Public, Static, HideBySig
+    CancelarCupom(): PrivateScope, Public, Static, HideBySig
+    ImprimirRelatorioInicial(Decimal): PrivateScope, Public, Static, HideBySig
+    ComprovanteCartao(String, String, Decimal): PrivateScope, Public, Static, HideBySig
+    ImprimirSangria(Decimal): PrivateScope, Public, Static, HideBySig
+    ImprimirSuprimento(Decimal): PrivateScope, Public, Static, HideBySig
+    ImprimeFechamentoCaixa(Int32, Decimal): PrivateScope, Public, Static, HideBySig
+    ResumoDiario(): PrivateScope, Public, Static, HideBySig
+    StatusECF(): PrivateScope, Public, Static, HideBySig
+    EnviarComando(String, Int32): PrivateScope, Public, Static, HideBySig
+    VerificarGavetaAberta(): PrivateScope, Public, Static, HideBySig
+    ImprimirComprovanteRecarga(String, DateTime, String, String, String, String, String, String, String, String): PrivateScope, Public, Static, HideBySig
+    ImprimirComprovantePIN(String, DateTime, String, String, String, String, String, String): PrivateScope, Public, Static, HideBySig
+    ImprimirComprovanteCancelamento(String, String): PrivateScope, Public, Static, HideBySig
+Class Realsoft_Class.Realsoft_Cupom: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    CriarArquivo(String, String): PrivateScope, Public, Static, HideBySig
+    Cupom(Int32, Decimal, String, Int32, Decimal, Decimal, String, Decimal): PrivateScope, Public, Static, HideBySig
+Class Realsoft_Class.Realsoft_Elgin: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int16 Retorno : Public, Static
+  Methods:
+    AberturadoDia(String, String): PrivateScope, Public, Static, HideBySig
+    AbreComprovanteNaoFiscalVinculado(String, String, String): PrivateScope, Public, Static, HideBySig
+    AbreComprovanteNaoFiscalVinculadoMFD(String, String, String, String, String, String): PrivateScope, Public, Static, HideBySig
+    AbreCupom(String): PrivateScope, Public, Static, HideBySig
+    AbreCupomMFD(String, String, String): PrivateScope, Public, Static, HideBySig
+    Elgin_EmiteLeituraX(): PrivateScope, Public, Static, HideBySig
+    Elgin_Vender(String, String, String, String, String, Int16, String, String, String): PrivateScope, Public, Static, HideBySig
+    ImprimeReduacoZ(): PrivateScope, Public, Static, HideBySig
+    CancelaCupom(): PrivateScope, Public, Static, HideBySig
+    TerminaFechamentoCupom(String, String): PrivateScope, Public, Static, HideBySig
+    Guilhotina(): PrivateScope, Public, Static, HideBySig
+    TerminaFechamentoComDesconto(String, String, String, String, String, String): PrivateScope, Public, Static, HideBySig
+    FinalizaPagamento(String): PrivateScope, Public, Static, HideBySig
+    AbreGavaeta(): PrivateScope, Public, Static, HideBySig
+    IniciaFechamentoCupom(String, String): PrivateScope, Public, Static, HideBySig
+    Sangria(Decimal): PrivateScope, Public, Static, HideBySig
+    Suprimento(Decimal, String): PrivateScope, Public, Static, HideBySig
+    VerificarStatusECF(): PrivateScope, Public, Static, HideBySig
+    CancelarItem(String): PrivateScope, Public, Static, HideBySig
+    ImprimeFechamento(): PrivateScope, Public, Static, HideBySig
+    ImprimiTransacaoTEF(): PrivateScope, Public, Static, HideBySig
+    DadosUltimoMovimentoReducaoZ(): PrivateScope, Public, Static, HideBySig
+    DataUltimoMovimentoReducaoZ(String): PrivateScope, Public, Static, HideBySig
+    VendaBrutaDiaria(): PrivateScope, Public, Static, HideBySig
+    Aliquotas(): PrivateScope, Public, Static, HideBySig
+    DataUltimaReducaoZ(): PrivateScope, Public, Static, HideBySig
+    UltimaReducaoZ(String, Decimal): PrivateScope, Public, Static, HideBySig
+    HoraUltimaReducaoZ(): PrivateScope, Public, Static, HideBySig
+    NumeroReducoesZ(): PrivateScope, Public, Static, HideBySig
+    NumeroContadorReinicioReducaoZ(String): PrivateScope, Public, Static, HideBySig
+    VerificaSituacaoECF(): PrivateScope, Public, Static, HideBySig
+    Retorno_GrandeTotalEcf(): PrivateScope, Public, Static, HideBySig
+    COO_DocAtual(): PrivateScope, Public, Static, HideBySig
+    ReducaoZPendente(): PrivateScope, Public, Static, HideBySig
+    FechamentoDesconto(String, String, String): PrivateScope, Public, Static, HideBySig
+    ImprimieMemoriaLMFS(String, String): PrivateScope, Public, Static, HideBySig
+    ImprimieMemoriaLMFC(String, String): PrivateScope, Public, Static, HideBySig
+    ImprimieMemoriaLMFCReducao(String, String): PrivateScope, Public, Static, HideBySig
+    ImprimieMemoriaLMFSReducao(String, String): PrivateScope, Public, Static, HideBySig
+    Retorno_MinutosImprimindo(): PrivateScope, Public, Static, HideBySig
+    EspelhoMFD(String, String): PrivateScope, Public, Static, HideBySig
+    GeraLeituraMemoriaLMFS(String, String): PrivateScope, Public, Static, HideBySig
+    GeraLeituraMemoriaLMFC(String, String): PrivateScope, Public, Static, HideBySig
+    VerificaPoucoPapel(): PrivateScope, Public, Static, HideBySig
+    ArqMFD(String, String): PrivateScope, Public, Static, HideBySig
+    DownloadArqMFD(String, String): PrivateScope, Public, Static, HideBySig
+Class Realsoft_Class.Realsoft_Epson: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Realsoft_Class.Realsoft_Truncar: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Incrementar_Esquerda(String, String, Int32): PrivateScope, Public, Static, HideBySig
+    Acrescentar_Esquerda(String, String, Int32): PrivateScope, Public, Static, HideBySig
+    Incrementar_Direita(String, String, Int32): PrivateScope, Public, Static, HideBySig
+    Acrescentar_Direita(String, String, Int32): PrivateScope, Public, Static, HideBySig
+    TruncarArredondar_Valor(Boolean(HasFieldMarshal), Decimal, Int32): PrivateScope, Public, Static, HideBySig
+    TruncarArredondar_Valor(Decimal, Int32): PrivateScope, Public, Static, HideBySig
+    Arredondar_Valor(Double, Int32): PrivateScope, Public, Static, HideBySig
+    Truncar_Valor(Decimal, Int32): PrivateScope, Public, Static, HideBySig
+Class Realsoft_Class.Realsoft_PafECF: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    CriarArquivo(String, String): PrivateScope, Public, Static, HideBySig
+    Espaco(Int32): PrivateScope, Public, Static, HideBySig
+    GerarEAD(String, String, String): PrivateScope, Public, Static, HideBySig
+    GerarChave(String, String): PrivateScope, Public, Static, HideBySig
+    _chavexml(String): PrivateScope, Public, Static, HideBySig
+    Calcular(String): PrivateScope, Public, Static, HideBySig
+    MD5File(String): PrivateScope, Public, Static, HideBySig
+    ByteToString(Byte[]): PrivateScope, Public, Static, HideBySig
+    MD5_Texto(String): PrivateScope, Public, Static, HideBySig
+    GerarMD5(): PrivateScope, Public, Static, HideBySig
+    CodigoMD5EXE(): PrivateScope, Public, Static, HideBySig
+    MD5Hash(String): PrivateScope, Public, Static, HideBySig
+    Encripta(String): PrivateScope, Public, Static, HideBySig
+    Decrypta(String): PrivateScope, Public, Static, HideBySig
+Class Realsoft_Class.Realsoft_Retaguarda: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Insere_CartaoLoja(Realsoft_CartaoLoja): PrivateScope, Public, Static, HideBySig
+    Insere_Tesouraria(Realsoft_Tesouraria): PrivateScope, Public, Static, HideBySig
+    Insere_MovimentacaoECF(Movimentacao): PrivateScope, Public, Static, HideBySig
+    Consultar_CartaoCliente(String): PrivateScope, Public, Static, HideBySig
+Class Realsoft_Class.Realsoft_Geral: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Realsoft_Class.Realsoft_PagamentoCupomFiscal _Pagamento : Public, Static
+    Realsoft_Class.Mercadoria _mercadoria : Public, Static
+    Realsoft_Class.Movimentacao _Mov : Public, Static
+    Realsoft_Class.Realsoft_Tesouraria _Tesouraria : Public, Static
+    Realsoft_Class.VerificaOperador Operador : Public, Static
+    Realsoft_Class.Login logon : Public, Static
+    Realsoft_Class.Filial _filial : Public, Static
+    Realsoft_Class.Realsoft_PafECF paf : Public, Static
+    Realsoft_Class.ReducaoZ _reducaoz : Public, Static
+    Realsoft_Class.Realsoft_FormaPgto FormaPagamento : Public, Static
+    Realsoft_Class.Realsoft_CartaoLoja _cartao : Public, Static
+    Realsoft_Class.Realsoft_AtivarECF _AtivaECF : Public, Static
+  Methods:
+    Registra_PagamentoCupomFiscal(String, Decimal, Decimal, Decimal): PrivateScope, Public, Static, HideBySig
+    Registra_PagamentoCupomFiscal(String, Decimal, Decimal, Decimal, Int32): PrivateScope, Public, Static, HideBySig
+    Movimentacao_Caixa(String, Decimal): PrivateScope, Public, Static, HideBySig
+    Criar_Tesouraria(String, Decimal, Decimal, Decimal): PrivateScope, Public, Static, HideBySig
+    CriarMovimentacao_Suprimento(Decimal): PrivateScope, Public, Static, HideBySig
+    CriarMovimentacao_Sangria(Decimal): PrivateScope, Public, Static, HideBySig
+    Criar_VendaCartao(String, Decimal, Decimal, Int32): PrivateScope, Public, Static, HideBySig
+    Criar_CartaoLoja(String, Decimal): PrivateScope, Public, Static, HideBySig
+Class Realsoft_Class.Realsoft_Recarga: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    ListarOperadora(): PrivateScope, Public, Static, HideBySig
+    CompraRecarga(String, String, Decimal, String, String, String, String): PrivateScope, Public, Static, HideBySig
+    RecargaPIN(String, String, String): PrivateScope, Public, Static, HideBySig
+    ConsultarCompra(Int32, Int32): PrivateScope, Public, Static, HideBySig
+    ConfirmarCompra(String, String): PrivateScope, Public, Static, HideBySig
+Class Realsoft_Class.Realsoft_RecOnline: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 ID : Public
+    Int32 CodigoTransacao : Public
+    Int32 RetornoCodigo : Public
+    Int32 Produto : Public
+    System.Decimal Preco : Public
+    System.DateTime Vencimento : Public
+    System.Decimal Pago : Public
+    Int32 DDD : Public
+    Int32 Telefone : Public
+    System.String Mensagem : Public
+    System.String NSU : Public
+    System.DateTime DataRV : Public
+    System.Decimal Face : Public
+  Methods:
+    setID(Int32): PrivateScope, Public, HideBySig
+    getID(): PrivateScope, Public, HideBySig
+    setCodigoTransacao(Int32): PrivateScope, Public, HideBySig
+    getCodigoTransacao(): PrivateScope, Public, HideBySig
+    setRetornoCodigo(Int32): PrivateScope, Public, HideBySig
+    getRetornoCodigo(): PrivateScope, Public, HideBySig
+    setProduto(Int32): PrivateScope, Public, HideBySig
+    getProduto(): PrivateScope, Public, HideBySig
+    setPreco(Decimal): PrivateScope, Public, HideBySig
+    getPreco(): PrivateScope, Public, HideBySig
+    setVencimento(DateTime): PrivateScope, Public, HideBySig
+    getVencimento(): PrivateScope, Public, HideBySig
+    setPago(Decimal): PrivateScope, Public, HideBySig
+    getPago(): PrivateScope, Public, HideBySig
+    setDDD(Int32): PrivateScope, Public, HideBySig
+    getDDD(): PrivateScope, Public, HideBySig
+    setTelefone(Int32): PrivateScope, Public, HideBySig
+    getTelefone(): PrivateScope, Public, HideBySig
+    setMensagem(String): PrivateScope, Public, HideBySig
+    getMensagem(): PrivateScope, Public, HideBySig
+    setNSU(String): PrivateScope, Public, HideBySig
+    getNSU(): PrivateScope, Public, HideBySig
+    setDataRV(DateTime): PrivateScope, Public, HideBySig
+    getDataRV(): PrivateScope, Public, HideBySig
+    setFace(Decimal): PrivateScope, Public, HideBySig
+    getFace(): PrivateScope, Public, HideBySig
+Class Realsoft_Class.Realsoft_Toledo: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    AbrePortaToledo(): PrivateScope, Public, Static, HideBySig
+    ObtemInformacao(): PrivateScope, Public, Static, HideBySig
+    FecharToledo(): PrivateScope, Public, Static, HideBySig
+Class Realsoft_Class.TEF: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Boolean IniciarTransacao : Public, Static
+    Boolean AguardarTransacao : Public, Static
+    Boolean ConfirmarTransacao : Public, Static
+    Boolean FinalizarTransacao : Public, Static
+    Boolean CancelarTransacao : Public, Static
+    System.String NSUAutorizacao : Public, Static
+    System.String RedeAutorizacao : Public, Static
+    System.String FinalizacaoAutorizacao : Public, Static
+    Boolean Confirmado : Public, Static
+    Boolean PararMensagem : Public, Static
+    Boolean ReducaoZFinalizado : Public, Static
