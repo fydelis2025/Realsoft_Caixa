@@ -1,0 +1,197 @@
+  Realsoft_Caixa.Form1.resources - Embedded, ContainedInManifestFile, 
+  Realsoft_Caixa.Form10.resources - Embedded, ContainedInManifestFile, 
+  Realsoft_Caixa.Form11.resources - Embedded, ContainedInManifestFile, 
+  Realsoft_Caixa.Form12.resources - Embedded, ContainedInManifestFile, 
+  Realsoft_Caixa.Form14.resources - Embedded, ContainedInManifestFile, 
+  Realsoft_Caixa.Form15.resources - Embedded, ContainedInManifestFile, 
+  Realsoft_Caixa.Form16.resources - Embedded, ContainedInManifestFile, 
+  Realsoft_Caixa.Form2.resources - Embedded, ContainedInManifestFile, 
+  Realsoft_Caixa.Form3.resources - Embedded, ContainedInManifestFile, 
+  Realsoft_Caixa.Form4.resources - Embedded, ContainedInManifestFile, 
+  Realsoft_Caixa.Form5.resources - Embedded, ContainedInManifestFile, 
+  Realsoft_Caixa.Form6.resources - Embedded, ContainedInManifestFile, 
+  Realsoft_Caixa.Form7.resources - Embedded, ContainedInManifestFile, 
+  Realsoft_Caixa.Form8.resources - Embedded, ContainedInManifestFile, 
+  Realsoft_Caixa.Form9.resources - Embedded, ContainedInManifestFile, 
+  Realsoft_Caixa.FormAcrescimo.resources - Embedded, ContainedInManifestFile, 
+  Realsoft_Caixa.FormAjuda.resources - Embedded, ContainedInManifestFile, 
+  Realsoft_Caixa.FormCartaoLoja.resources - Embedded, ContainedInManifestFile, 
+  Realsoft_Caixa.FormCheque.resources - Embedded, ContainedInManifestFile, 
+  Realsoft_Caixa.FormCupom.resources - Embedded, ContainedInManifestFile, 
+  Realsoft_Caixa.FormDesconto.resources - Embedded, ContainedInManifestFile, 
+  Realsoft_Caixa.FormMercadorias.resources - Embedded, ContainedInManifestFile, 
+  Realsoft_Caixa.FormMovimentacao.resources - Embedded, ContainedInManifestFile, 
+  Realsoft_Caixa.FormPagamento.resources - Embedded, ContainedInManifestFile, 
+  Realsoft_Caixa.FormPrecos.resources - Embedded, ContainedInManifestFile, 
+  Realsoft_Caixa.FormPublicidade.resources - Embedded, ContainedInManifestFile, 
+  Realsoft_Caixa.FormRegistro.resources - Embedded, ContainedInManifestFile, 
+  Realsoft_Caixa.FormRelatorio.resources - Embedded, ContainedInManifestFile, 
+  Realsoft_Caixa.FormTEF.resources - Embedded, ContainedInManifestFile, 
+  Realsoft_Caixa.FormTroco.resources - Embedded, ContainedInManifestFile, 
+  Realsoft_Caixa.Realsoft_Pagamento.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly Realsoft_Caixa, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly Button, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=None, flags=None
+Assembly MessagingToolkit.QRCode, Version=1.3.*, Culture=Invariant Language (Invariant Country): 
+	hash=None, flags=None
+Assembly MySql.Data, Version=6.4.4.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d: 
+	hash=None, flags=None
+Assembly PresentationFramework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35: 
+	hash=None, flags=None
+Assembly Realsoft_Class, Version=1.3.*, Culture=Invariant Language (Invariant Country): 
+	hash=None, flags=None
+Assembly Realsoft_ComunicaBalanca, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=None, flags=None
+Assembly Realsoft_DLL, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=None, flags=None
+Assembly Realsoft_TEF, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Management, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Net, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Realsoft_Caixa.Form10: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.TextBox TxValor : Public
+    System.Windows.Forms.TextBox TxSenhaFiscal : Public
+    System.String Retorno : Public, Static
+    Int32 _posicao : Public, Static
+Class Realsoft_Caixa.FormCupom: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Realsoft_Caixa.Form11: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Realsoft_Caixa.FormMovimentacao: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Realsoft_Caixa.Form12: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.DataGridView DgLista : Public
+Class Realsoft_Caixa.Form14: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Realsoft_Caixa.Form15: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Realsoft_Caixa.Form16: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Realsoft_Caixa.FormTEF: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Realsoft_Caixa.FormTroco: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Label LbPago : Public
+    System.Windows.Forms.Label LbSub : Public
+Class Realsoft_Caixa.FormCheque: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Realsoft_Caixa.FormCartaoLoja: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Realsoft_Caixa.Form3: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.TextBox TxSubTotal : Public
+Class Realsoft_Caixa.Form4: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String Retorno : Public, Static
+Class Realsoft_Caixa.Form5: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Realsoft_Caixa.Form7: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Realsoft_Caixa.Form8: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String Descricao : Public, Static
+Class Realsoft_Caixa.FormRelatorio: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Realsoft_Caixa.Form9: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Realsoft_Caixa.FormDesconto: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Boolean Porcentage : Public, Static
+Class Realsoft_Caixa.FormPublicidade: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.PictureBox PictureBox1 : Public, Static
+    Boolean Publicidade : Public, Static
+  Methods:
+    PararPublicidade(): PrivateScope, Public, HideBySig
+Class Realsoft_Caixa.FormAjuda: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Realsoft_Caixa.Realsoft_Pagamento: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Realsoft_Caixa.FormAcrescimo: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Realsoft_Caixa.FormPrecos: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Realsoft_Caixa.FormMercadorias: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Realsoft_Caixa.Form2: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Label LbDescricao : Public
+    System.Windows.Forms.Label LbUsuario : Public
+    System.Windows.Forms.DataGridView DgLista : Public
+    System.Windows.Forms.TextBox TxQaunt : Public
+    System.Windows.Forms.Label LbTotal : Public
+    System.Windows.Forms.Label TxPrecoUnit : Public
+    System.Windows.Forms.TextBox TxCodigo : Public
+    System.Windows.Forms.Label LbCaminho : Public
+    System.Windows.Forms.Label LbCupom : Public
+Class Realsoft_Caixa.Form6: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 ReotornoOperador : Public, Static
+    System.String _Operador : Public, Static
+  Methods:
+    setOperador(Int32, String): PrivateScope, Public, HideBySig
+Class Realsoft_Caixa.FormPagamento: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Realsoft_Caixa.FormRegistro: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Realsoft_Caixa.Form1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
