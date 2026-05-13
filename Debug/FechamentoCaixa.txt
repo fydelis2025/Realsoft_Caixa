@@ -1,0 +1,25 @@
+     FECHAMENTO DO DIA - VIA FISCAL
+ ----------------------------------------------
+ DATA FECHAMENTO 13/06/2015 12:48:36
+ ----------------------------------------------
+
+
+
+  MOVIMENTACAO    VALOR          RETIRADA
+
+
+  DINHEIRO      0,4000        0,0000
+  CREDITO       0,0000        0,0000
+  DEBITO        0,0000        0,0000
+  CARTAO LOJA   0,0000        0,0000
+  CHEQUE        0,0000        0,0000
+  CREDITO POS   2,0000        2,0000
+  DEBITO POS    0,0000        0,0000
+  TICKET        0,0000        0,0000
+
+
+ Fundo de Troco:    0,00 +    Venda Bruta: 2,00 =    2,00
+
+ ----------------------------------------------
+
+                    ASSINATURA
