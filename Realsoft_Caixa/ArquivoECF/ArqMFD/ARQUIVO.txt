@@ -1,0 +1,249 @@
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+EmissÆo:26/11/2015 18:50 Di=26112015 Df=26112015
+26/11/2015 10:14:54                   E1COO:001267E0         !(  LEITURA  X!
+------------------ CONTADORES ------------------Geral de Opera‡Æo NÆo-Fiscal:             000261Contador de Rein¡cio de Opera‡Æo:            001Contador de Redu‡äes Z:                     0128Contador de Cupom Fiscal:                 000610Contador de Fita-Detalhe:                 000000Comprovante de Cr‚dito ou D‚bito:           0000Geral de Relat¢rio Gerencial:             000060Geral Oper. NÆo-Fiscal Canc.:               0000Cupom Fiscal Cancelado:                     0000---------------- TOTALIZADORES -----------------TOTALIZADOR GERAL:                     20.376,32VENDA BRUTA DIµRIA:                         0,00CANCELAMENTO ICMS:                          0,00DESCONTO ICMS:                              0,00TOTAL DE ISSQN:                             0,00CANCELAMENTO ISSQN:                         0,00DESCONTO ISSQN:                             0,00                                  --------------VENDA LÖQUIDA:                              0,00ACRSCIMO ICMS:                             0,00ACRSCIMO ISSQN:                            0,00--------------------- ICMS ---------------------Totalizador   Base C lculo(  R$)   Imposto(  R$)00T18,00%                 0,00              0,0001T01,80%                 0,00              0,0002T17,00%                 0,00              0,0003T02,60%                 0,00              0,0004T03,20%                 0,00              0,0005T07,00%                 0,00              0,0006T12,00%                 0,00              0,0009T08,40%                 0,00              0,0010T00,00%                 0,00              0,00                   -----------------------------Total ICMS:               0,00              0,00NÆo Tributados            Valor Acumulado (  R$)F1=                                         0,00I1=                                         0,00N1=                                         0,00-------------------  ISSQN  --------------------Totalizador   Base C lculo(  R$)   Imposto(  R$)07S03,00%                 0,00              0,0008S05,00%                 0,00              0,00                   -----------------------------Total ISSQN:              0,00              0,00NÆo Tributados            Valor Acumulado (  R$)FS1=                                        0,00IS1=                                        0,00NS1=                                        0,00---------- TOTALIZADORES NÇO FISCAIS -----------N§ Opera‡Æo           CON  Valor Acumulado(  R$)00 Sangria               0000               0,0001 Suprimento            0000               0,00                                  --------------Total Oper NÆo-Fiscais                      0,00ACRE NÇO-FISC                               0,00DESC NÇO-FISC                               0,00CANC NÇO-FISC                               0,00------------- RELATàRIO GERENCIAL --------------N§ Relat¢rio                                 CER00  Gerenc X                                000001  Relatorio Gerencial                     000099  Parametros                              0000-------------- MEIOS DE PAGAMENTO --------------N§  Meio Pagamento         Valor Acumulado(  R$)00  DINHEIRO        (V)                     0,0001  TICKET          (V)                     0,0002  CONTRA VALE     (V)                     0,0003  CHEQUE          (V)                     0,0004  CARTAO          (V)                     0,0005  OUTRAS          (V)                     0,0006  PENDURA         (V)                     0,0007  A VISTA                                 0,0008  AVISTA                                  0,0009  CREDITO POS                             0,0010  DEBITO POS                              0,0011  TEF                                     0,0020  Dinheiro                                0,00TROCO                                       0,00------------------------------------------------Comprovante NÆo Emitido:                    0000Tempo Emitindo Doc. Fiscal:             00:00:00Tempo Operacional:                     904:19:49Qtd. Redu‡äes Restantes:                    2112N£mero s‚rie MFD:                      911029681E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERSÇO:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIGESGC          26/11/2015 10:14:56 E1FAB:EL051100000000004488                  E0
+ZPMCS=D3E8A4C2
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+EmissÆo:26/11/2015 18:50 Di=26112015 Df=26112015
+26/11/2015 10:18:40                   E1COO:001268E0E1             LEITURA MEMORIA FISCALE0
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERSÇO:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIGESGC          26/11/2015 10:18:42 E1FAB:EL051100000000004488                  E0
+ZPMCS=3E5D8ABC
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+EmissÆo:26/11/2015 18:50 Di=26112015 Df=26112015
+26/11/2015 10:18:43   CCF:000611      E1COO:001269E0!(    CUPOM FISCAL!
+ITEM CàDIGO       DESCRI€ÇO
+QTD.   UN.   VL.UNIT(  R$) ST IAT  VL.ITEM(  R$)------------------------------------------------1 7891025114758 LEITE FERMENT DUNUP DANONE MORANGO 900 G
+     1,000Un x       7,30 T00  A           7,30°2 7898928865541 CREME PENTEAR OSTRA 300 ML           1,000Un x       5,70 T00  A           5,70°------------------------------------------------!(TOTAL   R$!                 13,00
+Dinheiro                                   20,00TROCO     R$                                7,00T00=18,00% 
+------------------------------------------------REALSOFT - OBRIGADO E VOLTE SEMPRE 
+E0!------------------------------------------------K>hh#~+T9KS9$+-ww+!K~>x/>x+>K*!b=@KKXwY>#xXS#-TXELGIN      K                     ECF-IF
+VERSÇO:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIGPOGC          26/11/2015 10:18:56 E1FAB:EL051100000000004488                  E0
+ZPMCS=2C4002F6
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+EmissÆo:26/11/2015 18:50 Di=26112015 Df=26112015
+26/11/2015 15:35:38   CCF:000612      E1COO:001270E0!(    CUPOM FISCAL!
+ITEM CàDIGO       DESCRI€ÇO
+QTD.   UN.   VL.UNIT(  R$) ST IAT  VL.ITEM(  R$)------------------------------------------------!1 7816931900158 BLOCO DE ANOTACOES  1Un T00 A       6,00°!
+------------------------------------------------!(TOTAL   R$!                  6,00
+Dinheiro                                    0,10E1              CUPOM FISCAL CANCELADOE0
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERSÇO:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIGOUGC          26/11/2015 15:36:09 E1FAB:EL051100000000004488                  E0
+ZPMCS=9608CF63
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+EmissÆo:26/11/2015 18:50 Di=26112015 Df=26112015
+26/11/2015 15:36:22   CCF:000613      E1COO:001271E0!(    CUPOM FISCAL!
+ITEM CàDIGO       DESCRI€ÇO
+QTD.   UN.   VL.UNIT(  R$) ST IAT  VL.ITEM(  R$)------------------------------------------------1 7891095106356 REFRESCO YOKI TANGERINA 1 KG         1,000Un x       5,40 T00  A           5,40°------------------------------------------------!(TOTAL   R$!                  5,40
+Dinheiro                                    5,40T00=18,00% 
+------------------------------------------------REALSOFT - OBRIGADO E VOLTE SEMPRE 
+E0!------------------------------------------------RK+RX~&-K-R>/ppS=ST+#*#KRRX@pKxT+$!XKTR&~2+#-=#!ELGIN      K                     ECF-IF
+VERSÇO:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIMIIEC          26/11/2015 15:36:32 E1FAB:EL051100000000004488                  E0
+ZPMCS=1436E47C
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+EmissÆo:26/11/2015 18:50 Di=26112015 Df=26112015
+26/11/2015 15:36:37                   E1COO:001272E0         !(  LEITURA  X!
+------------------ CONTADORES ------------------Geral de Opera‡Æo NÆo-Fiscal:             000261Contador de Rein¡cio de Opera‡Æo:            001Contador de Redu‡äes Z:                     0128Contador de Cupom Fiscal:                 000613Contador de Fita-Detalhe:                 000000Comprovante de Cr‚dito ou D‚bito:           0000Geral de Relat¢rio Gerencial:             000060Geral Oper. NÆo-Fiscal Canc.:               0000Cupom Fiscal Cancelado:                     0001---------------- TOTALIZADORES -----------------TOTALIZADOR GERAL:                     20.400,72VENDA BRUTA DIµRIA:                        24,40CANCELAMENTO ICMS:                          6,00DESCONTO ICMS:                              0,00TOTAL DE ISSQN:                             0,00CANCELAMENTO ISSQN:                         0,00DESCONTO ISSQN:                             0,00                                  --------------VENDA LÖQUIDA:                             18,40ACRSCIMO ICMS:                             0,00ACRSCIMO ISSQN:                            0,00--------------------- ICMS ---------------------Totalizador   Base C lculo(  R$)   Imposto(  R$)00T18,00%                18,40              3,3101T01,80%                 0,00              0,0002T17,00%                 0,00              0,0003T02,60%                 0,00              0,0004T03,20%                 0,00              0,0005T07,00%                 0,00              0,0006T12,00%                 0,00              0,0009T08,40%                 0,00              0,0010T00,00%                 0,00              0,00                   -----------------------------Total ICMS:              18,40              3,31NÆo Tributados            Valor Acumulado (  R$)F1=                                         0,00I1=                                         0,00N1=                                         0,00-------------------  ISSQN  --------------------Totalizador   Base C lculo(  R$)   Imposto(  R$)07S03,00%                 0,00              0,0008S05,00%                 0,00              0,00                   -----------------------------Total ISSQN:              0,00              0,00NÆo Tributados            Valor Acumulado (  R$)FS1=                                        0,00IS1=                                        0,00NS1=                                        0,00---------- TOTALIZADORES NÇO FISCAIS -----------N§ Opera‡Æo           CON  Valor Acumulado(  R$)00 Sangria               0000               0,0001 Suprimento            0000               0,00                                  --------------Total Oper NÆo-Fiscais                      0,00ACRE NÇO-FISC                               0,00DESC NÇO-FISC                               0,00CANC NÇO-FISC                               0,00------------- RELATàRIO GERENCIAL --------------N§ Relat¢rio                                 CER00  Gerenc X                                000001  Relatorio Gerencial                     000099  Parametros                              0000-------------- MEIOS DE PAGAMENTO --------------N§  Meio Pagamento         Valor Acumulado(  R$)00  DINHEIRO        (V)                     0,0001  TICKET          (V)                     0,0002  CONTRA VALE     (V)                     0,0003  CHEQUE          (V)                     0,0004  CARTAO          (V)                     0,0005  OUTRAS          (V)                     0,0006  PENDURA         (V)                     0,0007  A VISTA                                 0,0008  AVISTA                                  0,0009  CREDITO POS                             0,0010  DEBITO POS                              0,0011  TEF                                     0,0020  Dinheiro                               25,40TROCO                                       7,00------------------------------------------------Comprovante NÆo Emitido:                    0000Tempo Emitindo Doc. Fiscal:             00:00:54Tempo Operacional:                     909:41:32Qtd. Redu‡äes Restantes:                    2112N£mero s‚rie MFD:                      911029681E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERSÇO:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIMIIEC          26/11/2015 15:36:39 E1FAB:EL051100000000004488                  E0
+ZPMCS=C795A574
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+EmissÆo:26/11/2015 18:50 Di=26112015 Df=26112015
+26/11/2015 15:37:01                   E1COO:001273E0E1             LEITURA MEMORIA FISCALE0
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERSÇO:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIMIIEC          26/11/2015 15:37:08 E1FAB:EL051100000000004488                  E0
+ZPMCS=3EF08AC1
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+EmissÆo:26/11/2015 18:50 Di=26112015 Df=26112015
+26/11/2015 15:38:26   CCF:000614      E1COO:001274E0!(    CUPOM FISCAL!
+ITEM CàDIGO       DESCRI€ÇO
+QTD.   UN.   VL.UNIT(  R$) ST IAT  VL.ITEM(  R$)------------------------------------------------1 7896094908642 HIDRATANTE MONAGE FINAL FANTASTIC 200 ML
+     1,000Un x       4,99 T00  A           4,99°------------------------------------------------!(TOTAL   R$!                  4,99
+Dinheiro                                    5,00TROCO     R$                                0,01T00=18,00% 
+------------------------------------------------REALSOFT - OBRIGADO E VOLTE SEMPRE 
+E0!-------------------------------------------------R#S2+*&TR$-*=YRR#*x-&9>Yh&9SRx/&=#@K=S/K#wp+wb*ELGIN      K                     ECF-IF
+VERSÇO:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIMIUEA          26/11/2015 15:38:38 E1FAB:EL051100000000004488                  E0
+ZPMCS=14C0EE2D
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+EmissÆo:26/11/2015 18:50 Di=26112015 Df=26112015
+26/11/2015 15:39:37   CCF:000614      E1COO:001275E0!(    CUPOM FISCAL
+    CANCELAMENTO!
+
+Cancelamento de Cupom Fiscal(CCF):        000614COO do Cupom Fiscal cancelado:            001274Valor total da operacao   R$                4,99Quantidade de CCD cancelados:             000000E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERSÇO:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIMIUEA          26/11/2015 15:39:37 E1FAB:EL051100000000004488                  E0
+ZPMCS=ED30BF80
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+EmissÆo:26/11/2015 18:50 Di=26112015 Df=26112015
+26/11/2015 16:34:17                   E1COO:001276E0E1             LEITURA MEMORIA FISCALE0
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERSÇO:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIMIUEA          26/11/2015 16:34:18 E1FAB:EL051100000000004488                  E0
+ZPMCS=4B218AD2
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+EmissÆo:26/11/2015 18:50 Di=26112015 Df=26112015
+26/11/2015 16:36:20                   E1COO:001277E0E1             LEITURA MEMORIA FISCALE0
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERSÇO:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIMIUEA          26/11/2015 16:36:21 E1FAB:EL051100000000004488                  E0
+ZPMCS=46AD8ACB
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+EmissÆo:26/11/2015 18:50 Di=26112015 Df=26112015
+26/11/2015 16:43:36                   E1COO:001278E0E1             LEITURA MEMORIA FISCALE0
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERSÇO:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIMIUEA          26/11/2015 16:43:37 E1FAB:EL051100000000004488                  E0
+ZPMCS=4EB08AD6
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+EmissÆo:26/11/2015 18:50 Di=26112015 Df=26112015
+26/11/2015 16:45:18                   E1COO:001279E0E1             LEITURA MEMORIA FISCALE0
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERSÇO:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIMIUEA          26/11/2015 16:45:19 E1FAB:EL051100000000004488                  E0
+ZPMCS=52948ADB
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+EmissÆo:26/11/2015 18:50 Di=26112015 Df=26112015
+26/11/2015 17:26:30                   E1COO:001280E0E1             LEITURA MEMORIA FISCALE0
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERSÇO:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIMIUEA          26/11/2015 17:26:31 E1FAB:EL051100000000004488                  E0
+ZPMCS=41AD8AC7
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+EmissÆo:26/11/2015 18:50 Di=26112015 Df=26112015
+26/11/2015 17:49:30                   E1COO:001281E0E1             LEITURA MEMORIA FISCALE0
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERSÇO:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIMIUEA          26/11/2015 17:49:31 E1FAB:EL051100000000004488                  E0
+ZPMCS=49DA8AD2
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+EmissÆo:26/11/2015 18:50 Di=26112015 Df=26112015
+26/11/2015 18:09:51   CCF:000615      E1COO:001282E0!(    CUPOM FISCAL!
+ITEM CàDIGO       DESCRI€ÇO
+QTD.   UN.   VL.UNIT(  R$) ST IAT  VL.ITEM(  R$)------------------------------------------------1 7896094908642 HIDRATANTE MONAGE FINAL FANTASTIC 200 ML
+     1,000Un x       4,99 T00  A           4,99°------------------------------------------------!(TOTAL   R$!                  4,99
+Dinheiro                                    5,00TROCO     R$                                0,01T00=18,00% 
+------------------------------------------------REALSOFT - OBRIGADO E VOLTE SEMPRE 
+E0!------------------------------------------------Kw$/w!bR+=wT#@+ppS#Y=hb2+b~&=X=>Rh!=h/*@*Xh!pTX&ELGIN      K                     ECF-IF
+VERSÇO:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIMAIEI          26/11/2015 18:09:59 E1FAB:EL051100000000004488                  E0
+ZPMCS=39C0EF8A

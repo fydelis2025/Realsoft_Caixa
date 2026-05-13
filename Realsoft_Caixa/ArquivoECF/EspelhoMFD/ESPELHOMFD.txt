@@ -1,0 +1,1516 @@
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+31/03/2015 17:26:18                   E1COO:001188E0E1             LEITURA MEMORIA FISCALE0
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIICGCS          31/03/2015 17:26:22 E1FAB:EL051100000000004488                  E0
+ZPMCS=38B48ABA
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+31/03/2015 17:26:23   GNF:000255      E1COO:001189E0               NAO E DOCUMENTO FISCAL
+E1               COMPROVANTE NAO-FISCALE0
+------------------------------------------------!(TOTAL   R$!                  0,00
+E1        COMPROVANTE NAO-FISCAL CANCELADOE0
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIICGCS          31/03/2015 17:26:23 E1FAB:EL051100000000004488                  E0
+ZPMCS=C034AD41
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+31/03/2015 17:26:45                   E1COO:001190E0         !(  LEITURA  X!
+------------------ CONTADORES ------------------Geral de Operaá∆o N∆o-Fiscal:             000255Contador de Rein°cio de Operaá∆o:            001Contador de Reduá‰es Z:                     0119Contador de Cupom Fiscal:                 000584Contador de Fita-Detalhe:                 000000Comprovante de CrÇdito ou DÇbito:           0000Geral de Relat¢rio Gerencial:             000048Geral Oper. N∆o-Fiscal Canc.:               0001Cupom Fiscal Cancelado:                     0000---------------- TOTALIZADORES -----------------TOTALIZADOR GERAL:                     20.023,26VENDA BRUTA DIµRIA:                         0,00CANCELAMENTO ICMS:                          0,00DESCONTO ICMS:                              0,00TOTAL DE ISSQN:                             0,00CANCELAMENTO ISSQN:                         0,00DESCONTO ISSQN:                             0,00                                  --------------VENDA L÷QUIDA:                              0,00ACRêSCIMO ICMS:                             0,00ACRêSCIMO ISSQN:                            0,00--------------------- ICMS ---------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)00T18,00%                 0,00              0,0001T01,80%                 0,00              0,0002T17,00%                 0,00              0,0003T02,60%                 0,00              0,0004T03,20%                 0,00              0,0005T07,00%                 0,00              0,0006T12,00%                 0,00              0,0009T08,40%                 0,00              0,00                   -----------------------------Total ICMS:               0,00              0,00N∆o Tributados            Valor Acumulado (  R$)F1=                                         0,00I1=                                         0,00N1=                                         0,00-------------------  ISSQN  --------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)07S03,00%                 0,00              0,0008S05,00%                 0,00              0,00                   -----------------------------Total ISSQN:              0,00              0,00N∆o Tributados            Valor Acumulado (  R$)FS1=                                        0,00IS1=                                        0,00NS1=                                        0,00---------- TOTALIZADORES N«O FISCAIS -----------Nß Operaá∆o           CON  Valor Acumulado(  R$)00 Sangria               0000               0,0001 Suprimento            0000               0,00                                  --------------Total Oper N∆o-Fiscais                      0,00ACRE N«O-FISC                               0,00DESC N«O-FISC                               0,00CANC N«O-FISC                               0,00------------- RELAT‡RIO GERENCIAL --------------Nß Relat¢rio                                 CER00  Gerenc X                                000001  Relatorio Gerencial                     000099  Parametros                              0000-------------- MEIOS DE PAGAMENTO --------------Nß  Meio Pagamento         Valor Acumulado(  R$)00  DINHEIRO        (V)                     0,0001  TICKET          (V)                     0,0002  CONTRA VALE     (V)                     0,0003  CHEQUE          (V)                     0,0004  CARTAO          (V)                     0,0005  OUTRAS          (V)                     0,0006  PENDURA         (V)                     0,0020  Dinheiro                                0,00TROCO                                       0,00------------------------------------------------Comprovante N∆o Emitido:                    0000Tempo Emitindo Doc. Fiscal:             00:00:00Tempo Operacional:                     106:54:23Qtd. Reduá‰es Restantes:                    2121N£mero sÇrie MFD:                      911029681E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIICGCS          31/03/2015 17:26:47 E1FAB:EL051100000000004488                  E0
+ZPMCS=2FAB77E3
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+31/03/2015 17:27:10                   E1COO:001191E0         !(  LEITURA  X!
+------------------ CONTADORES ------------------Geral de Operaá∆o N∆o-Fiscal:             000255Contador de Rein°cio de Operaá∆o:            001Contador de Reduá‰es Z:                     0119Contador de Cupom Fiscal:                 000584Contador de Fita-Detalhe:                 000000Comprovante de CrÇdito ou DÇbito:           0000Geral de Relat¢rio Gerencial:             000048Geral Oper. N∆o-Fiscal Canc.:               0001Cupom Fiscal Cancelado:                     0000---------------- TOTALIZADORES -----------------TOTALIZADOR GERAL:                     20.023,26VENDA BRUTA DIµRIA:                         0,00CANCELAMENTO ICMS:                          0,00DESCONTO ICMS:                              0,00TOTAL DE ISSQN:                             0,00CANCELAMENTO ISSQN:                         0,00DESCONTO ISSQN:                             0,00                                  --------------VENDA L÷QUIDA:                              0,00ACRêSCIMO ICMS:                             0,00ACRêSCIMO ISSQN:                            0,00--------------------- ICMS ---------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)00T18,00%                 0,00              0,0001T01,80%                 0,00              0,0002T17,00%                 0,00              0,0003T02,60%                 0,00              0,0004T03,20%                 0,00              0,0005T07,00%                 0,00              0,0006T12,00%                 0,00              0,0009T08,40%                 0,00              0,00                   -----------------------------Total ICMS:               0,00              0,00N∆o Tributados            Valor Acumulado (  R$)F1=                                         0,00I1=                                         0,00N1=                                         0,00-------------------  ISSQN  --------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)07S03,00%                 0,00              0,0008S05,00%                 0,00              0,00                   -----------------------------Total ISSQN:              0,00              0,00N∆o Tributados            Valor Acumulado (  R$)FS1=                                        0,00IS1=                                        0,00NS1=                                        0,00---------- TOTALIZADORES N«O FISCAIS -----------Nß Operaá∆o           CON  Valor Acumulado(  R$)00 Sangria               0000               0,0001 Suprimento            0000               0,00                                  --------------Total Oper N∆o-Fiscais                      0,00ACRE N«O-FISC                               0,00DESC N«O-FISC                               0,00CANC N«O-FISC                               0,00------------- RELAT‡RIO GERENCIAL --------------Nß Relat¢rio                                 CER00  Gerenc X                                000001  Relatorio Gerencial                     000099  Parametros                              0000-------------- MEIOS DE PAGAMENTO --------------Nß  Meio Pagamento         Valor Acumulado(  R$)00  DINHEIRO        (V)                     0,0001  TICKET          (V)                     0,0002  CONTRA VALE     (V)                     0,0003  CHEQUE          (V)                     0,0004  CARTAO          (V)                     0,0005  OUTRAS          (V)                     0,0006  PENDURA         (V)                     0,0020  Dinheiro                                0,00TROCO                                       0,00------------------------------------------------Comprovante N∆o Emitido:                    0000Tempo Emitindo Doc. Fiscal:             00:00:00Tempo Operacional:                     106:54:41Qtd. Reduá‰es Restantes:                    2121N£mero sÇrie MFD:                      911029681E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIICGCS          31/03/2015 17:27:12 E1FAB:EL051100000000004488                  E0
+ZPMCS=CE6177D6
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+31/03/2015 17:27:26   CCF:000585      E1COO:001192E0!(    CUPOM FISCAL!
+ITEM C‡DIGO       DESCRIÄ«O
+QTD.   UN.   VL.UNIT(  R$) ST IAT  VL.ITEM(  R$)------------------------------------------------!1 650 ABRACADEIRA  NYLON PRETA 200X4,8 MM 1Un T05 A 0,30∞!
+!2 505 TUBO 40 MM ESGOTO KEP  1Un T05 A             15,80∞!
+E1              CUPOM FISCAL CANCELADOE0
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIIGOGS          31/03/2015 17:27:51 E1FAB:EL051100000000004488                  E0
+ZPMCS=EF95C630
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+31/03/2015 17:28:08   GNF:000255      E1COO:001193E0GRG:000049  CER:0001
+            NAO E DOCUMENTO FISCAL
+E1             RELATORIO GERENCIALE0
+               Gerenc X
+     FECHAMENTO DO DIA - VIA FISCAL
+ ----------------------------------------------
+ DATA FECHAMENTO 31/03/2015 17:37:37
+ ----------------------------------------------
+
+
+
+  MOVIMENTACAO    VALOR          RETIRADA
+
+
+  AVISTA          0,0000        0,0000
+  CREDITO         0,0000        0,0000
+  DEBITO          0,0000        0,0000
+  CARTAO LOJA     0,0000        0,0000
+  CHEQUE          0,0000        0,0000
+  CREDITO POS     0,0000        0,0000
+  DEBITO POS   
+    0,0000        0,0000
+  TICKET          0,0000        0,0000
+
+
+ --------------------------------------------
+
+                    ASSINATURA 
+             NAO E DOCUMENTO FISCAL
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIIGOGS          31/03/2015 17:28:10 E1FAB:EL051100000000004488                  E0
+ZPMCS=CAC6A326
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+31/03/2015 17:28:18   GNF:000256      E1COO:001194E0               NAO E DOCUMENTO FISCAL
+E1               COMPROVANTE NAO-FISCALE0
+------------------------------------------------!(TOTAL   R$!                  0,00
+E1        COMPROVANTE NAO-FISCAL CANCELADOE0
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIIGOGS          31/03/2015 17:28:19 E1FAB:EL051100000000004488                  E0
+ZPMCS=CCD7AD5B
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+31/03/2015 17:33:28                   E1COO:001195E0      !(  REDUÄ«O  Z!
+MOVIMENTO DO DIA:                     31/03/2015------------------ CONTADORES ------------------Geral de Operaá∆o N∆o-Fiscal:             000256Contador de Rein°cio de Operaá∆o:            001Contador de Reduá‰es Z:                     0120Contador de Cupom Fiscal:                 000585Contador de Fita-Detalhe:                 000000Comprovante de CrÇdito ou DÇbito:           0000Geral de Relat¢rio Gerencial:             000049Geral Oper. N∆o-Fiscal Canc.:               0002Cupom Fiscal Cancelado:                     0001---------------- TOTALIZADORES -----------------TOTALIZADOR GERAL:                     20.039,36VENDA BRUTA DIµRIA:                        16,10CANCELAMENTO ICMS:                         16,10DESCONTO ICMS:                    ***********,**TOTAL DE ISSQN:                   ***********,**CANCELAMENTO ISSQN:               ***********,**DESCONTO ISSQN:                   ***********,**                                  --------------VENDA L÷QUIDA:                   ************,**ACRêSCIMO ICMS:                   ***********,**ACRêSCIMO ISSQN:                  ***********,**--------------------- ICMS ---------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)00T18,00%                 0,00              0,0001T01,80%                 0,00              0,0002T17,00%                 0,00              0,0003T02,60%                 0,00              0,0004T03,20%                 0,00              0,0005T07,00%                 0,00              0,0006T12,00%                 0,00              0,0009T08,40%                 0,00              0,00                   -----------------------------Total ICMS:               0,00              0,00N∆o Tributados            Valor Acumulado (  R$)F1=                                         0,00I1=                                         0,00N1=                                         0,00-------------------  ISSQN  --------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)07S03,00%                 0,00              0,0008S05,00%                 0,00              0,00                   -----------------------------Total ISSQN:              0,00              0,00N∆o Tributados            Valor Acumulado (  R$)FS1=                                        0,00IS1=                                        0,00NS1=                                        0,00---------- TOTALIZADORES N«O FISCAIS -----------Nß Operaá∆o           CON  Valor Acumulado(  R$)00 Sangria               0000               0,0001 Suprimento            0000               0,00                                  --------------Total Oper N∆o-Fiscais                      0,00ACRE N«O-FISC                               0,00DESC N«O-FISC                               0,00CANC N«O-FISC                               0,00------------- RELAT‡RIO GERENCIAL --------------Nß Relat¢rio                                 CER00  Gerenc X                                000101  Relatorio Gerencial                     000099  Parametros                              0000-------------- MEIOS DE PAGAMENTO --------------Nß  Meio Pagamento         Valor Acumulado(  R$)00  DINHEIRO        (V)                     0,0001  TICKET          (V)                     0,0002  CONTRA VALE     (V)                     0,0003  CHEQUE          (V)                     0,0004  CARTAO          (V)                     0,0005  OUTRAS          (V)                     0,0006  PENDURA         (V)                     0,0020  Dinheiro                                0,00TROCO                                       0,00------------------------------------------------Comprovante N∆o Emitido:                    0000Tempo Emitindo Doc. Fiscal:             00:00:24Tempo Operacional:                     106:55:59Qtd. Reduá‰es Restantes:                    2120N£mero sÇrie MFD:                      911029681E0!------------------------------------------------bh&Xp*2@+XK=!>9-~S!wX!2hR#/Rh#*&pph!YY>XwxwSK**~ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIIGOGS          31/03/2015 17:33:32 E1FAB:EL051100000000004488                  E0
+ZPMCS=3C0D91EC
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+03/04/2015 11:23:11                   E1COO:001196E0E1             LEITURA MEMORIA FISCALE0
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIIGOGS          03/04/2015 11:23:13 E1FAB:EL051100000000004488                  E0
+ZPMCS=27718AB0
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+03/04/2015 11:23:13   GNF:000257      E1COO:001197E0               NAO E DOCUMENTO FISCAL
+E1               COMPROVANTE NAO-FISCALE0
+------------------------------------------------!(TOTAL   R$!                  0,00
+E1        COMPROVANTE NAO-FISCAL CANCELADOE0
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIIGOGS          03/04/2015 11:23:14 E1FAB:EL051100000000004488                  E0
+ZPMCS=B248AD3F
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+03/04/2015 11:23:40   CCF:000586      E1COO:001198E0!(    CUPOM FISCAL!
+ITEM C‡DIGO       DESCRIÄ«O
+QTD.   UN.   VL.UNIT(  R$) ST IAT  VL.ITEM(  R$)------------------------------------------------!1 505 TUBO 40 MM ESGOTO KEP  1Un T05 A             15,80∞!
+E1              CUPOM FISCAL CANCELADOE0
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIIUUAS          03/04/2015 11:24:30 E1FAB:EL051100000000004488                  E0
+ZPMCS=BBF4B7F5
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+03/04/2015 11:25:17                   E1COO:001199E0         !(  LEITURA  X!
+------------------ CONTADORES ------------------Geral de Operaá∆o N∆o-Fiscal:             000257Contador de Rein°cio de Operaá∆o:            001Contador de Reduá‰es Z:                     0120Contador de Cupom Fiscal:                 000586Contador de Fita-Detalhe:                 000000Comprovante de CrÇdito ou DÇbito:           0000Geral de Relat¢rio Gerencial:             000049Geral Oper. N∆o-Fiscal Canc.:               0001Cupom Fiscal Cancelado:                     0001---------------- TOTALIZADORES -----------------TOTALIZADOR GERAL:                     20.055,16VENDA BRUTA DIµRIA:                        15,80CANCELAMENTO ICMS:                         15,80DESCONTO ICMS:                              0,00TOTAL DE ISSQN:                             0,00CANCELAMENTO ISSQN:                         0,00DESCONTO ISSQN:                             0,00                                  --------------VENDA L÷QUIDA:                              0,00ACRêSCIMO ICMS:                             0,00ACRêSCIMO ISSQN:                            0,00--------------------- ICMS ---------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)00T18,00%                 0,00              0,0001T01,80%                 0,00              0,0002T17,00%                 0,00              0,0003T02,60%                 0,00              0,0004T03,20%                 0,00              0,0005T07,00%                 0,00              0,0006T12,00%                 0,00              0,0009T08,40%                 0,00              0,00                   -----------------------------Total ICMS:               0,00              0,00N∆o Tributados            Valor Acumulado (  R$)F1=                                         0,00I1=                                         0,00N1=                                         0,00-------------------  ISSQN  --------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)07S03,00%                 0,00              0,0008S05,00%                 0,00              0,00                   -----------------------------Total ISSQN:              0,00              0,00N∆o Tributados            Valor Acumulado (  R$)FS1=                                        0,00IS1=                                        0,00NS1=                                        0,00---------- TOTALIZADORES N«O FISCAIS -----------Nß Operaá∆o           CON  Valor Acumulado(  R$)00 Sangria               0000               0,0001 Suprimento            0000               0,00                                  --------------Total Oper N∆o-Fiscais                      0,00ACRE N«O-FISC                               0,00DESC N«O-FISC                               0,00CANC N«O-FISC                               0,00------------- RELAT‡RIO GERENCIAL --------------Nß Relat¢rio                                 CER00  Gerenc X                                000001  Relatorio Gerencial                     000099  Parametros                              0000-------------- MEIOS DE PAGAMENTO --------------Nß  Meio Pagamento         Valor Acumulado(  R$)00  DINHEIRO        (V)                     0,0001  TICKET          (V)                     0,0002  CONTRA VALE     (V)                     0,0003  CHEQUE          (V)                     0,0004  CARTAO          (V)                     0,0005  OUTRAS          (V)                     0,0006  PENDURA         (V)                     0,0020  Dinheiro                                0,00TROCO                                       0,00------------------------------------------------Comprovante N∆o Emitido:                    0000Tempo Emitindo Doc. Fiscal:             00:00:50Tempo Operacional:                      21:06:12Qtd. Reduá‰es Restantes:                    2120N£mero sÇrie MFD:                      911029681E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIIUUAS          03/04/2015 11:25:19 E1FAB:EL051100000000004488                  E0
+ZPMCS=59F77823
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+03/04/2015 11:27:04                   E1COO:001200E0E1             LEITURA MEMORIA FISCALE0
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIIUUAS          03/04/2015 11:27:05 E1FAB:EL051100000000004488                  E0
+ZPMCS=253F8ABB
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+03/04/2015 11:33:23   GNF:000257      E1COO:001201E0GRG:000050  CER:0001
+            NAO E DOCUMENTO FISCAL
+E1             RELATORIO GERENCIALE0
+               Gerenc X
+     FECHAMENTO DO DIA - VIA FISCAL
+ ----------------------------------------------
+ DATA FECHAMENTO 03/04/2015 11:38:01
+ ----------------------------------------------
+
+
+
+  MOVIMENTACAO    VALOR          RETIRADA
+
+
+  AVISTA          15,8000        16,0000
+  CREDITO         0,0000        0,0000
+  DEBITO          0,0000        0,0000
+  CARTAO LOJA     0,0000        0,0000
+  CHEQUE          0,0000        0,0000
+  CREDITO POS     0,0000        0,0000
+  DEBITO POS 
+      0,0000        0,0000
+
+
+ --------------------------------------------
+
+                    ASSINATURA 
+             NAO E DOCUMENTO FISCAL
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIIUUAS          03/04/2015 11:33:24 E1FAB:EL051100000000004488                  E0
+ZPMCS=A101A312
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+03/04/2015 11:33:47   GNF:000258      E1COO:001202E0               NAO E DOCUMENTO FISCAL
+E1               COMPROVANTE NAO-FISCALE0
+001 Sangria             CON: 0001         150,00------------------------------------------------!(TOTAL   R$!                150,00
+Dinheiro                                  150,00E0!------------------------------------------------->K+@x9$$!&=-w+x2bx22=wX>YhXT/b&x#Xhx==9*~!wxxbXELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIIUUAS          03/04/2015 11:33:48 E1FAB:EL051100000000004488                  E0
+ZPMCS=4F86C2A1
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+03/04/2015 11:38:51                   E1COO:001203E0      !(  REDUÄ«O  Z!
+MOVIMENTO DO DIA:                     03/04/2015------------------ CONTADORES ------------------Geral de Operaá∆o N∆o-Fiscal:             000258Contador de Rein°cio de Operaá∆o:            001Contador de Reduá‰es Z:                     0121Contador de Cupom Fiscal:                 000586Contador de Fita-Detalhe:                 000000Comprovante de CrÇdito ou DÇbito:           0000Geral de Relat¢rio Gerencial:             000050Geral Oper. N∆o-Fiscal Canc.:               0001Cupom Fiscal Cancelado:                     0001---------------- TOTALIZADORES -----------------TOTALIZADOR GERAL:                     20.055,16VENDA BRUTA DIµRIA:                        15,80CANCELAMENTO ICMS:                         15,80DESCONTO ICMS:                    ***********,**TOTAL DE ISSQN:                   ***********,**CANCELAMENTO ISSQN:               ***********,**DESCONTO ISSQN:                   ***********,**                                  --------------VENDA L÷QUIDA:                   ************,**ACRêSCIMO ICMS:                   ***********,**ACRêSCIMO ISSQN:                  ***********,**--------------------- ICMS ---------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)00T18,00%                 0,00              0,0001T01,80%                 0,00              0,0002T17,00%                 0,00              0,0003T02,60%                 0,00              0,0004T03,20%                 0,00              0,0005T07,00%                 0,00              0,0006T12,00%                 0,00              0,0009T08,40%                 0,00              0,00                   -----------------------------Total ICMS:               0,00              0,00N∆o Tributados            Valor Acumulado (  R$)F1=                                         0,00I1=                                         0,00N1=                                         0,00-------------------  ISSQN  --------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)07S03,00%                 0,00              0,0008S05,00%                 0,00              0,00                   -----------------------------Total ISSQN:              0,00              0,00N∆o Tributados            Valor Acumulado (  R$)FS1=                                        0,00IS1=                                        0,00NS1=                                        0,00---------- TOTALIZADORES N«O FISCAIS -----------Nß Operaá∆o           CON  Valor Acumulado(  R$)00 Sangria               0001             150,0001 Suprimento            0000               0,00                                  --------------Total Oper N∆o-Fiscais                    150,00ACRE N«O-FISC                               0,00DESC N«O-FISC                               0,00CANC N«O-FISC                               0,00------------- RELAT‡RIO GERENCIAL --------------Nß Relat¢rio                                 CER00  Gerenc X                                000101  Relatorio Gerencial                     000099  Parametros                              0000-------------- MEIOS DE PAGAMENTO --------------Nß  Meio Pagamento         Valor Acumulado(  R$)00  DINHEIRO        (V)                     0,0001  TICKET          (V)                     0,0002  CONTRA VALE     (V)                     0,0003  CHEQUE          (V)                     0,0004  CARTAO          (V)                     0,0005  OUTRAS          (V)                     0,0006  PENDURA         (V)                     0,0020  Dinheiro                              150,00TROCO                                       0,00------------------------------------------------Comprovante N∆o Emitido:                    0000Tempo Emitindo Doc. Fiscal:             00:00:50Tempo Operacional:                      21:15:08Qtd. Reduá‰es Restantes:                    2119N£mero sÇrie MFD:                      911029681E0!------------------------------------------------>&x+xRT+/9b$+/9h>-~~b=R+T#=p=RYh9+T+h>hh=x~p*+$=ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIIUUAS          03/04/2015 11:38:55 E1FAB:EL051100000000004488                  E0
+ZPMCS=748A9238
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+17/04/2015 15:45:49   GNF:000259      E1COO:001204E0               NAO E DOCUMENTO FISCAL
+E1               COMPROVANTE NAO-FISCALE0
+------------------------------------------------!(TOTAL   R$!                  0,00
+E1        COMPROVANTE NAO-FISCAL CANCELADOE0
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIIUUAS          17/04/2015 15:45:50 E1FAB:EL051100000000004488                  E0
+ZPMCS=D40DAD67
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+17/04/2015 15:45:59   CCF:000587      E1COO:001205E0!(    CUPOM FISCAL!
+ITEM C‡DIGO       DESCRIÄ«O
+QTD.   UN.   VL.UNIT(  R$) ST IAT  VL.ITEM(  R$)------------------------------------------------1 692 TORNEIRA B.M. 1198 LAVATORIO C-40 T. CROMADA
+     1,000Un x      37,00 T05  A          37,00∞E1              CUPOM FISCAL CANCELADOE0
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIIOCAS          17/04/2015 15:46:19 E1FAB:EL051100000000004488                  E0
+ZPMCS=5A3BC027
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+17/04/2015 15:49:47   CCF:000588      E1COO:001206E0!(    CUPOM FISCAL!
+ITEM C‡DIGO       DESCRIÄ«O
+QTD.   UN.   VL.UNIT(  R$) ST IAT  VL.ITEM(  R$)------------------------------------------------!1 505 TUBO 40 MM ESGOTO KEP  1Un T05 A             15,80∞!
+E1              CUPOM FISCAL CANCELADOE0
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIAIEOS          17/04/2015 15:50:05 E1FAB:EL051100000000004488                  E0
+ZPMCS=D92EB7F9
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+17/04/2015 15:50:10                   E1COO:001207E0         !(  LEITURA  X!
+------------------ CONTADORES ------------------Geral de Operaá∆o N∆o-Fiscal:             000259Contador de Rein°cio de Operaá∆o:            001Contador de Reduá‰es Z:                     0121Contador de Cupom Fiscal:                 000588Contador de Fita-Detalhe:                 000000Comprovante de CrÇdito ou DÇbito:           0000Geral de Relat¢rio Gerencial:             000050Geral Oper. N∆o-Fiscal Canc.:               0001Cupom Fiscal Cancelado:                     0002---------------- TOTALIZADORES -----------------TOTALIZADOR GERAL:                     20.107,96VENDA BRUTA DIµRIA:                        52,80CANCELAMENTO ICMS:                         52,80DESCONTO ICMS:                              0,00TOTAL DE ISSQN:                             0,00CANCELAMENTO ISSQN:                         0,00DESCONTO ISSQN:                             0,00                                  --------------VENDA L÷QUIDA:                              0,00ACRêSCIMO ICMS:                             0,00ACRêSCIMO ISSQN:                            0,00--------------------- ICMS ---------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)00T18,00%                 0,00              0,0001T01,80%                 0,00              0,0002T17,00%                 0,00              0,0003T02,60%                 0,00              0,0004T03,20%                 0,00              0,0005T07,00%                 0,00              0,0006T12,00%                 0,00              0,0009T08,40%                 0,00              0,00                   -----------------------------Total ICMS:               0,00              0,00N∆o Tributados            Valor Acumulado (  R$)F1=                                         0,00I1=                                         0,00N1=                                         0,00-------------------  ISSQN  --------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)07S03,00%                 0,00              0,0008S05,00%                 0,00              0,00                   -----------------------------Total ISSQN:              0,00              0,00N∆o Tributados            Valor Acumulado (  R$)FS1=                                        0,00IS1=                                        0,00NS1=                                        0,00---------- TOTALIZADORES N«O FISCAIS -----------Nß Operaá∆o           CON  Valor Acumulado(  R$)00 Sangria               0000               0,0001 Suprimento            0000               0,00                                  --------------Total Oper N∆o-Fiscais                      0,00ACRE N«O-FISC                               0,00DESC N«O-FISC                               0,00CANC N«O-FISC                               0,00------------- RELAT‡RIO GERENCIAL --------------Nß Relat¢rio                                 CER00  Gerenc X                                000001  Relatorio Gerencial                     000099  Parametros                              0000-------------- MEIOS DE PAGAMENTO --------------Nß  Meio Pagamento         Valor Acumulado(  R$)00  DINHEIRO        (V)                     0,0001  TICKET          (V)                     0,0002  CONTRA VALE     (V)                     0,0003  CHEQUE          (V)                     0,0004  CARTAO          (V)                     0,0005  OUTRAS          (V)                     0,0006  PENDURA         (V)                     0,0007  A VISTA                                 0,0020  Dinheiro                                0,00TROCO                                       0,00------------------------------------------------Comprovante N∆o Emitido:                    0000Tempo Emitindo Doc. Fiscal:             00:00:39Tempo Operacional:                      01:24:06Qtd. Reduá‰es Restantes:                    2119N£mero sÇrie MFD:                      911029681E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIAIEOS          17/04/2015 15:50:12 E1FAB:EL051100000000004488                  E0
+ZPMCS=3DBF7F84
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+17/04/2015 15:52:24   CCF:000589      E1COO:001208E0!(    CUPOM FISCAL!
+ITEM C‡DIGO       DESCRIÄ«O
+QTD.   UN.   VL.UNIT(  R$) ST IAT  VL.ITEM(  R$)------------------------------------------------!1 650 ABRACADEIRA  NYLON PRETA 200X4,8 MM 1Un T05 A 0,30∞!
+E1              CUPOM FISCAL CANCELADOE0
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIAIPCS          17/04/2015 15:52:54 E1FAB:EL051100000000004488                  E0
+ZPMCS=85F5B97A
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+17/04/2015 15:53:08   CCF:000590      E1COO:001209E0!(    CUPOM FISCAL!
+ITEM C‡DIGO       DESCRIÄ«O
+QTD.   UN.   VL.UNIT(  R$) ST IAT  VL.ITEM(  R$)------------------------------------------------!1 650 ABRACADEIRA  NYLON PRETA 200X4,8 MM 1Un T05 A 0,30∞!
+------------------------------------------------!(TOTAL   R$!                  0,30
+AVISTA                                      0,50TROCO     R$                                0,20T05= 7,00% 
+------------------------------------------------REALSOFT - OBRIGADO E VOLTE SEMPRE 
+E0!------------------------------------------------TwK!R~29+Sp=/+bKKb&S>Tp+#x*$$x>9hh*!&hY/S>9-9X+>ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIAIPUS          17/04/2015 15:53:13 E1FAB:EL051100000000004488                  E0
+ZPMCS=B3D3E56F
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+17/04/2015 15:53:40                   E1COO:001210E0         !(  LEITURA  X!
+------------------ CONTADORES ------------------Geral de Operaá∆o N∆o-Fiscal:             000259Contador de Rein°cio de Operaá∆o:            001Contador de Reduá‰es Z:                     0121Contador de Cupom Fiscal:                 000590Contador de Fita-Detalhe:                 000000Comprovante de CrÇdito ou DÇbito:           0000Geral de Relat¢rio Gerencial:             000050Geral Oper. N∆o-Fiscal Canc.:               0001Cupom Fiscal Cancelado:                     0003---------------- TOTALIZADORES -----------------TOTALIZADOR GERAL:                     20.108,56VENDA BRUTA DIµRIA:                        53,40CANCELAMENTO ICMS:                         53,10DESCONTO ICMS:                              0,00TOTAL DE ISSQN:                             0,00CANCELAMENTO ISSQN:                         0,00DESCONTO ISSQN:                             0,00                                  --------------VENDA L÷QUIDA:                              0,30ACRêSCIMO ICMS:                             0,00ACRêSCIMO ISSQN:                            0,00--------------------- ICMS ---------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)00T18,00%                 0,00              0,0001T01,80%                 0,00              0,0002T17,00%                 0,00              0,0003T02,60%                 0,00              0,0004T03,20%                 0,00              0,0005T07,00%                 0,30              0,0206T12,00%                 0,00              0,0009T08,40%                 0,00              0,0010T00,00%                 0,00              0,00                   -----------------------------Total ICMS:               0,30              0,02N∆o Tributados            Valor Acumulado (  R$)F1=                                         0,00I1=                                         0,00N1=                                         0,00-------------------  ISSQN  --------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)07S03,00%                 0,00              0,0008S05,00%                 0,00              0,00                   -----------------------------Total ISSQN:              0,00              0,00N∆o Tributados            Valor Acumulado (  R$)FS1=                                        0,00IS1=                                        0,00NS1=                                        0,00---------- TOTALIZADORES N«O FISCAIS -----------Nß Operaá∆o           CON  Valor Acumulado(  R$)00 Sangria               0000               0,0001 Suprimento            0000               0,00                                  --------------Total Oper N∆o-Fiscais                      0,00ACRE N«O-FISC                               0,00DESC N«O-FISC                               0,00CANC N«O-FISC                               0,00------------- RELAT‡RIO GERENCIAL --------------Nß Relat¢rio                                 CER00  Gerenc X                                000001  Relatorio Gerencial                     000099  Parametros                              0000-------------- MEIOS DE PAGAMENTO --------------Nß  Meio Pagamento         Valor Acumulado(  R$)00  DINHEIRO        (V)                     0,0001  TICKET          (V)                     0,0002  CONTRA VALE     (V)                     0,0003  CHEQUE          (V)                     0,0004  CARTAO          (V)                     0,0005  OUTRAS          (V)                     0,0006  PENDURA         (V)                     0,0007  A VISTA                                 0,0008  AVISTA                                  0,5020  Dinheiro                                0,00TROCO                                       0,20------------------------------------------------Comprovante N∆o Emitido:                    0000Tempo Emitindo Doc. Fiscal:             00:01:13Tempo Operacional:                      01:27:36Qtd. Reduá‰es Restantes:                    2119N£mero sÇrie MFD:                      911029681E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIAIPUS          17/04/2015 15:53:42 E1FAB:EL051100000000004488                  E0
+ZPMCS=C59B8E26
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+17/04/2015 15:53:56                   E1COO:001211E0E1             LEITURA MEMORIA FISCALE0
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIAIPUS          17/04/2015 15:53:57 E1FAB:EL051100000000004488                  E0
+ZPMCS=3B6B8AD6
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+17/04/2015 15:56:39   GNF:000259      E1COO:001212E0GRG:000051  CER:0001
+            NAO E DOCUMENTO FISCAL
+E1             RELATORIO GERENCIALE0
+               Gerenc X
+     FECHAMENTO DO DIA - VIA FISCAL
+ ----------------------------------------------
+ DATA FECHAMENTO 17/04/2015 15:57:13
+ ----------------------------------------------
+
+
+
+  MOVIMENTACAO    VALOR          RETIRADA
+
+
+  AVISTA          53,4000        53,4000
+  CREDITO         0,0000        0,0000
+  DEBITO          0,0000        0,0000
+  CARTAO LOJA     0,0000        0,0000
+  CHEQUE          0,0000        0,0000
+  CREDITO POS     0,0000        0,0000
+  DEBITO POS 
+      0,0000        0,0000
+
+
+ --------------------------------------------
+
+                    ASSINATURA 
+             NAO E DOCUMENTO FISCAL
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIAIPUS          17/04/2015 15:56:40 E1FAB:EL051100000000004488                  E0
+ZPMCS=CCA4A333
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+17/04/2015 15:57:48                   E1COO:001213E0      !(  REDUÄ«O  Z!
+MOVIMENTO DO DIA:                     17/04/2015------------------ CONTADORES ------------------Geral de Operaá∆o N∆o-Fiscal:             000259Contador de Rein°cio de Operaá∆o:            001Contador de Reduá‰es Z:                     0122Contador de Cupom Fiscal:                 000590Contador de Fita-Detalhe:                 000000Comprovante de CrÇdito ou DÇbito:           0000Geral de Relat¢rio Gerencial:             000051Geral Oper. N∆o-Fiscal Canc.:               0001Cupom Fiscal Cancelado:                     0003---------------- TOTALIZADORES -----------------TOTALIZADOR GERAL:                     20.108,56VENDA BRUTA DIµRIA:                        53,40CANCELAMENTO ICMS:                         53,10DESCONTO ICMS:                    ***********,**TOTAL DE ISSQN:                   ***********,**CANCELAMENTO ISSQN:               ***********,**DESCONTO ISSQN:                   ***********,**                                  --------------VENDA L÷QUIDA:                              0,30ACRêSCIMO ICMS:                   ***********,**ACRêSCIMO ISSQN:                  ***********,**--------------------- ICMS ---------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)00T18,00%                 0,00              0,0001T01,80%                 0,00              0,0002T17,00%                 0,00              0,0003T02,60%                 0,00              0,0004T03,20%                 0,00              0,0005T07,00%                 0,30              0,0206T12,00%                 0,00              0,0009T08,40%                 0,00              0,0010T00,00%                 0,00              0,00                   -----------------------------Total ICMS:               0,30              0,02N∆o Tributados            Valor Acumulado (  R$)F1=                                         0,00I1=                                         0,00N1=                                         0,00-------------------  ISSQN  --------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)07S03,00%                 0,00              0,0008S05,00%                 0,00              0,00                   -----------------------------Total ISSQN:              0,00              0,00N∆o Tributados            Valor Acumulado (  R$)FS1=                                        0,00IS1=                                        0,00NS1=                                        0,00---------- TOTALIZADORES N«O FISCAIS -----------Nß Operaá∆o           CON  Valor Acumulado(  R$)00 Sangria               0000               0,0001 Suprimento            0000               0,00                                  --------------Total Oper N∆o-Fiscais                      0,00ACRE N«O-FISC                               0,00DESC N«O-FISC                               0,00CANC N«O-FISC                               0,00------------- RELAT‡RIO GERENCIAL --------------Nß Relat¢rio                                 CER00  Gerenc X                                000101  Relatorio Gerencial                     000099  Parametros                              0000-------------- MEIOS DE PAGAMENTO --------------Nß  Meio Pagamento         Valor Acumulado(  R$)00  DINHEIRO        (V)                     0,0001  TICKET          (V)                     0,0002  CONTRA VALE     (V)                     0,0003  CHEQUE          (V)                     0,0004  CARTAO          (V)                     0,0005  OUTRAS          (V)                     0,0006  PENDURA         (V)                     0,0007  A VISTA                                 0,0008  AVISTA                                  0,5020  Dinheiro                                0,00TROCO                                       0,20------------------------------------------------Comprovante N∆o Emitido:                    0000Tempo Emitindo Doc. Fiscal:             00:01:13Tempo Operacional:                      01:31:10Qtd. Reduá‰es Restantes:                    2118N£mero sÇrie MFD:                      911029681E0!------------------------------------------------/R#Kxp&X992XhSX+=K>h=wx#**ST2hS9$9/$Y#b2TR>R$&/2ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIAIPUS          17/04/2015 15:57:53 E1FAB:EL051100000000004488                  E0
+ZPMCS=75D3A667
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+20/04/2015 16:07:55                   E1COO:001214E0         !(  LEITURA  X!
+------------------ CONTADORES ------------------Geral de Operaá∆o N∆o-Fiscal:             000259Contador de Rein°cio de Operaá∆o:            001Contador de Reduá‰es Z:                     0122Contador de Cupom Fiscal:                 000590Contador de Fita-Detalhe:                 000000Comprovante de CrÇdito ou DÇbito:           0000Geral de Relat¢rio Gerencial:             000051Geral Oper. N∆o-Fiscal Canc.:               0000Cupom Fiscal Cancelado:                     0000---------------- TOTALIZADORES -----------------TOTALIZADOR GERAL:                     20.108,56VENDA BRUTA DIµRIA:                         0,00CANCELAMENTO ICMS:                          0,00DESCONTO ICMS:                              0,00TOTAL DE ISSQN:                             0,00CANCELAMENTO ISSQN:                         0,00DESCONTO ISSQN:                             0,00                                  --------------VENDA L÷QUIDA:                              0,00ACRêSCIMO ICMS:                             0,00ACRêSCIMO ISSQN:                            0,00--------------------- ICMS ---------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)00T18,00%                 0,00              0,0001T01,80%                 0,00              0,0002T17,00%                 0,00              0,0003T02,60%                 0,00              0,0004T03,20%                 0,00              0,0005T07,00%                 0,00              0,0006T12,00%                 0,00              0,0009T08,40%                 0,00              0,0010T00,00%                 0,00              0,00                   -----------------------------Total ICMS:               0,00              0,00N∆o Tributados            Valor Acumulado (  R$)F1=                                         0,00I1=                                         0,00N1=                                         0,00-------------------  ISSQN  --------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)07S03,00%                 0,00              0,0008S05,00%                 0,00              0,00                   -----------------------------Total ISSQN:              0,00              0,00N∆o Tributados            Valor Acumulado (  R$)FS1=                                        0,00IS1=                                        0,00NS1=                                        0,00---------- TOTALIZADORES N«O FISCAIS -----------Nß Operaá∆o           CON  Valor Acumulado(  R$)00 Sangria               0000               0,0001 Suprimento            0000               0,00                                  --------------Total Oper N∆o-Fiscais                      0,00ACRE N«O-FISC                               0,00DESC N«O-FISC                               0,00CANC N«O-FISC                               0,00------------- RELAT‡RIO GERENCIAL --------------Nß Relat¢rio                                 CER00  Gerenc X                                000001  Relatorio Gerencial                     000099  Parametros                              0000-------------- MEIOS DE PAGAMENTO --------------Nß  Meio Pagamento         Valor Acumulado(  R$)00  DINHEIRO        (V)                     0,0001  TICKET          (V)                     0,0002  CONTRA VALE     (V)                     0,0003  CHEQUE          (V)                     0,0004  CARTAO          (V)                     0,0005  OUTRAS          (V)                     0,0006  PENDURA         (V)                     0,0007  A VISTA                                 0,0008  AVISTA                                  0,0020  Dinheiro                                0,00TROCO                                       0,00------------------------------------------------Comprovante N∆o Emitido:                    0000Tempo Emitindo Doc. Fiscal:             00:00:00Tempo Operacional:                      00:20:02Qtd. Reduá‰es Restantes:                    2118N£mero sÇrie MFD:                      911029681E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIAIPUS          20/04/2015 16:07:57 E1FAB:EL051100000000004488                  E0
+ZPMCS=5A358DCA
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+20/04/2015 16:10:15   GNF:000260      E1COO:001215E0               NAO E DOCUMENTO FISCAL
+E1               COMPROVANTE NAO-FISCALE0
+------------------------------------------------!(TOTAL   R$!                  0,00
+E1        COMPROVANTE NAO-FISCAL CANCELADOE0
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIAIPUS          20/04/2015 16:10:15 E1FAB:EL051100000000004488                  E0
+ZPMCS=9E4EAD3C
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+20/04/2015 16:40:12   CCF:000591      E1COO:001216E0!(    CUPOM FISCAL!
+ITEM C‡DIGO       DESCRIÄ«O
+QTD.   UN.   VL.UNIT(  R$) ST IAT  VL.ITEM(  R$)------------------------------------------------!1 505 TUBO 40 MM ESGOTO KEP  1Un T05 A             15,80∞!
+------------------------------------------------!(TOTAL   R$!                 15,80
+AVISTA                                      2,00E1              CUPOM FISCAL CANCELADOE0
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIACMGS          20/04/2015 16:40:58 E1FAB:EL051100000000004488                  E0
+ZPMCS=3F6DCDB0
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+20/04/2015 16:41:03   CCF:000592      E1COO:001217E0!(    CUPOM FISCAL!
+ITEM C‡DIGO       DESCRIÄ«O
+QTD.   UN.   VL.UNIT(  R$) ST IAT  VL.ITEM(  R$)------------------------------------------------!1 377 DIVISOR DE CANAL C 3 SAIDA 1Un T05 A          4,90∞!
+------------------------------------------------!(TOTAL   R$!                  4,90
+AVISTA                                      0,05E1              CUPOM FISCAL CANCELADOE0
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIACOCS          20/04/2015 16:42:46 E1FAB:EL051100000000004488                  E0
+ZPMCS=EE6DCE0F
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+20/04/2015 16:44:24   CCF:000593      E1COO:001218E0!(    CUPOM FISCAL!
+ITEM C‡DIGO       DESCRIÄ«O
+QTD.   UN.   VL.UNIT(  R$) ST IAT  VL.ITEM(  R$)------------------------------------------------!1 650 ABRACADEIRA  NYLON PRETA 200X4,8 MM 1Un T05 A 0,30∞!
+!2 650 ABRACADEIRA  NYLON PRETA 200X4,8 MM 1Un T05 A 0,30∞!
+------------------------------------------------!(TOTAL   R$!                  0,60
+CREDITO POS                                 0,60T05= 7,00% 
+------------------------------------------------REALSOFT - OBRIGADO E VOLTE SEMPRE 
+E0!------------------------------------------------=@hx/*@Xpw2Kpx!+Y9xph2TRRwwhx/p!>w*p=w!=+/~/X&RYELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIACOPS          20/04/2015 16:44:47 E1FAB:EL051100000000004488                  E0
+ZPMCS=FC63EEF0
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+20/04/2015 17:24:05                   E1COO:001219E0      !(  REDUÄ«O  Z!
+MOVIMENTO DO DIA:                     20/04/2015------------------ CONTADORES ------------------Geral de Operaá∆o N∆o-Fiscal:             000260Contador de Rein°cio de Operaá∆o:            001Contador de Reduá‰es Z:                     0123Contador de Cupom Fiscal:                 000593Contador de Fita-Detalhe:                 000000Comprovante de CrÇdito ou DÇbito:           0000Geral de Relat¢rio Gerencial:             000051Geral Oper. N∆o-Fiscal Canc.:               0001Cupom Fiscal Cancelado:                     0002---------------- TOTALIZADORES -----------------TOTALIZADOR GERAL:                     20.129,86VENDA BRUTA DIµRIA:                        21,30CANCELAMENTO ICMS:                         20,70DESCONTO ICMS:                    ***********,**TOTAL DE ISSQN:                   ***********,**CANCELAMENTO ISSQN:               ***********,**DESCONTO ISSQN:                   ***********,**                                  --------------VENDA L÷QUIDA:                              0,60ACRêSCIMO ICMS:                   ***********,**ACRêSCIMO ISSQN:                  ***********,**--------------------- ICMS ---------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)00T18,00%                 0,00              0,0001T01,80%                 0,00              0,0002T17,00%                 0,00              0,0003T02,60%                 0,00              0,0004T03,20%                 0,00              0,0005T07,00%                 0,60              0,0406T12,00%                 0,00              0,0009T08,40%                 0,00              0,0010T00,00%                 0,00              0,00                   -----------------------------Total ICMS:               0,60              0,04N∆o Tributados            Valor Acumulado (  R$)F1=                                         0,00I1=                                         0,00N1=                                         0,00-------------------  ISSQN  --------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)07S03,00%                 0,00              0,0008S05,00%                 0,00              0,00                   -----------------------------Total ISSQN:              0,00              0,00N∆o Tributados            Valor Acumulado (  R$)FS1=                                        0,00IS1=                                        0,00NS1=                                        0,00---------- TOTALIZADORES N«O FISCAIS -----------Nß Operaá∆o           CON  Valor Acumulado(  R$)00 Sangria               0000               0,0001 Suprimento            0000               0,00                                  --------------Total Oper N∆o-Fiscais                      0,00ACRE N«O-FISC                               0,00DESC N«O-FISC                               0,00CANC N«O-FISC                               0,00------------- RELAT‡RIO GERENCIAL --------------Nß Relat¢rio                                 CER00  Gerenc X                                000001  Relatorio Gerencial                     000099  Parametros                              0000-------------- MEIOS DE PAGAMENTO --------------Nß  Meio Pagamento         Valor Acumulado(  R$)00  DINHEIRO        (V)                     0,0001  TICKET          (V)                     0,0002  CONTRA VALE     (V)                     0,0003  CHEQUE          (V)                     0,0004  CARTAO          (V)                     0,0005  OUTRAS          (V)                     0,0006  PENDURA         (V)                     0,0007  A VISTA                                 0,0008  AVISTA                                  0,0009  CREDITO POS                             0,6010  DEBITO POS                              0,0020  Dinheiro                                0,00TROCO                                       0,00------------------------------------------------Comprovante N∆o Emitido:                    0000Tempo Emitindo Doc. Fiscal:             00:02:51Tempo Operacional:                      01:36:04Qtd. Reduá‰es Restantes:                    2117N£mero sÇrie MFD:                      911029681E0!------------------------------------------------+X>wxhS@*Y~Y##b@+S+X@@2S=$YpK#R9=2Y!h&->x*/+T*-KELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIACOPS          20/04/2015 17:24:10 E1FAB:EL051100000000004488                  E0
+ZPMCS=0776B66C
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+29/04/2015 15:10:47                   E1COO:001220E0         !(  LEITURA  X!
+------------------ CONTADORES ------------------Geral de Operaá∆o N∆o-Fiscal:             000260Contador de Rein°cio de Operaá∆o:            001Contador de Reduá‰es Z:                     0123Contador de Cupom Fiscal:                 000593Contador de Fita-Detalhe:                 000000Comprovante de CrÇdito ou DÇbito:           0000Geral de Relat¢rio Gerencial:             000051Geral Oper. N∆o-Fiscal Canc.:               0000Cupom Fiscal Cancelado:                     0000---------------- TOTALIZADORES -----------------TOTALIZADOR GERAL:                     20.129,86VENDA BRUTA DIµRIA:                         0,00CANCELAMENTO ICMS:                          0,00DESCONTO ICMS:                              0,00TOTAL DE ISSQN:                             0,00CANCELAMENTO ISSQN:                         0,00DESCONTO ISSQN:                             0,00                                  --------------VENDA L÷QUIDA:                              0,00ACRêSCIMO ICMS:                             0,00ACRêSCIMO ISSQN:                            0,00--------------------- ICMS ---------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)00T18,00%                 0,00              0,0001T01,80%                 0,00              0,0002T17,00%                 0,00              0,0003T02,60%                 0,00              0,0004T03,20%                 0,00              0,0005T07,00%                 0,00              0,0006T12,00%                 0,00              0,0009T08,40%                 0,00              0,0010T00,00%                 0,00              0,00                   -----------------------------Total ICMS:               0,00              0,00N∆o Tributados            Valor Acumulado (  R$)F1=                                         0,00I1=                                         0,00N1=                                         0,00-------------------  ISSQN  --------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)07S03,00%                 0,00              0,0008S05,00%                 0,00              0,00                   -----------------------------Total ISSQN:              0,00              0,00N∆o Tributados            Valor Acumulado (  R$)FS1=                                        0,00IS1=                                        0,00NS1=                                        0,00---------- TOTALIZADORES N«O FISCAIS -----------Nß Operaá∆o           CON  Valor Acumulado(  R$)00 Sangria               0000               0,0001 Suprimento            0000               0,00                                  --------------Total Oper N∆o-Fiscais                      0,00ACRE N«O-FISC                               0,00DESC N«O-FISC                               0,00CANC N«O-FISC                               0,00------------- RELAT‡RIO GERENCIAL --------------Nß Relat¢rio                                 CER00  Gerenc X                                000001  Relatorio Gerencial                     000099  Parametros                              0000-------------- MEIOS DE PAGAMENTO --------------Nß  Meio Pagamento         Valor Acumulado(  R$)00  DINHEIRO        (V)                     0,0001  TICKET          (V)                     0,0002  CONTRA VALE     (V)                     0,0003  CHEQUE          (V)                     0,0004  CARTAO          (V)                     0,0005  OUTRAS          (V)                     0,0006  PENDURA         (V)                     0,0007  A VISTA                                 0,0008  AVISTA                                  0,0009  CREDITO POS                             0,0010  DEBITO POS                              0,0020  Dinheiro                                0,00TROCO                                       0,00------------------------------------------------Comprovante N∆o Emitido:                    0000Tempo Emitindo Doc. Fiscal:             00:00:00Tempo Operacional:                      02:01:31Qtd. Reduá‰es Restantes:                    2117N£mero sÇrie MFD:                      911029681E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIACOPS          29/04/2015 15:10:49 E1FAB:EL051100000000004488                  E0
+ZPMCS=5FAC9DCC
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+29/04/2015 15:12:23   CCF:000594      E1COO:001221E0!(    CUPOM FISCAL!
+ITEM C‡DIGO       DESCRIÄ«O
+QTD.   UN.   VL.UNIT(  R$) ST IAT  VL.ITEM(  R$)------------------------------------------------!1 650 ABRACADEIRA  NYLON PRETA 200X4,8 MM 1Un T05 A 0,30∞!
+------------------------------------------------!(TOTAL   R$!                  0,30
+AVISTA                                      0,50TROCO     R$                                0,20T05= 7,00% 
+------------------------------------------------REALSOFT - OBRIGADO E VOLTE SEMPRE 
+E0!------------------------------------------------x#&xx$p>hxS#/!Y&~-+2/YX92@X+&hK!/@*/9&@!~/p!+/@&ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIAGIAS          29/04/2015 15:12:35 E1FAB:EL051100000000004488                  E0
+ZPMCS=F964E476
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+29/04/2015 15:12:49                   E1COO:001222E0         !(  LEITURA  X!
+------------------ CONTADORES ------------------Geral de Operaá∆o N∆o-Fiscal:             000260Contador de Rein°cio de Operaá∆o:            001Contador de Reduá‰es Z:                     0123Contador de Cupom Fiscal:                 000594Contador de Fita-Detalhe:                 000000Comprovante de CrÇdito ou DÇbito:           0000Geral de Relat¢rio Gerencial:             000051Geral Oper. N∆o-Fiscal Canc.:               0000Cupom Fiscal Cancelado:                     0000---------------- TOTALIZADORES -----------------TOTALIZADOR GERAL:                     20.130,16VENDA BRUTA DIµRIA:                         0,30CANCELAMENTO ICMS:                          0,00DESCONTO ICMS:                              0,00TOTAL DE ISSQN:                             0,00CANCELAMENTO ISSQN:                         0,00DESCONTO ISSQN:                             0,00                                  --------------VENDA L÷QUIDA:                              0,30ACRêSCIMO ICMS:                             0,00ACRêSCIMO ISSQN:                            0,00--------------------- ICMS ---------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)00T18,00%                 0,00              0,0001T01,80%                 0,00              0,0002T17,00%                 0,00              0,0003T02,60%                 0,00              0,0004T03,20%                 0,00              0,0005T07,00%                 0,30              0,0206T12,00%                 0,00              0,0009T08,40%                 0,00              0,0010T00,00%                 0,00              0,00                   -----------------------------Total ICMS:               0,30              0,02N∆o Tributados            Valor Acumulado (  R$)F1=                                         0,00I1=                                         0,00N1=                                         0,00-------------------  ISSQN  --------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)07S03,00%                 0,00              0,0008S05,00%                 0,00              0,00                   -----------------------------Total ISSQN:              0,00              0,00N∆o Tributados            Valor Acumulado (  R$)FS1=                                        0,00IS1=                                        0,00NS1=                                        0,00---------- TOTALIZADORES N«O FISCAIS -----------Nß Operaá∆o           CON  Valor Acumulado(  R$)00 Sangria               0000               0,0001 Suprimento            0000               0,00                                  --------------Total Oper N∆o-Fiscais                      0,00ACRE N«O-FISC                               0,00DESC N«O-FISC                               0,00CANC N«O-FISC                               0,00------------- RELAT‡RIO GERENCIAL --------------Nß Relat¢rio                                 CER00  Gerenc X                                000001  Relatorio Gerencial                     000099  Parametros                              0000-------------- MEIOS DE PAGAMENTO --------------Nß  Meio Pagamento         Valor Acumulado(  R$)00  DINHEIRO        (V)                     0,0001  TICKET          (V)                     0,0002  CONTRA VALE     (V)                     0,0003  CHEQUE          (V)                     0,0004  CARTAO          (V)                     0,0005  OUTRAS          (V)                     0,0006  PENDURA         (V)                     0,0007  A VISTA                                 0,0008  AVISTA                                  0,5009  CREDITO POS                             0,0010  DEBITO POS                              0,0020  Dinheiro                                0,00TROCO                                       0,20------------------------------------------------Comprovante N∆o Emitido:                    0000Tempo Emitindo Doc. Fiscal:             00:00:12Tempo Operacional:                      02:03:33Qtd. Reduá‰es Restantes:                    2117N£mero sÇrie MFD:                      911029681E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIAGIAS          29/04/2015 15:12:51 E1FAB:EL051100000000004488                  E0
+ZPMCS=CCCB9DCC
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+29/04/2015 15:14:00                   E1COO:001223E0      !(  REDUÄ«O  Z!
+MOVIMENTO DO DIA:                     29/04/2015------------------ CONTADORES ------------------Geral de Operaá∆o N∆o-Fiscal:             000260Contador de Rein°cio de Operaá∆o:            001Contador de Reduá‰es Z:                     0124Contador de Cupom Fiscal:                 000594Contador de Fita-Detalhe:                 000000Comprovante de CrÇdito ou DÇbito:           0000Geral de Relat¢rio Gerencial:             000051Geral Oper. N∆o-Fiscal Canc.:               0000Cupom Fiscal Cancelado:                     0000---------------- TOTALIZADORES -----------------TOTALIZADOR GERAL:                     20.130,16VENDA BRUTA DIµRIA:                         0,30CANCELAMENTO ICMS:                ***********,**DESCONTO ICMS:                    ***********,**TOTAL DE ISSQN:                   ***********,**CANCELAMENTO ISSQN:               ***********,**DESCONTO ISSQN:                   ***********,**                                  --------------VENDA L÷QUIDA:                              0,30ACRêSCIMO ICMS:                   ***********,**ACRêSCIMO ISSQN:                  ***********,**--------------------- ICMS ---------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)00T18,00%                 0,00              0,0001T01,80%                 0,00              0,0002T17,00%                 0,00              0,0003T02,60%                 0,00              0,0004T03,20%                 0,00              0,0005T07,00%                 0,30              0,0206T12,00%                 0,00              0,0009T08,40%                 0,00              0,0010T00,00%                 0,00              0,00                   -----------------------------Total ICMS:               0,30              0,02N∆o Tributados            Valor Acumulado (  R$)F1=                                         0,00I1=                                         0,00N1=                                         0,00-------------------  ISSQN  --------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)07S03,00%                 0,00              0,0008S05,00%                 0,00              0,00                   -----------------------------Total ISSQN:              0,00              0,00N∆o Tributados            Valor Acumulado (  R$)FS1=                                        0,00IS1=                                        0,00NS1=                                        0,00---------- TOTALIZADORES N«O FISCAIS -----------Nß Operaá∆o           CON  Valor Acumulado(  R$)00 Sangria               0000               0,0001 Suprimento            0000               0,00                                  --------------Total Oper N∆o-Fiscais                      0,00ACRE N«O-FISC                               0,00DESC N«O-FISC                               0,00CANC N«O-FISC                               0,00------------- RELAT‡RIO GERENCIAL --------------Nß Relat¢rio                                 CER00  Gerenc X                                000001  Relatorio Gerencial                     000099  Parametros                              0000-------------- MEIOS DE PAGAMENTO --------------Nß  Meio Pagamento         Valor Acumulado(  R$)00  DINHEIRO        (V)                     0,0001  TICKET          (V)                     0,0002  CONTRA VALE     (V)                     0,0003  CHEQUE          (V)                     0,0004  CARTAO          (V)                     0,0005  OUTRAS          (V)                     0,0006  PENDURA         (V)                     0,0007  A VISTA                                 0,0008  AVISTA                                  0,5009  CREDITO POS                             0,0010  DEBITO POS                              0,0020  Dinheiro                                0,00TROCO                                       0,20------------------------------------------------Comprovante N∆o Emitido:                    0000Tempo Emitindo Doc. Fiscal:             00:00:12Tempo Operacional:                      02:04:23Qtd. Reduá‰es Restantes:                    2116N£mero sÇrie MFD:                      911029681E0!------------------------------------------------9Y!@x+&S-pp9TwS~-TXYK22@YK/&YSw#S*$hYK/K2X#pwS9YELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIAGIAS          29/04/2015 15:14:05 E1FAB:EL051100000000004488                  E0
+ZPMCS=A51EB772
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+29/04/2015 19:38:36                   E1COO:001224E0         !(  LEITURA  X!
+------------------ CONTADORES ------------------Geral de Operaá∆o N∆o-Fiscal:             000260Contador de Rein°cio de Operaá∆o:            001Contador de Reduá‰es Z:                     0124Contador de Cupom Fiscal:                 000594Contador de Fita-Detalhe:                 000000Comprovante de CrÇdito ou DÇbito:           0000Geral de Relat¢rio Gerencial:             000051Geral Oper. N∆o-Fiscal Canc.:               0000Cupom Fiscal Cancelado:                     0000---------------- TOTALIZADORES -----------------TOTALIZADOR GERAL:                     20.130,16VENDA BRUTA DIµRIA:                         0,00CANCELAMENTO ICMS:                          0,00DESCONTO ICMS:                              0,00TOTAL DE ISSQN:                             0,00CANCELAMENTO ISSQN:                         0,00DESCONTO ISSQN:                             0,00                                  --------------VENDA L÷QUIDA:                              0,00ACRêSCIMO ICMS:                             0,00ACRêSCIMO ISSQN:                            0,00--------------------- ICMS ---------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)00T18,00%                 0,00              0,0001T01,80%                 0,00              0,0002T17,00%                 0,00              0,0003T02,60%                 0,00              0,0004T03,20%                 0,00              0,0005T07,00%                 0,00              0,0006T12,00%                 0,00              0,0009T08,40%                 0,00              0,0010T00,00%                 0,00              0,00                   -----------------------------Total ICMS:               0,00              0,00N∆o Tributados            Valor Acumulado (  R$)F1=                                         0,00I1=                                         0,00N1=                                         0,00-------------------  ISSQN  --------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)07S03,00%                 0,00              0,0008S05,00%                 0,00              0,00                   -----------------------------Total ISSQN:              0,00              0,00N∆o Tributados            Valor Acumulado (  R$)FS1=                                        0,00IS1=                                        0,00NS1=                                        0,00---------- TOTALIZADORES N«O FISCAIS -----------Nß Operaá∆o           CON  Valor Acumulado(  R$)00 Sangria               0000               0,0001 Suprimento            0000               0,00                                  --------------Total Oper N∆o-Fiscais                      0,00ACRE N«O-FISC                               0,00DESC N«O-FISC                               0,00CANC N«O-FISC                               0,00------------- RELAT‡RIO GERENCIAL --------------Nß Relat¢rio                                 CER00  Gerenc X                                000001  Relatorio Gerencial                     000099  Parametros                              0000-------------- MEIOS DE PAGAMENTO --------------Nß  Meio Pagamento         Valor Acumulado(  R$)00  DINHEIRO        (V)                     0,0001  TICKET          (V)                     0,0002  CONTRA VALE     (V)                     0,0003  CHEQUE          (V)                     0,0004  CARTAO          (V)                     0,0005  OUTRAS          (V)                     0,0006  PENDURA         (V)                     0,0007  A VISTA                                 0,0008  AVISTA                                  0,0009  CREDITO POS                             0,0010  DEBITO POS                              0,0020  Dinheiro                                0,00TROCO                                       0,00------------------------------------------------Comprovante N∆o Emitido:                    0000Tempo Emitindo Doc. Fiscal:             00:00:00Tempo Operacional:                      00:00:00Qtd. Reduá‰es Restantes:                    2116N£mero sÇrie MFD:                      911029681E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIAGIAS          29/04/2015 19:38:38 E1FAB:EL051100000000004488                  E0
+ZPMCS=A8669DC2
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+01/05/2015 08:22:40                   E1COO:001225E0E1             LEITURA MEMORIA FISCALE0
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIAGIAS          01/05/2015 08:22:43 E1FAB:EL051100000000004488                  E0
+ZPMCS=222B8AA2
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+01/05/2015 08:22:44   GNF:000261      E1COO:001226E0               NAO E DOCUMENTO FISCAL
+E1               COMPROVANTE NAO-FISCALE0
+------------------------------------------------!(TOTAL   R$!                  0,00
+E1        COMPROVANTE NAO-FISCAL CANCELADOE0
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIAGIAS          01/05/2015 08:22:44 E1FAB:EL051100000000004488                  E0
+ZPMCS=A6F6AD2E
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+01/05/2015 08:22:48   CCF:000595      E1COO:001227E0!(    CUPOM FISCAL!
+ITEM C‡DIGO       DESCRIÄ«O
+QTD.   UN.   VL.UNIT(  R$) ST IAT  VL.ITEM(  R$)------------------------------------------------!1 650 ABRACADEIRA  NYLON PRETA 200X4,8 MM 1Un T05 A 0,30∞!
+!2 505 TUBO 40 MM ESGOTO KEP  1Un T05 A             15,80∞!
+------------------------------------------------!(TOTAL   R$!                 16,10
+AVISTA                                     20,00TROCO     R$                                3,90T05= 7,00% 
+------------------------------------------------REALSOFT - OBRIGADO E VOLTE SEMPRE 
+E0!------------------------------------------------=@&&~>#Xp~#wpx!S&9xphpK!Rww9$&@ShwK9==wR+h~9XwRYELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIAMSCS          01/05/2015 08:22:58 E1FAB:EL051100000000004488                  E0
+ZPMCS=3899F45E
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+01/05/2015 08:23:37                   E1COO:001228E0E1             LEITURA MEMORIA FISCALE0
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIAMSCS          01/05/2015 08:23:38 E1FAB:EL051100000000004488                  E0
+ZPMCS=348A8AC3
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+01/05/2015 08:23:59                   E1COO:001229E0         !(  LEITURA  X!
+------------------ CONTADORES ------------------Geral de Operaá∆o N∆o-Fiscal:             000261Contador de Rein°cio de Operaá∆o:            001Contador de Reduá‰es Z:                     0124Contador de Cupom Fiscal:                 000595Contador de Fita-Detalhe:                 000000Comprovante de CrÇdito ou DÇbito:           0000Geral de Relat¢rio Gerencial:             000051Geral Oper. N∆o-Fiscal Canc.:               0001Cupom Fiscal Cancelado:                     0000---------------- TOTALIZADORES -----------------TOTALIZADOR GERAL:                     20.146,26VENDA BRUTA DIµRIA:                        16,10CANCELAMENTO ICMS:                          0,00DESCONTO ICMS:                              0,00TOTAL DE ISSQN:                             0,00CANCELAMENTO ISSQN:                         0,00DESCONTO ISSQN:                             0,00                                  --------------VENDA L÷QUIDA:                             16,10ACRêSCIMO ICMS:                             0,00ACRêSCIMO ISSQN:                            0,00--------------------- ICMS ---------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)00T18,00%                 0,00              0,0001T01,80%                 0,00              0,0002T17,00%                 0,00              0,0003T02,60%                 0,00              0,0004T03,20%                 0,00              0,0005T07,00%                16,10              1,1306T12,00%                 0,00              0,0009T08,40%                 0,00              0,0010T00,00%                 0,00              0,00                   -----------------------------Total ICMS:              16,10              1,13N∆o Tributados            Valor Acumulado (  R$)F1=                                         0,00I1=                                         0,00N1=                                         0,00-------------------  ISSQN  --------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)07S03,00%                 0,00              0,0008S05,00%                 0,00              0,00                   -----------------------------Total ISSQN:              0,00              0,00N∆o Tributados            Valor Acumulado (  R$)FS1=                                        0,00IS1=                                        0,00NS1=                                        0,00---------- TOTALIZADORES N«O FISCAIS -----------Nß Operaá∆o           CON  Valor Acumulado(  R$)00 Sangria               0000               0,0001 Suprimento            0000               0,00                                  --------------Total Oper N∆o-Fiscais                      0,00ACRE N«O-FISC                               0,00DESC N«O-FISC                               0,00CANC N«O-FISC                               0,00------------- RELAT‡RIO GERENCIAL --------------Nß Relat¢rio                                 CER00  Gerenc X                                000001  Relatorio Gerencial                     000099  Parametros                              0000-------------- MEIOS DE PAGAMENTO --------------Nß  Meio Pagamento         Valor Acumulado(  R$)00  DINHEIRO        (V)                     0,0001  TICKET          (V)                     0,0002  CONTRA VALE     (V)                     0,0003  CHEQUE          (V)                     0,0004  CARTAO          (V)                     0,0005  OUTRAS          (V)                     0,0006  PENDURA         (V)                     0,0007  A VISTA                                 0,0008  AVISTA                                 20,0009  CREDITO POS                             0,0010  DEBITO POS                              0,0020  Dinheiro                                0,00TROCO                                       3,90------------------------------------------------Comprovante N∆o Emitido:                    0000Tempo Emitindo Doc. Fiscal:             00:00:09Tempo Operacional:                      32:23:36Qtd. Reduá‰es Restantes:                    2116N£mero sÇrie MFD:                      911029681E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIAMSCS          01/05/2015 08:24:00 E1FAB:EL051100000000004488                  E0
+ZPMCS=36069E61
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+01/05/2015 10:56:04                   E1COO:001230E0         !(  LEITURA  X!
+------------------ CONTADORES ------------------Geral de Operaá∆o N∆o-Fiscal:             000261Contador de Rein°cio de Operaá∆o:            001Contador de Reduá‰es Z:                     0124Contador de Cupom Fiscal:                 000595Contador de Fita-Detalhe:                 000000Comprovante de CrÇdito ou DÇbito:           0000Geral de Relat¢rio Gerencial:             000051Geral Oper. N∆o-Fiscal Canc.:               0001Cupom Fiscal Cancelado:                     0000---------------- TOTALIZADORES -----------------TOTALIZADOR GERAL:                     20.146,26VENDA BRUTA DIµRIA:                        16,10CANCELAMENTO ICMS:                          0,00DESCONTO ICMS:                              0,00TOTAL DE ISSQN:                             0,00CANCELAMENTO ISSQN:                         0,00DESCONTO ISSQN:                             0,00                                  --------------VENDA L÷QUIDA:                             16,10ACRêSCIMO ICMS:                             0,00ACRêSCIMO ISSQN:                            0,00--------------------- ICMS ---------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)00T18,00%                 0,00              0,0001T01,80%                 0,00              0,0002T17,00%                 0,00              0,0003T02,60%                 0,00              0,0004T03,20%                 0,00              0,0005T07,00%                16,10              1,1306T12,00%                 0,00              0,0009T08,40%                 0,00              0,0010T00,00%                 0,00              0,00                   -----------------------------Total ICMS:              16,10              1,13N∆o Tributados            Valor Acumulado (  R$)F1=                                         0,00I1=                                         0,00N1=                                         0,00-------------------  ISSQN  --------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)07S03,00%                 0,00              0,0008S05,00%                 0,00              0,00                   -----------------------------Total ISSQN:              0,00              0,00N∆o Tributados            Valor Acumulado (  R$)FS1=                                        0,00IS1=                                        0,00NS1=                                        0,00---------- TOTALIZADORES N«O FISCAIS -----------Nß Operaá∆o           CON  Valor Acumulado(  R$)00 Sangria               0000               0,0001 Suprimento            0000               0,00                                  --------------Total Oper N∆o-Fiscais                      0,00ACRE N«O-FISC                               0,00DESC N«O-FISC                               0,00CANC N«O-FISC                               0,00------------- RELAT‡RIO GERENCIAL --------------Nß Relat¢rio                                 CER00  Gerenc X                                000001  Relatorio Gerencial                     000099  Parametros                              0000-------------- MEIOS DE PAGAMENTO --------------Nß  Meio Pagamento         Valor Acumulado(  R$)00  DINHEIRO        (V)                     0,0001  TICKET          (V)                     0,0002  CONTRA VALE     (V)                     0,0003  CHEQUE          (V)                     0,0004  CARTAO          (V)                     0,0005  OUTRAS          (V)                     0,0006  PENDURA         (V)                     0,0007  A VISTA                                 0,0008  AVISTA                                 20,0009  CREDITO POS                             0,0010  DEBITO POS                              0,0020  Dinheiro                                0,00TROCO                                       3,90------------------------------------------------Comprovante N∆o Emitido:                    0000Tempo Emitindo Doc. Fiscal:             00:00:09Tempo Operacional:                      34:55:42Qtd. Reduá‰es Restantes:                    2116N£mero sÇrie MFD:                      911029681E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIAMSCS          01/05/2015 10:56:06 E1FAB:EL051100000000004488                  E0
+ZPMCS=FBCC9E56
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+01/05/2015 11:05:01                   E1COO:001231E0         !(  LEITURA  X!
+------------------ CONTADORES ------------------Geral de Operaá∆o N∆o-Fiscal:             000261Contador de Rein°cio de Operaá∆o:            001Contador de Reduá‰es Z:                     0124Contador de Cupom Fiscal:                 000595Contador de Fita-Detalhe:                 000000Comprovante de CrÇdito ou DÇbito:           0000Geral de Relat¢rio Gerencial:             000051Geral Oper. N∆o-Fiscal Canc.:               0001Cupom Fiscal Cancelado:                     0000---------------- TOTALIZADORES -----------------TOTALIZADOR GERAL:                     20.146,26VENDA BRUTA DIµRIA:                        16,10CANCELAMENTO ICMS:                          0,00DESCONTO ICMS:                              0,00TOTAL DE ISSQN:                             0,00CANCELAMENTO ISSQN:                         0,00DESCONTO ISSQN:                             0,00                                  --------------VENDA L÷QUIDA:                             16,10ACRêSCIMO ICMS:                             0,00ACRêSCIMO ISSQN:                            0,00--------------------- ICMS ---------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)00T18,00%                 0,00              0,0001T01,80%                 0,00              0,0002T17,00%                 0,00              0,0003T02,60%                 0,00              0,0004T03,20%                 0,00              0,0005T07,00%                16,10              1,1306T12,00%                 0,00              0,0009T08,40%                 0,00              0,0010T00,00%                 0,00              0,00                   -----------------------------Total ICMS:              16,10              1,13N∆o Tributados            Valor Acumulado (  R$)F1=                                         0,00I1=                                         0,00N1=                                         0,00-------------------  ISSQN  --------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)07S03,00%                 0,00              0,0008S05,00%                 0,00              0,00                   -----------------------------Total ISSQN:              0,00              0,00N∆o Tributados            Valor Acumulado (  R$)FS1=                                        0,00IS1=                                        0,00NS1=                                        0,00---------- TOTALIZADORES N«O FISCAIS -----------Nß Operaá∆o           CON  Valor Acumulado(  R$)00 Sangria               0000               0,0001 Suprimento            0000               0,00                                  --------------Total Oper N∆o-Fiscais                      0,00ACRE N«O-FISC                               0,00DESC N«O-FISC                               0,00CANC N«O-FISC                               0,00------------- RELAT‡RIO GERENCIAL --------------Nß Relat¢rio                                 CER00  Gerenc X                                000001  Relatorio Gerencial                     000099  Parametros                              0000-------------- MEIOS DE PAGAMENTO --------------Nß  Meio Pagamento         Valor Acumulado(  R$)00  DINHEIRO        (V)                     0,0001  TICKET          (V)                     0,0002  CONTRA VALE     (V)                     0,0003  CHEQUE          (V)                     0,0004  CARTAO          (V)                     0,0005  OUTRAS          (V)                     0,0006  PENDURA         (V)                     0,0007  A VISTA                                 0,0008  AVISTA                                 20,0009  CREDITO POS                             0,0010  DEBITO POS                              0,0020  Dinheiro                                0,00TROCO                                       3,90------------------------------------------------Comprovante N∆o Emitido:                    0000Tempo Emitindo Doc. Fiscal:             00:00:09Tempo Operacional:                      35:04:39Qtd. Reduá‰es Restantes:                    2116N£mero sÇrie MFD:                      911029681E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIAMSCS          01/05/2015 11:05:03 E1FAB:EL051100000000004488                  E0
+ZPMCS=84E99E48
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+01/05/2015 12:11:43                   E1COO:001232E0      !(  REDUÄ«O  Z!
+MOVIMENTO DO DIA:                     01/05/2015------------------ CONTADORES ------------------Geral de Operaá∆o N∆o-Fiscal:             000261Contador de Rein°cio de Operaá∆o:            001Contador de Reduá‰es Z:                     0125Contador de Cupom Fiscal:                 000595Contador de Fita-Detalhe:                 000000Comprovante de CrÇdito ou DÇbito:           0000Geral de Relat¢rio Gerencial:             000051Geral Oper. N∆o-Fiscal Canc.:               0001Cupom Fiscal Cancelado:                     0000---------------- TOTALIZADORES -----------------TOTALIZADOR GERAL:                     20.146,26VENDA BRUTA DIµRIA:                        16,10CANCELAMENTO ICMS:                ***********,**DESCONTO ICMS:                    ***********,**TOTAL DE ISSQN:                   ***********,**CANCELAMENTO ISSQN:               ***********,**DESCONTO ISSQN:                   ***********,**                                  --------------VENDA L÷QUIDA:                             16,10ACRêSCIMO ICMS:                   ***********,**ACRêSCIMO ISSQN:                  ***********,**--------------------- ICMS ---------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)00T18,00%                 0,00              0,0001T01,80%                 0,00              0,0002T17,00%                 0,00              0,0003T02,60%                 0,00              0,0004T03,20%                 0,00              0,0005T07,00%                16,10              1,1306T12,00%                 0,00              0,0009T08,40%                 0,00              0,0010T00,00%                 0,00              0,00                   -----------------------------Total ICMS:              16,10              1,13N∆o Tributados            Valor Acumulado (  R$)F1=                                         0,00I1=                                         0,00N1=                                         0,00-------------------  ISSQN  --------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)07S03,00%                 0,00              0,0008S05,00%                 0,00              0,00                   -----------------------------Total ISSQN:              0,00              0,00N∆o Tributados            Valor Acumulado (  R$)FS1=                                        0,00IS1=                                        0,00NS1=                                        0,00---------- TOTALIZADORES N«O FISCAIS -----------Nß Operaá∆o           CON  Valor Acumulado(  R$)00 Sangria               0000               0,0001 Suprimento            0000               0,00                                  --------------Total Oper N∆o-Fiscais                      0,00ACRE N«O-FISC                               0,00DESC N«O-FISC                               0,00CANC N«O-FISC                               0,00------------- RELAT‡RIO GERENCIAL --------------Nß Relat¢rio                                 CER00  Gerenc X                                000001  Relatorio Gerencial                     000099  Parametros                              0000-------------- MEIOS DE PAGAMENTO --------------Nß  Meio Pagamento         Valor Acumulado(  R$)00  DINHEIRO        (V)                     0,0001  TICKET          (V)                     0,0002  CONTRA VALE     (V)                     0,0003  CHEQUE          (V)                     0,0004  CARTAO          (V)                     0,0005  OUTRAS          (V)                     0,0006  PENDURA         (V)                     0,0007  A VISTA                                 0,0008  AVISTA                                 20,0009  CREDITO POS                             0,0010  DEBITO POS                              0,0020  Dinheiro                                0,00TROCO                                       3,90------------------------------------------------Comprovante N∆o Emitido:                    0000Tempo Emitindo Doc. Fiscal:             00:00:09Tempo Operacional:                      36:11:15Qtd. Reduá‰es Restantes:                    2115N£mero sÇrie MFD:                      911029681E0!------------------------------------------------TSxS/$Y@/YYY!!>p-YK+@~~TpS$2*@p-+!$wS#&SX9KY@R-&ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIAMSCS          01/05/2015 12:11:48 E1FAB:EL051100000000004488                  E0
+ZPMCS=3F15B726
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+02/05/2015 18:25:18                   E1COO:001233E0         !(  LEITURA  X!
+------------------ CONTADORES ------------------Geral de Operaá∆o N∆o-Fiscal:             000261Contador de Rein°cio de Operaá∆o:            001Contador de Reduá‰es Z:                     0125Contador de Cupom Fiscal:                 000595Contador de Fita-Detalhe:                 000000Comprovante de CrÇdito ou DÇbito:           0000Geral de Relat¢rio Gerencial:             000051Geral Oper. N∆o-Fiscal Canc.:               0000Cupom Fiscal Cancelado:                     0000---------------- TOTALIZADORES -----------------TOTALIZADOR GERAL:                     20.146,26VENDA BRUTA DIµRIA:                         0,00CANCELAMENTO ICMS:                          0,00DESCONTO ICMS:                              0,00TOTAL DE ISSQN:                             0,00CANCELAMENTO ISSQN:                         0,00DESCONTO ISSQN:                             0,00                                  --------------VENDA L÷QUIDA:                              0,00ACRêSCIMO ICMS:                             0,00ACRêSCIMO ISSQN:                            0,00--------------------- ICMS ---------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)00T18,00%                 0,00              0,0001T01,80%                 0,00              0,0002T17,00%                 0,00              0,0003T02,60%                 0,00              0,0004T03,20%                 0,00              0,0005T07,00%                 0,00              0,0006T12,00%                 0,00              0,0009T08,40%                 0,00              0,0010T00,00%                 0,00              0,00                   -----------------------------Total ICMS:               0,00              0,00N∆o Tributados            Valor Acumulado (  R$)F1=                                         0,00I1=                                         0,00N1=                                         0,00-------------------  ISSQN  --------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)07S03,00%                 0,00              0,0008S05,00%                 0,00              0,00                   -----------------------------Total ISSQN:              0,00              0,00N∆o Tributados            Valor Acumulado (  R$)FS1=                                        0,00IS1=                                        0,00NS1=                                        0,00---------- TOTALIZADORES N«O FISCAIS -----------Nß Operaá∆o           CON  Valor Acumulado(  R$)00 Sangria               0000               0,0001 Suprimento            0000               0,00                                  --------------Total Oper N∆o-Fiscais                      0,00ACRE N«O-FISC                               0,00DESC N«O-FISC                               0,00CANC N«O-FISC                               0,00------------- RELAT‡RIO GERENCIAL --------------Nß Relat¢rio                                 CER00  Gerenc X                                000001  Relatorio Gerencial                     000099  Parametros                              0000-------------- MEIOS DE PAGAMENTO --------------Nß  Meio Pagamento         Valor Acumulado(  R$)00  DINHEIRO        (V)                     0,0001  TICKET          (V)                     0,0002  CONTRA VALE     (V)                     0,0003  CHEQUE          (V)                     0,0004  CARTAO          (V)                     0,0005  OUTRAS          (V)                     0,0006  PENDURA         (V)                     0,0007  A VISTA                                 0,0008  AVISTA                                  0,0009  CREDITO POS                             0,0010  DEBITO POS                              0,0020  Dinheiro                                0,00TROCO                                       0,00------------------------------------------------Comprovante N∆o Emitido:                    0000Tempo Emitindo Doc. Fiscal:             00:00:00Tempo Operacional:                      00:53:48Qtd. Reduá‰es Restantes:                    2115N£mero sÇrie MFD:                      911029681E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIAMSCS          02/05/2015 18:25:20 E1FAB:EL051100000000004488                  E0
+ZPMCS=88849DCF
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+05/05/2015 22:01:52   CCF:000596      E1COO:001234E0!(    CUPOM FISCAL!
+ITEM C‡DIGO       DESCRIÄ«O
+QTD.   UN.   VL.UNIT(  R$) ST IAT  VL.ITEM(  R$)------------------------------------------------E1              CUPOM FISCAL CANCELADOE0
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIAMSCS          05/05/2015 22:02:00 E1FAB:EL051100000000004488                  E0
+ZPMCS=D714AB2E
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+05/05/2015 22:03:05   CCF:000597      E1COO:001235E0!(    CUPOM FISCAL!
+ITEM C‡DIGO       DESCRIÄ«O
+QTD.   UN.   VL.UNIT(  R$) ST IAT  VL.ITEM(  R$)------------------------------------------------!1 505 TUBO 40 MM ESGOTO KEP  1Un T05 A             15,80∞!
+E1              CUPOM FISCAL CANCELADOE0
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIASCIS          05/05/2015 22:03:56 E1FAB:EL051100000000004488                  E0
+ZPMCS=B4ACB7E9
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+05/05/2015 22:44:44   CCF:000598      E1COO:001236E0!(    CUPOM FISCAL!
+ITEM C‡DIGO       DESCRIÄ«O
+QTD.   UN.   VL.UNIT(  R$) ST IAT  VL.ITEM(  R$)------------------------------------------------!1 505 TUBO 40 MM ESGOTO KEP  1Un T05 A             15,80∞!
+E1              CUPOM FISCAL CANCELADOE0
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIAEEPS          05/05/2015 22:46:02 E1FAB:EL051100000000004488                  E0
+ZPMCS=C6D1B7EC
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+05/05/2015 22:46:57                   E1COO:001237E0         !(  LEITURA  X!
+------------------ CONTADORES ------------------Geral de Operaá∆o N∆o-Fiscal:             000261Contador de Rein°cio de Operaá∆o:            001Contador de Reduá‰es Z:                     0125Contador de Cupom Fiscal:                 000598Contador de Fita-Detalhe:                 000000Comprovante de CrÇdito ou DÇbito:           0000Geral de Relat¢rio Gerencial:             000051Geral Oper. N∆o-Fiscal Canc.:               0000Cupom Fiscal Cancelado:                     0003---------------- TOTALIZADORES -----------------TOTALIZADOR GERAL:                     20.177,86VENDA BRUTA DIµRIA:                        31,60CANCELAMENTO ICMS:                         31,60DESCONTO ICMS:                              0,00TOTAL DE ISSQN:                             0,00CANCELAMENTO ISSQN:                         0,00DESCONTO ISSQN:                             0,00                                  --------------VENDA L÷QUIDA:                              0,00ACRêSCIMO ICMS:                             0,00ACRêSCIMO ISSQN:                            0,00--------------------- ICMS ---------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)00T18,00%                 0,00              0,0001T01,80%                 0,00              0,0002T17,00%                 0,00              0,0003T02,60%                 0,00              0,0004T03,20%                 0,00              0,0005T07,00%                 0,00              0,0006T12,00%                 0,00              0,0009T08,40%                 0,00              0,0010T00,00%                 0,00              0,00                   -----------------------------Total ICMS:               0,00              0,00N∆o Tributados            Valor Acumulado (  R$)F1=                                         0,00I1=                                         0,00N1=                                         0,00-------------------  ISSQN  --------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)07S03,00%                 0,00              0,0008S05,00%                 0,00              0,00                   -----------------------------Total ISSQN:              0,00              0,00N∆o Tributados            Valor Acumulado (  R$)FS1=                                        0,00IS1=                                        0,00NS1=                                        0,00---------- TOTALIZADORES N«O FISCAIS -----------Nß Operaá∆o           CON  Valor Acumulado(  R$)00 Sangria               0000               0,0001 Suprimento            0000               0,00                                  --------------Total Oper N∆o-Fiscais                      0,00ACRE N«O-FISC                               0,00DESC N«O-FISC                               0,00CANC N«O-FISC                               0,00------------- RELAT‡RIO GERENCIAL --------------Nß Relat¢rio                                 CER00  Gerenc X                                000001  Relatorio Gerencial                     000099  Parametros                              0000-------------- MEIOS DE PAGAMENTO --------------Nß  Meio Pagamento         Valor Acumulado(  R$)00  DINHEIRO        (V)                     0,0001  TICKET          (V)                     0,0002  CONTRA VALE     (V)                     0,0003  CHEQUE          (V)                     0,0004  CARTAO          (V)                     0,0005  OUTRAS          (V)                     0,0006  PENDURA         (V)                     0,0007  A VISTA                                 0,0008  AVISTA                                  0,0009  CREDITO POS                             0,0010  DEBITO POS                              0,0020  Dinheiro                                0,00TROCO                                       0,00------------------------------------------------Comprovante N∆o Emitido:                    0000Tempo Emitindo Doc. Fiscal:             00:02:17Tempo Operacional:                      17:31:01Qtd. Reduá‰es Restantes:                    2115N£mero sÇrie MFD:                      911029681E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIAEEPS          05/05/2015 22:46:59 E1FAB:EL051100000000004488                  E0
+ZPMCS=DF219E22
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+05/05/2015 22:47:30                   E1COO:001238E0         !(  LEITURA  X!
+------------------ CONTADORES ------------------Geral de Operaá∆o N∆o-Fiscal:             000261Contador de Rein°cio de Operaá∆o:            001Contador de Reduá‰es Z:                     0125Contador de Cupom Fiscal:                 000598Contador de Fita-Detalhe:                 000000Comprovante de CrÇdito ou DÇbito:           0000Geral de Relat¢rio Gerencial:             000051Geral Oper. N∆o-Fiscal Canc.:               0000Cupom Fiscal Cancelado:                     0003---------------- TOTALIZADORES -----------------TOTALIZADOR GERAL:                     20.177,86VENDA BRUTA DIµRIA:                        31,60CANCELAMENTO ICMS:                         31,60DESCONTO ICMS:                              0,00TOTAL DE ISSQN:                             0,00CANCELAMENTO ISSQN:                         0,00DESCONTO ISSQN:                             0,00                                  --------------VENDA L÷QUIDA:                              0,00ACRêSCIMO ICMS:                             0,00ACRêSCIMO ISSQN:                            0,00--------------------- ICMS ---------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)00T18,00%                 0,00              0,0001T01,80%                 0,00              0,0002T17,00%                 0,00              0,0003T02,60%                 0,00              0,0004T03,20%                 0,00              0,0005T07,00%                 0,00              0,0006T12,00%                 0,00              0,0009T08,40%                 0,00              0,0010T00,00%                 0,00              0,00                   -----------------------------Total ICMS:               0,00              0,00N∆o Tributados            Valor Acumulado (  R$)F1=                                         0,00I1=                                         0,00N1=                                         0,00-------------------  ISSQN  --------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)07S03,00%                 0,00              0,0008S05,00%                 0,00              0,00                   -----------------------------Total ISSQN:              0,00              0,00N∆o Tributados            Valor Acumulado (  R$)FS1=                                        0,00IS1=                                        0,00NS1=                                        0,00---------- TOTALIZADORES N«O FISCAIS -----------Nß Operaá∆o           CON  Valor Acumulado(  R$)00 Sangria               0000               0,0001 Suprimento            0000               0,00                                  --------------Total Oper N∆o-Fiscais                      0,00ACRE N«O-FISC                               0,00DESC N«O-FISC                               0,00CANC N«O-FISC                               0,00------------- RELAT‡RIO GERENCIAL --------------Nß Relat¢rio                                 CER00  Gerenc X                                000001  Relatorio Gerencial                     000099  Parametros                              0000-------------- MEIOS DE PAGAMENTO --------------Nß  Meio Pagamento         Valor Acumulado(  R$)00  DINHEIRO        (V)                     0,0001  TICKET          (V)                     0,0002  CONTRA VALE     (V)                     0,0003  CHEQUE          (V)                     0,0004  CARTAO          (V)                     0,0005  OUTRAS          (V)                     0,0006  PENDURA         (V)                     0,0007  A VISTA                                 0,0008  AVISTA                                  0,0009  CREDITO POS                             0,0010  DEBITO POS                              0,0011  TEF                                     0,0020  Dinheiro                                0,00TROCO                                       0,00------------------------------------------------Comprovante N∆o Emitido:                    0000Tempo Emitindo Doc. Fiscal:             00:02:17Tempo Operacional:                      17:31:33Qtd. Reduá‰es Restantes:                    2115N£mero sÇrie MFD:                      911029681E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIAEEPS          05/05/2015 22:47:32 E1FAB:EL051100000000004488                  E0
+ZPMCS=46BEA4F5
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+05/05/2015 22:48:22   CCF:000599      E1COO:001239E0!(    CUPOM FISCAL!
+ITEM C‡DIGO       DESCRIÄ«O
+QTD.   UN.   VL.UNIT(  R$) ST IAT  VL.ITEM(  R$)------------------------------------------------!1 505 TUBO 40 MM ESGOTO KEP  1Un T05 A             15,80∞!
+------------------------------------------------!(TOTAL   R$!                 15,80
+TEF                                        15,80T05= 7,00% 
+------------------------------------------------                      
+E0!------------------------------------------------/=p$*X&R&Rxp*h$h#T99>SSYX&b-p@>KT*!!9$T+@T#x/+w!ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIAOGSS          05/05/2015 22:48:53 E1FAB:EL051100000000004488                  E0
+ZPMCS=81B2DBCE
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+05/05/2015 22:48:54   GNF:000261      E1COO:001240E0GRG:000052  CER:0001
+            NAO E DOCUMENTO FISCAL
+E1             RELATORIO GERENCIALE0
+               Gerenc X
+                       
+             NAO E DOCUMENTO FISCAL
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIAOGSS          05/05/2015 22:48:54 E1FAB:EL051100000000004488                  E0
+ZPMCS=B92EA325
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+05/05/2015 22:53:54   CCF:000600      E1COO:001241E0!(    CUPOM FISCAL!
+ITEM C‡DIGO       DESCRIÄ«O
+QTD.   UN.   VL.UNIT(  R$) ST IAT  VL.ITEM(  R$)------------------------------------------------!1 650 ABRACADEIRA  NYLON PRETA 200X4,8 MM 1Un T05 A 0,30∞!
+------------------------------------------------!(TOTAL   R$!                  0,30
+TEF                                         0,30T05= 7,00% 
+------------------------------------------------                               CRED
+E0!------------------------------------------------2R*&xh9=>TK2=~TRp&RTY+b=#b2&+wYX~&#w=*pYhh/RY$~+ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIAOGOS          05/05/2015 22:54:20 E1FAB:EL051100000000004488                  E0
+ZPMCS=ECEADE65
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+05/05/2015 22:54:20   GNF:000261      E1COO:001242E0GRG:000053  CER:0002
+            NAO E DOCUMENTO FISCAL
+E1             RELATORIO GERENCIALE0
+               Gerenc X
+                                    
+             NAO E DOCUMENTO FISCAL
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIAOGOS          05/05/2015 22:54:21 E1FAB:EL051100000000004488                  E0
+ZPMCS=AB93A312
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+05/05/2015 23:08:49   CCF:000601      E1COO:001243E0!(    CUPOM FISCAL!
+ITEM C‡DIGO       DESCRIÄ«O
+QTD.   UN.   VL.UNIT(  R$) ST IAT  VL.ITEM(  R$)------------------------------------------------!1 650 ABRACADEIRA  NYLON PRETA 200X4,8 MM 1Un T05 A 0,30∞!
+E1              CUPOM FISCAL CANCELADOE0
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIAOMCS          05/05/2015 23:09:07 E1FAB:EL051100000000004488                  E0
+ZPMCS=709DB96F
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+05/05/2015 23:12:16   CCF:000602      E1COO:001244E0!(    CUPOM FISCAL!
+ITEM C‡DIGO       DESCRIÄ«O
+QTD.   UN.   VL.UNIT(  R$) ST IAT  VL.ITEM(  R$)------------------------------------------------!1 650 ABRACADEIRA  NYLON PRETA 200X4,8 MM 1Un T05 A 0,30∞!
+------------------------------------------------!(TOTAL   R$!                  0,30
+TEF                                         0,30T05= 7,00% 
+------------------------------------------------                               CRED
+E0!------------------------------------------------KT>T#&R!2&+TTp=2K>@R9/$*@Sxxb*&-T9K=9$pY$Spwb*2~ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIAOMUS          05/05/2015 23:12:51 E1FAB:EL051100000000004488                  E0
+ZPMCS=10C3DD60
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+05/05/2015 23:12:52   GNF:000261      E1COO:001245E0GRG:000054  CER:0003
+            NAO E DOCUMENTO FISCAL
+E1             RELATORIO GERENCIALE0
+               Gerenc X
+             NAO E DOCUMENTO FISCAL
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:        
+IIIIIIIIIIICIAOMUS          05/05/2015 23:14:52 E1FAB:EL051100000000004488                  E0
+ZPMCS=A052A424
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+05/05/2015 23:18:41   CCF:000603      E1COO:001246E0!(    CUPOM FISCAL!
+ITEM C‡DIGO       DESCRIÄ«O
+QTD.   UN.   VL.UNIT(  R$) ST IAT  VL.ITEM(  R$)------------------------------------------------!1 650 ABRACADEIRA  NYLON PRETA 200X4,8 MM 1Un T05 A 0,30∞!
+------------------------------------------------!(TOTAL   R$!                  0,30
+TEF                                         0,30T05= 7,00% 
+------------------------------------------------                               CRED
+E0!------------------------------------------------Kp@@K#~9$TX/$9+w-pbhT>S=#@x@&Sbp$*&>/XX2*Y$x#Sp@ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIAOMPS          05/05/2015 23:19:11 E1FAB:EL051100000000004488                  E0
+ZPMCS=7966DDBB
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+05/05/2015 23:19:11   GNF:000261      E1COO:001247E0GRG:000055  CER:0004
+            NAO E DOCUMENTO FISCAL
+E1             RELATORIO GERENCIALE0
+               Gerenc X
+             NAO E DOCUMENTO FISCAL
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:        
+IIIIIIIIIIICIAOMPS          05/05/2015 23:21:11 E1FAB:EL051100000000004488                  E0
+ZPMCS=A6BEA41E
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+05/05/2015 23:23:17   CCF:000604      E1COO:001248E0!(    CUPOM FISCAL!
+ITEM C‡DIGO       DESCRIÄ«O
+QTD.   UN.   VL.UNIT(  R$) ST IAT  VL.ITEM(  R$)------------------------------------------------!1 650 ABRACADEIRA  NYLON PRETA 200X4,8 MM 1Un T05 A 0,30∞!
+------------------------------------------------!(TOTAL   R$!                  0,30
+TEF                                         0,30T05= 7,00% 
+------------------------------------------------                               CRED
+E0!------------------------------------------------X2Yb=-9TbpK+@#Y>xxb*wwwX~S!/~xbS#@>b-9h/p@RK=x$pELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIAOUAS          05/05/2015 23:23:48 E1FAB:EL051100000000004488                  E0
+ZPMCS=D7C0DF7F
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+05/05/2015 23:23:48   GNF:000261      E1COO:001249E0GRG:000056  CER:0005
+            NAO E DOCUMENTO FISCAL
+E1             RELATORIO GERENCIALE0
+               Gerenc X
+             NAO E DOCUMENTO FISCAL
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:        
+IIIIIIIIIIICIAOUAS          05/05/2015 23:25:48 E1FAB:EL051100000000004488                  E0
+ZPMCS=B5BCA42E
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+05/05/2015 23:37:12   CCF:000605      E1COO:001250E0!(    CUPOM FISCAL!
+ITEM C‡DIGO       DESCRIÄ«O
+QTD.   UN.   VL.UNIT(  R$) ST IAT  VL.ITEM(  R$)------------------------------------------------!1 650 ABRACADEIRA  NYLON PRETA 200X4,8 MM 1Un T05 A 0,30∞!
+------------------------------------------------!(TOTAL   R$!                  0,30
+TEF                                         0,30T05= 7,00% 
+------------------------------------------------                               CRED
+E0!------------------------------------------------wR/bx@>~2Xw$#T#RT9h$=!!&&hp@$+=Yb/9~~wR*pb~/2hw~ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIAOUMS          05/05/2015 23:37:48 E1FAB:EL051100000000004488                  E0
+ZPMCS=4FDADEF8
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+05/05/2015 23:37:49   GNF:000261      E1COO:001251E0GRG:000057  CER:0006
+            NAO E DOCUMENTO FISCAL
+E1             RELATORIO GERENCIALE0
+               Gerenc X
+713-002 = 
+713-006 = 
+713-010 = 
+713-014 = 
+715-004 = 
+715-009 = 
+715-014 = 
+718-000 = 
+             NAO E DOCUMENTO FISCAL
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIAOUMS          05/05/2015 23:37:49 E1FAB:EL051100000000004488                  E0
+ZPMCS=D2B3A33F
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+05/05/2015 23:41:16   CCF:000606      E1COO:001252E0!(    CUPOM FISCAL!
+ITEM C‡DIGO       DESCRIÄ«O
+QTD.   UN.   VL.UNIT(  R$) ST IAT  VL.ITEM(  R$)------------------------------------------------!1 650 ABRACADEIRA  NYLON PRETA 200X4,8 MM 1Un T05 A 0,30∞!
+------------------------------------------------!(TOTAL   R$!                  0,30
+TEF                                         0,30T05= 7,00% 
+------------------------------------------------                               CRED
+E0!------------------------------------------------*TR&!/!R-x=!X$&>w!>xb2bR#T*w=/T@w-RwYK@2@hY9#$S2ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIAOUES          05/05/2015 23:41:50 E1FAB:EL051100000000004488                  E0
+ZPMCS=0185DD32
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+05/05/2015 23:41:51   GNF:000261      E1COO:001253E0GRG:000058  CER:0007
+            NAO E DOCUMENTO FISCAL
+E1             RELATORIO GERENCIALE0
+               Gerenc X
+             NAO E DOCUMENTO FISCAL
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIAOUES          05/05/2015 23:41:51 E1FAB:EL051100000000004488                  E0
+ZPMCS=BFF1A323
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+05/05/2015 23:42:35   CCF:000607      E1COO:001254E0!(    CUPOM FISCAL!
+ITEM C‡DIGO       DESCRIÄ«O
+QTD.   UN.   VL.UNIT(  R$) ST IAT  VL.ITEM(  R$)------------------------------------------------!1 650 ABRACADEIRA  NYLON PRETA 200X4,8 MM 1Un T05 A 0,30∞!
+------------------------------------------------!(TOTAL   R$!                  0,30
+TEF                                         0,30T05= 7,00% 
+------------------------------------------------                               CRED
+E0!------------------------------------------------2T$b2S!X~T/Th*K&>x&x9$bR*/=!~&bYhSTYb&Y2-~$2YXp=ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIAOSIS          05/05/2015 23:43:20 E1FAB:EL051100000000004488                  E0
+ZPMCS=C35FDE1C
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+05/05/2015 23:43:21   GNF:000261      E1COO:001255E0GRG:000059  CER:0008
+            NAO E DOCUMENTO FISCAL
+E1             RELATORIO GERENCIALE0
+               Gerenc X
+             NAO E DOCUMENTO FISCAL
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIAOSIS          05/05/2015 23:43:21 E1FAB:EL051100000000004488                  E0
+ZPMCS=C4A9A327
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+06/05/2015 00:02:14                   E1COO:001256E0      !(  REDUÄ«O  Z!
+MOVIMENTO DO DIA:                     05/05/2015------------------ CONTADORES ------------------Geral de Operaá∆o N∆o-Fiscal:             000261Contador de Rein°cio de Operaá∆o:            001Contador de Reduá‰es Z:                     0126Contador de Cupom Fiscal:                 000607Contador de Fita-Detalhe:                 000000Comprovante de CrÇdito ou DÇbito:           0000Geral de Relat¢rio Gerencial:             000059Geral Oper. N∆o-Fiscal Canc.:               0000Cupom Fiscal Cancelado:                     0004---------------- TOTALIZADORES -----------------TOTALIZADOR GERAL:                     20.196,06VENDA BRUTA DIµRIA:                        49,80CANCELAMENTO ICMS:                         31,90DESCONTO ICMS:                    ***********,**TOTAL DE ISSQN:                   ***********,**CANCELAMENTO ISSQN:               ***********,**DESCONTO ISSQN:                   ***********,**                                  --------------VENDA L÷QUIDA:                             17,90ACRêSCIMO ICMS:                   ***********,**ACRêSCIMO ISSQN:                  ***********,**--------------------- ICMS ---------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)00T18,00%                 0,00              0,0001T01,80%                 0,00              0,0002T17,00%                 0,00              0,0003T02,60%                 0,00              0,0004T03,20%                 0,00              0,0005T07,00%                17,90              1,2506T12,00%                 0,00              0,0009T08,40%                 0,00              0,0010T00,00%                 0,00              0,00                   -----------------------------Total ICMS:              17,90              1,25N∆o Tributados            Valor Acumulado (  R$)F1=                                         0,00I1=                                         0,00N1=                                         0,00-------------------  ISSQN  --------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)07S03,00%                 0,00              0,0008S05,00%                 0,00              0,00                   -----------------------------Total ISSQN:              0,00              0,00N∆o Tributados            Valor Acumulado (  R$)FS1=                                        0,00IS1=                                        0,00NS1=                                        0,00---------- TOTALIZADORES N«O FISCAIS -----------Nß Operaá∆o           CON  Valor Acumulado(  R$)00 Sangria               0000               0,0001 Suprimento            0000               0,00                                  --------------Total Oper N∆o-Fiscais                      0,00ACRE N«O-FISC                               0,00DESC N«O-FISC                               0,00CANC N«O-FISC                               0,00------------- RELAT‡RIO GERENCIAL --------------Nß Relat¢rio                                 CER00  Gerenc X                                000801  Relatorio Gerencial                     000099  Parametros                              0000-------------- MEIOS DE PAGAMENTO --------------Nß  Meio Pagamento         Valor Acumulado(  R$)00  DINHEIRO        (V)                     0,0001  TICKET          (V)                     0,0002  CONTRA VALE     (V)                     0,0003  CHEQUE          (V)                     0,0004  CARTAO          (V)                     0,0005  OUTRAS          (V)                     0,0006  PENDURA         (V)                     0,0007  A VISTA                                 0,0008  AVISTA                                  0,0009  CREDITO POS                             0,0010  DEBITO POS                              0,0011  TEF                                    17,9020  Dinheiro                                0,00TROCO                                       0,00------------------------------------------------Comprovante N∆o Emitido:                    0000Tempo Emitindo Doc. Fiscal:             00:07:04Tempo Operacional:                      18:46:18Qtd. Reduá‰es Restantes:                    2114N£mero sÇrie MFD:                      911029681E0!------------------------------------------------Kbh-K#9&@S>*#R>/~2wRh*wp-&+~x$wT!9&!+&pRK-!+**@!ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIAOSIS          06/05/2015 00:02:20 E1FAB:EL051100000000004488                  E0
+ZPMCS=C59BBD70
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+06/05/2015 07:32:00   CCF:000608      E1COO:001257E0!(    CUPOM FISCAL!
+ITEM C‡DIGO       DESCRIÄ«O
+QTD.   UN.   VL.UNIT(  R$) ST IAT  VL.ITEM(  R$)------------------------------------------------!1 650 ABRACADEIRA  NYLON PRETA 200X4,8 MM 1Un T05 A 0,30∞!
+------------------------------------------------!(TOTAL   R$!                  0,30
+TEF                                         0,30T05= 7,00% 
+------------------------------------------------                               CRED
+E0!------------------------------------------------wR&2h!>SKp=$xR#!>YhbRw$&S~9=&+=Yb/YS+@w&p=+~#&w~ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIAOSGS          06/05/2015 07:32:47 E1FAB:EL051100000000004488                  E0
+ZPMCS=E10CDE4B
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+06/05/2015 07:32:48   GNF:000261      E1COO:001258E0GRG:000060  CER:0001
+            NAO E DOCUMENTO FISCAL
+E1             RELATORIO GERENCIALE0
+               Gerenc X
+             NAO E DOCUMENTO FISCAL
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIAOSGS          06/05/2015 07:32:48 E1FAB:EL051100000000004488                  E0
+ZPMCS=C575A32D
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+24/06/2015 22:54:26                   E1COO:001259E0      !(  REDUÄ«O  Z!
+MOVIMENTO DO DIA:                     06/05/2015------------------ CONTADORES ------------------Geral de Operaá∆o N∆o-Fiscal:             000261Contador de Rein°cio de Operaá∆o:            001Contador de Reduá‰es Z:                     0127Contador de Cupom Fiscal:                 000608Contador de Fita-Detalhe:                 000000Comprovante de CrÇdito ou DÇbito:           0000Geral de Relat¢rio Gerencial:             000060Geral Oper. N∆o-Fiscal Canc.:               0000Cupom Fiscal Cancelado:                     0000---------------- TOTALIZADORES -----------------TOTALIZADOR GERAL:                     20.196,36VENDA BRUTA DIµRIA:                         0,30CANCELAMENTO ICMS:                ***********,**DESCONTO ICMS:                    ***********,**TOTAL DE ISSQN:                   ***********,**CANCELAMENTO ISSQN:               ***********,**DESCONTO ISSQN:                   ***********,**                                  --------------VENDA L÷QUIDA:                              0,30ACRêSCIMO ICMS:                   ***********,**ACRêSCIMO ISSQN:                  ***********,**--------------------- ICMS ---------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)00T18,00%                 0,00              0,0001T01,80%                 0,00              0,0002T17,00%                 0,00              0,0003T02,60%                 0,00              0,0004T03,20%                 0,00              0,0005T07,00%                 0,30              0,0206T12,00%                 0,00              0,0009T08,40%                 0,00              0,0010T00,00%                 0,00              0,00                   -----------------------------Total ICMS:               0,30              0,02N∆o Tributados            Valor Acumulado (  R$)F1=                                         0,00I1=                                         0,00N1=                                         0,00-------------------  ISSQN  --------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)07S03,00%                 0,00              0,0008S05,00%                 0,00              0,00                   -----------------------------Total ISSQN:              0,00              0,00N∆o Tributados            Valor Acumulado (  R$)FS1=                                        0,00IS1=                                        0,00NS1=                                        0,00---------- TOTALIZADORES N«O FISCAIS -----------Nß Operaá∆o           CON  Valor Acumulado(  R$)00 Sangria               0000               0,0001 Suprimento            0000               0,00                                  --------------Total Oper N∆o-Fiscais                      0,00ACRE N«O-FISC                               0,00DESC N«O-FISC                               0,00CANC N«O-FISC                               0,00------------- RELAT‡RIO GERENCIAL --------------Nß Relat¢rio                                 CER00  Gerenc X                                000101  Relatorio Gerencial                     000099  Parametros                              0000-------------- MEIOS DE PAGAMENTO --------------Nß  Meio Pagamento         Valor Acumulado(  R$)00  DINHEIRO        (V)                     0,0001  TICKET          (V)                     0,0002  CONTRA VALE     (V)                     0,0003  CHEQUE          (V)                     0,0004  CARTAO          (V)                     0,0005  OUTRAS          (V)                     0,0006  PENDURA         (V)                     0,0007  A VISTA                                 0,0008  AVISTA                                  0,0009  CREDITO POS                             0,0010  DEBITO POS                              0,0011  TEF                                     0,3020  Dinheiro                                0,00TROCO                                       0,00------------------------------------------------Comprovante N∆o Emitido:                    0000Tempo Emitindo Doc. Fiscal:             00:00:47Tempo Operacional:                      18:28:55Qtd. Reduá‰es Restantes:                    2113N£mero sÇrie MFD:                      911029681E0!------------------------------------------------pRh>XT!$222-=Y/@S!#9=S/>&hhS!RX/$R2b#9~XhYXT!=#*ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIAOSGS          24/06/2015 22:54:31 E1FAB:EL051100000000004488                  E0
+ZPMCS=9BA0BD27
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+12/07/2015 09:40:20                   E1COO:001260E0         !(  LEITURA  X!
+------------------ CONTADORES ------------------Geral de Operaá∆o N∆o-Fiscal:             000261Contador de Rein°cio de Operaá∆o:            001Contador de Reduá‰es Z:                     0127Contador de Cupom Fiscal:                 000608Contador de Fita-Detalhe:                 000000Comprovante de CrÇdito ou DÇbito:           0000Geral de Relat¢rio Gerencial:             000060Geral Oper. N∆o-Fiscal Canc.:               0000Cupom Fiscal Cancelado:                     0000---------------- TOTALIZADORES -----------------TOTALIZADOR GERAL:                     20.196,36VENDA BRUTA DIµRIA:                         0,00CANCELAMENTO ICMS:                          0,00DESCONTO ICMS:                              0,00TOTAL DE ISSQN:                             0,00CANCELAMENTO ISSQN:                         0,00DESCONTO ISSQN:                             0,00                                  --------------VENDA L÷QUIDA:                              0,00ACRêSCIMO ICMS:                             0,00ACRêSCIMO ISSQN:                            0,00--------------------- ICMS ---------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)00T18,00%                 0,00              0,0001T01,80%                 0,00              0,0002T17,00%                 0,00              0,0003T02,60%                 0,00              0,0004T03,20%                 0,00              0,0005T07,00%                 0,00              0,0006T12,00%                 0,00              0,0009T08,40%                 0,00              0,0010T00,00%                 0,00              0,00                   -----------------------------Total ICMS:               0,00              0,00N∆o Tributados            Valor Acumulado (  R$)F1=                                         0,00I1=                                         0,00N1=                                         0,00-------------------  ISSQN  --------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)07S03,00%                 0,00              0,0008S05,00%                 0,00              0,00                   -----------------------------Total ISSQN:              0,00              0,00N∆o Tributados            Valor Acumulado (  R$)FS1=                                        0,00IS1=                                        0,00NS1=                                        0,00---------- TOTALIZADORES N«O FISCAIS -----------Nß Operaá∆o           CON  Valor Acumulado(  R$)00 Sangria               0000               0,0001 Suprimento            0000               0,00                                  --------------Total Oper N∆o-Fiscais                      0,00ACRE N«O-FISC                               0,00DESC N«O-FISC                               0,00CANC N«O-FISC                               0,00------------- RELAT‡RIO GERENCIAL --------------Nß Relat¢rio                                 CER00  Gerenc X                                000001  Relatorio Gerencial                     000099  Parametros                              0000-------------- MEIOS DE PAGAMENTO --------------Nß  Meio Pagamento         Valor Acumulado(  R$)00  DINHEIRO        (V)                     0,0001  TICKET          (V)                     0,0002  CONTRA VALE     (V)                     0,0003  CHEQUE          (V)                     0,0004  CARTAO          (V)                     0,0005  OUTRAS          (V)                     0,0006  PENDURA         (V)                     0,0007  A VISTA                                 0,0008  AVISTA                                  0,0009  CREDITO POS                             0,0010  DEBITO POS                              0,0011  TEF                                     0,0020  Dinheiro                                0,00TROCO                                       0,00------------------------------------------------Comprovante N∆o Emitido:                    0000Tempo Emitindo Doc. Fiscal:             00:00:00Tempo Operacional:                      26:22:09Qtd. Reduá‰es Restantes:                    2113N£mero sÇrie MFD:                      911029681E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIAOSGS          12/07/2015 09:40:21 E1FAB:EL051100000000004488                  E0
+ZPMCS=0720A4AE
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+12/07/2015 09:41:46                   E1COO:001261E0E1             LEITURA MEMORIA FISCALE0
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIAOSGS          12/07/2015 09:41:49 E1FAB:EL051100000000004488                  E0
+ZPMCS=3B318AD2
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+12/07/2015 09:41:49   CCF:000609      E1COO:001262E0!(    CUPOM FISCAL!
+ITEM C‡DIGO       DESCRIÄ«O
+QTD.   UN.   VL.UNIT(  R$) ST IAT  VL.ITEM(  R$)------------------------------------------------!1 1 AMERICANA G 1Un T05 A                          40,90∞!
+!2 2 AMORE MIO G 1Un T05 A                          40,90∞!
+                                ----------------E1Subtotal   R$                             81,80E0
+acrÇscimo   10,00%                         8,18∞------------------------------------------------!(TOTAL   R$!                 89,98
+Dinheiro                                  100,00E1              CUPOM FISCAL CANCELADOE0
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICICPSGM          12/07/2015 09:44:39 E1FAB:EL051100000000004488                  E0
+ZPMCS=44BAF3AA
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+12/07/2015 09:45:27   CCF:000610      E1COO:001263E0!(    CUPOM FISCAL!
+ITEM C‡DIGO       DESCRIÄ«O
+QTD.   UN.   VL.UNIT(  R$) ST IAT  VL.ITEM(  R$)------------------------------------------------!1 1 AMERICANA G 1Un T05 A                          40,90∞!
+!2 2 AMORE MIO G 1Un T05 A                          40,90∞!
+                                ----------------E1Subtotal   R$                             81,80E0
+acrÇscimo   10,00%                         8,18∞------------------------------------------------!(TOTAL   R$!                 89,98
+Dinheiro                                  100,00
+E1 FALTA DE ENERGIA-RETORNO: 12/07/2015 19:58:00 E0
+E1              CUPOM FISCAL CANCELADOE0
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIGESGC          12/07/2015 19:58:09 E1FAB:EL051100000000004488                  E0
+ZPMCS=64D2FFA1
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+12/07/2015 19:59:03                   E1COO:001264E0         !(  LEITURA  X!
+------------------ CONTADORES ------------------Geral de Operaá∆o N∆o-Fiscal:             000261Contador de Rein°cio de Operaá∆o:            001Contador de Reduá‰es Z:                     0127Contador de Cupom Fiscal:                 000610Contador de Fita-Detalhe:                 000000Comprovante de CrÇdito ou DÇbito:           0000Geral de Relat¢rio Gerencial:             000060Geral Oper. N∆o-Fiscal Canc.:               0000Cupom Fiscal Cancelado:                     0002---------------- TOTALIZADORES -----------------TOTALIZADOR GERAL:                     20.376,32VENDA BRUTA DIµRIA:                       179,96CANCELAMENTO ICMS:                        179,96DESCONTO ICMS:                              0,00TOTAL DE ISSQN:                             0,00CANCELAMENTO ISSQN:                         0,00DESCONTO ISSQN:                             0,00                                  --------------VENDA L÷QUIDA:                              0,00ACRêSCIMO ICMS:                             0,00ACRêSCIMO ISSQN:                            0,00--------------------- ICMS ---------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)00T18,00%                 0,00              0,0001T01,80%                 0,00              0,0002T17,00%                 0,00              0,0003T02,60%                 0,00              0,0004T03,20%                 0,00              0,0005T07,00%                 0,00              0,0006T12,00%                 0,00              0,0009T08,40%                 0,00              0,0010T00,00%                 0,00              0,00                   -----------------------------Total ICMS:               0,00              0,00N∆o Tributados            Valor Acumulado (  R$)F1=                                         0,00I1=                                         0,00N1=                                         0,00-------------------  ISSQN  --------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)07S03,00%                 0,00              0,0008S05,00%                 0,00              0,00                   -----------------------------Total ISSQN:              0,00              0,00N∆o Tributados            Valor Acumulado (  R$)FS1=                                        0,00IS1=                                        0,00NS1=                                        0,00---------- TOTALIZADORES N«O FISCAIS -----------Nß Operaá∆o           CON  Valor Acumulado(  R$)00 Sangria               0000               0,0001 Suprimento            0000               0,00                                  --------------Total Oper N∆o-Fiscais                      0,00ACRE N«O-FISC                               0,00DESC N«O-FISC                               0,00CANC N«O-FISC                               0,00------------- RELAT‡RIO GERENCIAL --------------Nß Relat¢rio                                 CER00  Gerenc X                                000001  Relatorio Gerencial                     000099  Parametros                              0000-------------- MEIOS DE PAGAMENTO --------------Nß  Meio Pagamento         Valor Acumulado(  R$)00  DINHEIRO        (V)                     0,0001  TICKET          (V)                     0,0002  CONTRA VALE     (V)                     0,0003  CHEQUE          (V)                     0,0004  CARTAO          (V)                     0,0005  OUTRAS          (V)                     0,0006  PENDURA         (V)                     0,0007  A VISTA                                 0,0008  AVISTA                                  0,0009  CREDITO POS                             0,0010  DEBITO POS                              0,0011  TEF                                     0,0020  Dinheiro                                0,00TROCO                                       0,00------------------------------------------------Comprovante N∆o Emitido:                    0000Tempo Emitindo Doc. Fiscal:             10:07:05Tempo Operacional:                      36:32:27Qtd. Reduá‰es Restantes:                    2113N£mero sÇrie MFD:                      911029681E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIGESGC          12/07/2015 19:59:05 E1FAB:EL051100000000004488                  E0
+ZPMCS=C706A53D
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+12/07/2015 20:00:20                   E1COO:001265E0      !(  REDUÄ«O  Z!
+MOVIMENTO DO DIA:                     12/07/2015------------------ CONTADORES ------------------Geral de Operaá∆o N∆o-Fiscal:             000261Contador de Rein°cio de Operaá∆o:            001Contador de Reduá‰es Z:                     0128Contador de Cupom Fiscal:                 000610Contador de Fita-Detalhe:                 000000Comprovante de CrÇdito ou DÇbito:           0000Geral de Relat¢rio Gerencial:             000060Geral Oper. N∆o-Fiscal Canc.:               0000Cupom Fiscal Cancelado:                     0002---------------- TOTALIZADORES -----------------TOTALIZADOR GERAL:                     20.376,32VENDA BRUTA DIµRIA:                       179,96CANCELAMENTO ICMS:                        179,96DESCONTO ICMS:                    ***********,**TOTAL DE ISSQN:                   ***********,**CANCELAMENTO ISSQN:               ***********,**DESCONTO ISSQN:                   ***********,**                                  --------------VENDA L÷QUIDA:                   ************,**ACRêSCIMO ICMS:                   ***********,**ACRêSCIMO ISSQN:                  ***********,**--------------------- ICMS ---------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)00T18,00%                 0,00              0,0001T01,80%                 0,00              0,0002T17,00%                 0,00              0,0003T02,60%                 0,00              0,0004T03,20%                 0,00              0,0005T07,00%                 0,00              0,0006T12,00%                 0,00              0,0009T08,40%                 0,00              0,0010T00,00%                 0,00              0,00                   -----------------------------Total ICMS:               0,00              0,00N∆o Tributados            Valor Acumulado (  R$)F1=                                         0,00I1=                                         0,00N1=                                         0,00-------------------  ISSQN  --------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)07S03,00%                 0,00              0,0008S05,00%                 0,00              0,00                   -----------------------------Total ISSQN:              0,00              0,00N∆o Tributados            Valor Acumulado (  R$)FS1=                                        0,00IS1=                                        0,00NS1=                                        0,00---------- TOTALIZADORES N«O FISCAIS -----------Nß Operaá∆o           CON  Valor Acumulado(  R$)00 Sangria               0000               0,0001 Suprimento            0000               0,00                                  --------------Total Oper N∆o-Fiscais                      0,00ACRE N«O-FISC                               0,00DESC N«O-FISC                               0,00CANC N«O-FISC                               0,00------------- RELAT‡RIO GERENCIAL --------------Nß Relat¢rio                                 CER00  Gerenc X                                000001  Relatorio Gerencial                     000099  Parametros                              0000-------------- MEIOS DE PAGAMENTO --------------Nß  Meio Pagamento         Valor Acumulado(  R$)00  DINHEIRO        (V)                     0,0001  TICKET          (V)                     0,0002  CONTRA VALE     (V)                     0,0003  CHEQUE          (V)                     0,0004  CARTAO          (V)                     0,0005  OUTRAS          (V)                     0,0006  PENDURA         (V)                     0,0007  A VISTA                                 0,0008  AVISTA                                  0,0009  CREDITO POS                             0,0010  DEBITO POS                              0,0011  TEF                                     0,0020  Dinheiro                                0,00TROCO                                       0,00------------------------------------------------Comprovante N∆o Emitido:                    0000Tempo Emitindo Doc. Fiscal:             10:07:05Tempo Operacional:                      36:33:39Qtd. Reduá‰es Restantes:                    2112N£mero sÇrie MFD:                      911029681E0!------------------------------------------------T=9#YRb2w&pS&@hbh+h2w>Y*!Y=pp>*&-#*-b&XXK>@RR@#2ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIGESGC          12/07/2015 20:00:25 E1FAB:EL051100000000004488                  E0
+ZPMCS=A9EEBE01
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+27/07/2015 11:36:42                   E1COO:001266E0         !(  LEITURA  X!
+------------------ CONTADORES ------------------Geral de Operaá∆o N∆o-Fiscal:             000261Contador de Rein°cio de Operaá∆o:            001Contador de Reduá‰es Z:                     0128Contador de Cupom Fiscal:                 000610Contador de Fita-Detalhe:                 000000Comprovante de CrÇdito ou DÇbito:           0000Geral de Relat¢rio Gerencial:             000060Geral Oper. N∆o-Fiscal Canc.:               0000Cupom Fiscal Cancelado:                     0000---------------- TOTALIZADORES -----------------TOTALIZADOR GERAL:                     20.376,32VENDA BRUTA DIµRIA:                         0,00CANCELAMENTO ICMS:                          0,00DESCONTO ICMS:                              0,00TOTAL DE ISSQN:                             0,00CANCELAMENTO ISSQN:                         0,00DESCONTO ISSQN:                             0,00                                  --------------VENDA L÷QUIDA:                              0,00ACRêSCIMO ICMS:                             0,00ACRêSCIMO ISSQN:                            0,00--------------------- ICMS ---------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)00T18,00%                 0,00              0,0001T01,80%                 0,00              0,0002T17,00%                 0,00              0,0003T02,60%                 0,00              0,0004T03,20%                 0,00              0,0005T07,00%                 0,00              0,0006T12,00%                 0,00              0,0009T08,40%                 0,00              0,0010T00,00%                 0,00              0,00                   -----------------------------Total ICMS:               0,00              0,00N∆o Tributados            Valor Acumulado (  R$)F1=                                         0,00I1=                                         0,00N1=                                         0,00-------------------  ISSQN  --------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)07S03,00%                 0,00              0,0008S05,00%                 0,00              0,00                   -----------------------------Total ISSQN:              0,00              0,00N∆o Tributados            Valor Acumulado (  R$)FS1=                                        0,00IS1=                                        0,00NS1=                                        0,00---------- TOTALIZADORES N«O FISCAIS -----------Nß Operaá∆o           CON  Valor Acumulado(  R$)00 Sangria               0000               0,0001 Suprimento            0000               0,00                                  --------------Total Oper N∆o-Fiscais                      0,00ACRE N«O-FISC                               0,00DESC N«O-FISC                               0,00CANC N«O-FISC                               0,00------------- RELAT‡RIO GERENCIAL --------------Nß Relat¢rio                                 CER00  Gerenc X                                000001  Relatorio Gerencial                     000099  Parametros                              0000-------------- MEIOS DE PAGAMENTO --------------Nß  Meio Pagamento         Valor Acumulado(  R$)00  DINHEIRO        (V)                     0,0001  TICKET          (V)                     0,0002  CONTRA VALE     (V)                     0,0003  CHEQUE          (V)                     0,0004  CARTAO          (V)                     0,0005  OUTRAS          (V)                     0,0006  PENDURA         (V)                     0,0007  A VISTA                                 0,0008  AVISTA                                  0,0009  CREDITO POS                             0,0010  DEBITO POS                              0,0011  TEF                                     0,0020  Dinheiro                                0,00TROCO                                       0,00------------------------------------------------Comprovante N∆o Emitido:                    0000Tempo Emitindo Doc. Fiscal:             00:00:00Tempo Operacional:                      00:20:18Qtd. Reduá‰es Restantes:                    2112N£mero sÇrie MFD:                      911029681E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIGESGC          27/07/2015 11:36:44 E1FAB:EL051100000000004488                  E0
+ZPMCS=4A1CA49C
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+26/11/2015 10:14:54                   E1COO:001267E0         !(  LEITURA  X!
+------------------ CONTADORES ------------------Geral de Operaá∆o N∆o-Fiscal:             000261Contador de Rein°cio de Operaá∆o:            001Contador de Reduá‰es Z:                     0128Contador de Cupom Fiscal:                 000610Contador de Fita-Detalhe:                 000000Comprovante de CrÇdito ou DÇbito:           0000Geral de Relat¢rio Gerencial:             000060Geral Oper. N∆o-Fiscal Canc.:               0000Cupom Fiscal Cancelado:                     0000---------------- TOTALIZADORES -----------------TOTALIZADOR GERAL:                     20.376,32VENDA BRUTA DIµRIA:                         0,00CANCELAMENTO ICMS:                          0,00DESCONTO ICMS:                              0,00TOTAL DE ISSQN:                             0,00CANCELAMENTO ISSQN:                         0,00DESCONTO ISSQN:                             0,00                                  --------------VENDA L÷QUIDA:                              0,00ACRêSCIMO ICMS:                             0,00ACRêSCIMO ISSQN:                            0,00--------------------- ICMS ---------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)00T18,00%                 0,00              0,0001T01,80%                 0,00              0,0002T17,00%                 0,00              0,0003T02,60%                 0,00              0,0004T03,20%                 0,00              0,0005T07,00%                 0,00              0,0006T12,00%                 0,00              0,0009T08,40%                 0,00              0,0010T00,00%                 0,00              0,00                   -----------------------------Total ICMS:               0,00              0,00N∆o Tributados            Valor Acumulado (  R$)F1=                                         0,00I1=                                         0,00N1=                                         0,00-------------------  ISSQN  --------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)07S03,00%                 0,00              0,0008S05,00%                 0,00              0,00                   -----------------------------Total ISSQN:              0,00              0,00N∆o Tributados            Valor Acumulado (  R$)FS1=                                        0,00IS1=                                        0,00NS1=                                        0,00---------- TOTALIZADORES N«O FISCAIS -----------Nß Operaá∆o           CON  Valor Acumulado(  R$)00 Sangria               0000               0,0001 Suprimento            0000               0,00                                  --------------Total Oper N∆o-Fiscais                      0,00ACRE N«O-FISC                               0,00DESC N«O-FISC                               0,00CANC N«O-FISC                               0,00------------- RELAT‡RIO GERENCIAL --------------Nß Relat¢rio                                 CER00  Gerenc X                                000001  Relatorio Gerencial                     000099  Parametros                              0000-------------- MEIOS DE PAGAMENTO --------------Nß  Meio Pagamento         Valor Acumulado(  R$)00  DINHEIRO        (V)                     0,0001  TICKET          (V)                     0,0002  CONTRA VALE     (V)                     0,0003  CHEQUE          (V)                     0,0004  CARTAO          (V)                     0,0005  OUTRAS          (V)                     0,0006  PENDURA         (V)                     0,0007  A VISTA                                 0,0008  AVISTA                                  0,0009  CREDITO POS                             0,0010  DEBITO POS                              0,0011  TEF                                     0,0020  Dinheiro                                0,00TROCO                                       0,00------------------------------------------------Comprovante N∆o Emitido:                    0000Tempo Emitindo Doc. Fiscal:             00:00:00Tempo Operacional:                     904:19:49Qtd. Reduá‰es Restantes:                    2112N£mero sÇrie MFD:                      911029681E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIGESGC          26/11/2015 10:14:56 E1FAB:EL051100000000004488                  E0
+ZPMCS=050DA4B6
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+26/11/2015 10:18:40                   E1COO:001268E0E1             LEITURA MEMORIA FISCALE0
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIGESGC          26/11/2015 10:18:42 E1FAB:EL051100000000004488                  E0
+ZPMCS=2E1A8AB0
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+26/11/2015 10:18:43   CCF:000611      E1COO:001269E0!(    CUPOM FISCAL!
+ITEM C‡DIGO       DESCRIÄ«O
+QTD.   UN.   VL.UNIT(  R$) ST IAT  VL.ITEM(  R$)------------------------------------------------1 7891025114758 LEITE FERMENT DUNUP DANONE MORANGO 900 G
+     1,000Un x       7,30 T00  A           7,30∞2 7898928865541 CREME PENTEAR OSTRA 300 ML           1,000Un x       5,70 T00  A           5,70∞------------------------------------------------!(TOTAL   R$!                 13,00
+Dinheiro                                   20,00TROCO     R$                                7,00T00=18,00% 
+------------------------------------------------REALSOFT - OBRIGADO E VOLTE SEMPRE 
+E0!------------------------------------------------K>hh#~+T9KS9$+-ww+!K~>x/>x+>K*!b=@KKXwY>#xXS#-TXELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIGPOGC          26/11/2015 10:18:56 E1FAB:EL051100000000004488                  E0
+ZPMCS=000102EA
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+26/11/2015 15:35:38   CCF:000612      E1COO:001270E0!(    CUPOM FISCAL!
+ITEM C‡DIGO       DESCRIÄ«O
+QTD.   UN.   VL.UNIT(  R$) ST IAT  VL.ITEM(  R$)------------------------------------------------!1 7816931900158 BLOCO DE ANOTACOES  1Un T00 A       6,00∞!
+------------------------------------------------!(TOTAL   R$!                  6,00
+Dinheiro                                    0,10E1              CUPOM FISCAL CANCELADOE0
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIGOUGC          26/11/2015 15:36:09 E1FAB:EL051100000000004488                  E0
+ZPMCS=7581CF57
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+26/11/2015 15:36:22   CCF:000613      E1COO:001271E0!(    CUPOM FISCAL!
+ITEM C‡DIGO       DESCRIÄ«O
+QTD.   UN.   VL.UNIT(  R$) ST IAT  VL.ITEM(  R$)------------------------------------------------1 7891095106356 REFRESCO YOKI TANGERINA 1 KG         1,000Un x       5,40 T00  A           5,40∞------------------------------------------------!(TOTAL   R$!                  5,40
+Dinheiro                                    5,40T00=18,00% 
+------------------------------------------------REALSOFT - OBRIGADO E VOLTE SEMPRE 
+E0!------------------------------------------------RK+RX~&-K-R>/ppS=ST+#*#KRRX@pKxT+$!XKTR&~2+#-=#!ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIMIIEC          26/11/2015 15:36:32 E1FAB:EL051100000000004488                  E0
+ZPMCS=EF14E470
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+26/11/2015 15:36:37                   E1COO:001272E0         !(  LEITURA  X!
+------------------ CONTADORES ------------------Geral de Operaá∆o N∆o-Fiscal:             000261Contador de Rein°cio de Operaá∆o:            001Contador de Reduá‰es Z:                     0128Contador de Cupom Fiscal:                 000613Contador de Fita-Detalhe:                 000000Comprovante de CrÇdito ou DÇbito:           0000Geral de Relat¢rio Gerencial:             000060Geral Oper. N∆o-Fiscal Canc.:               0000Cupom Fiscal Cancelado:                     0001---------------- TOTALIZADORES -----------------TOTALIZADOR GERAL:                     20.400,72VENDA BRUTA DIµRIA:                        24,40CANCELAMENTO ICMS:                          6,00DESCONTO ICMS:                              0,00TOTAL DE ISSQN:                             0,00CANCELAMENTO ISSQN:                         0,00DESCONTO ISSQN:                             0,00                                  --------------VENDA L÷QUIDA:                             18,40ACRêSCIMO ICMS:                             0,00ACRêSCIMO ISSQN:                            0,00--------------------- ICMS ---------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)00T18,00%                18,40              3,3101T01,80%                 0,00              0,0002T17,00%                 0,00              0,0003T02,60%                 0,00              0,0004T03,20%                 0,00              0,0005T07,00%                 0,00              0,0006T12,00%                 0,00              0,0009T08,40%                 0,00              0,0010T00,00%                 0,00              0,00                   -----------------------------Total ICMS:              18,40              3,31N∆o Tributados            Valor Acumulado (  R$)F1=                                         0,00I1=                                         0,00N1=                                         0,00-------------------  ISSQN  --------------------Totalizador   Base C†lculo(  R$)   Imposto(  R$)07S03,00%                 0,00              0,0008S05,00%                 0,00              0,00                   -----------------------------Total ISSQN:              0,00              0,00N∆o Tributados            Valor Acumulado (  R$)FS1=                                        0,00IS1=                                        0,00NS1=                                        0,00---------- TOTALIZADORES N«O FISCAIS -----------Nß Operaá∆o           CON  Valor Acumulado(  R$)00 Sangria               0000               0,0001 Suprimento            0000               0,00                                  --------------Total Oper N∆o-Fiscais                      0,00ACRE N«O-FISC                               0,00DESC N«O-FISC                               0,00CANC N«O-FISC                               0,00------------- RELAT‡RIO GERENCIAL --------------Nß Relat¢rio                                 CER00  Gerenc X                                000001  Relatorio Gerencial                     000099  Parametros                              0000-------------- MEIOS DE PAGAMENTO --------------Nß  Meio Pagamento         Valor Acumulado(  R$)00  DINHEIRO        (V)                     0,0001  TICKET          (V)                     0,0002  CONTRA VALE     (V)                     0,0003  CHEQUE          (V)                     0,0004  CARTAO          (V)                     0,0005  OUTRAS          (V)                     0,0006  PENDURA         (V)                     0,0007  A VISTA                                 0,0008  AVISTA                                  0,0009  CREDITO POS                             0,0010  DEBITO POS                              0,0011  TEF                                     0,0020  Dinheiro                               25,40TROCO                                       7,00------------------------------------------------Comprovante N∆o Emitido:                    0000Tempo Emitindo Doc. Fiscal:             00:00:54Tempo Operacional:                     909:41:32Qtd. Reduá‰es Restantes:                    2112N£mero sÇrie MFD:                      911029681E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIMIIEC          26/11/2015 15:36:39 E1FAB:EL051100000000004488                  E0
+ZPMCS=F8ABA568
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+26/11/2015 15:37:01                   E1COO:001273E0E1             LEITURA MEMORIA FISCALE0
+E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIMIIEC          26/11/2015 15:37:08 E1FAB:EL051100000000004488                  E0
+ZPMCS=2EAD8AB5
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+26/11/2015 15:38:26   CCF:000614      E1COO:001274E0!(    CUPOM FISCAL!
+ITEM C‡DIGO       DESCRIÄ«O
+QTD.   UN.   VL.UNIT(  R$) ST IAT  VL.ITEM(  R$)------------------------------------------------1 7896094908642 HIDRATANTE MONAGE FINAL FANTASTIC 200 ML
+     1,000Un x       4,99 T00  A           4,99∞------------------------------------------------!(TOTAL   R$!                  4,99
+Dinheiro                                    5,00TROCO     R$                                0,01T00=18,00% 
+------------------------------------------------REALSOFT - OBRIGADO E VOLTE SEMPRE 
+E0!-------------------------------------------------R#S2+*&TR$-*=YRR#*x-&9>Yh&9SRx/&=#@K=S/K#wp+wb*ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIMIUEA          26/11/2015 15:38:38 E1FAB:EL051100000000004488                  E0
+ZPMCS=ECF2EE21
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------!(    FITA-DETALHE!
+Emiss∆o:26/11/2015 15:40 Di=01012015 Df=26112015
+26/11/2015 15:39:37   CCF:000614      E1COO:001275E0!(    CUPOM FISCAL
+    CANCELAMENTO!
+
+Cancelamento de Cupom Fiscal(CCF):        000614COO do Cupom Fiscal cancelado:            001274Valor total da operacao   R$                4,99Quantidade de CCD cancelados:             000000E0!------------------------------------------------ELGIN      K                     ECF-IF
+VERS«O:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIMIUEA          26/11/2015 15:39:37 E1FAB:EL051100000000004488                  E0
+ZPMCS=D3F9BF74
