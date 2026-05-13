@@ -1,0 +1,57 @@
+      PRESTSERV SOLUCAO EM INFORMATICA LTDA
+         IMPRESSORA PARA DESENVOLVIMENTO
+        RUA DA CONSOLACAO, 3367 - CONJ 93
+         CERQUEIR CESAR - SAO PAULO - SP
+CNPJ:   02.143.500/0001-08
+IE  :                 1111
+IM  :                 1111
+------------------------------------------------
+26/11/2015 18:03:20                   COO:001281
+             LEITURA MEMORIA FISCAL
+         DATA: 26/11/2015 a 26/11/2015
+Contador Geral de Opera‡ão Não-Fiscal:    000261
+Contador de Redu‡äes Z:                     0128
+Contador de Rein¡cio de Opera‡ão:            001
+Contador de Fita-Detalhe:                 000000
+               REINICIO OPERAÇÃO
+CRO  DATA       HORA
+001# 16/09/2011 16:09:41 
+             IMPRESSÃO FITA DETALHE
+ CFD      DATA     HORA      COOi   COOf
+                    USUÁRIOS
+Usuario:01  CRO:001  21/11/2008  09:07:08 
+CNPJ:   02.143.500/0001-08
+IE:                   1111
+IM:                   1111
+GT:              20.405,71
+                REDUÇÕES DIÁRIAS
+                  USUÁRIO: 01
+CRZ  CRO   COO            DATA       HORA
+                      VENDA BRUTA DIÁRIA (  R$)
+DT=desconto ICMS DS=desconto ISSQN AT=acr‚s ICMS
+AS=acr‚scimo ISSQN  CT=cancelamento ICMS
+CS=cancelamento ISSQN  ON=opera‡ão não-fiscal
+------------------------------------------------
+Total do per¡odo:
+Venda Bruta (  R$)                          0,00
+DT=                 0,00 AT=                0,00
+AS=                 0,00 CT=                0,00
+CS=                 0,00 F1=                0,00
+I1=                 0,00 N1=                0,00
+FS1=                0,00 IS1=               0,00
+NS1=                0,00 ON=                0,00
+N£mero de Redu‡äes Restantes:               2112
+                  DADOS GERAIS
+SOFTWARE BÁSICO:
+01.00.04 01/10/2008   08:00:05 
+01.00.05 21/11/2008   09:07:08 
+MOEDA:R$   01/07/2008 12:00:00
+MFD: 911029681  
+CODIFICAÇÃO GT:
+a partir de 21/11/2008 09:07:08 
+0=I, 1=A, 2=C, 3=G, 4=M, 5=U, 6=S, 7=E, 8=P, 9=O
+------------------------------------------------
+ELGIN      K                     ECF-IF
+VERSÃO:01.00.05 ECF:001 LJ:0001 OPR:
+IIIIIIIIIIICIMIUEA          26/11/2015 18:03:21 
+FAB:EL051100000000004488                  

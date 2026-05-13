@@ -1,0 +1,33 @@
+     FECHAMENTO DO DIA - VIA FISCAL
+ ----------------------------------------------
+ DATA FECHAMENTO 17/07/2015 00:43:59
+ ----------------------------------------------
+
+
+
+  MOVIMENTACAO    VALOR          RETIRADA
+
+
+  DINHEIRO      0,0000        0,0000
+  CREDITO       0,0000        0,0000
+  DEBITO        0,0000        0,0000
+  CARTAO LOJA   0,0000        0,0000
+  CHEQUE        0,0000        0,0000
+  CREDITO POS   0,0000        0,0000
+  DEBITO POS    0,0000        0,0000
+  TICKET        0,0000        0,0000
+  DINHEIRO      0,0000        0,0000
+  CREDITO       0,0000        0,0000
+  DEBITO        0,0000        0,0000
+  CARTAO LOJA   0,0000        0,0000
+  CHEQUE        0,0000        0,0000
+  CREDITO POS   0,0000        0,0000
+  DEBITO POS    0,0000        0,0000
+  TICKET        0,0000        0,0000
+
+
+ Fundo de Troco:    0,00 +    Venda Bruta: 0,00 =    0,00
+
+ ----------------------------------------------
+
+                    ASSINATURA
